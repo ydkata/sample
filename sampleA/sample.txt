@@ -1,0 +1,1758 @@
+#Redirect [[Alexandre de Rhodes]]
+{| id="mp-topbanner" style="width: 100%; margin-top: 2px; background: transparent;"
+| style="border: 1px solid #CCCCCC; background: #ffffff; vertical-align: top;" | {{Trang Chính/Đầu trang}}
+|}<!-------------------- Bên trái -------------------->
+{| id="mp-upper" style="margin-top: 2px; background: none"
+| id="mp-left" style="width: 50%; border: 1px solid #d4d4d4; background: #ffffff; vertical-align: top; color: #000000;" |
+{| style="padding: 2px; width: 100%; vertical-align: top; background: #ffffff"
+! id="mp-tfa-head" | <div style="position: absolute; margin-top: -5px; margin-left: 5px;">[[Tập tin:Emblem-star.svg|40px|link=|alt=]]</div><div style="margin: 0; background: #cedff2; font-family: inherit; font-size: 120%; text-align: left; font-weight: bold; border: 1px solid #5897dd; padding: 0;"><div id="mp-tfa-h2" style="margin-left: 50px;">[[Wikipedia:Bài viết chọn lọc|<span style="color: #000000;">Bài viết chọn lọc</span>]]</div></div>
+|-
+| id="mp-tfa" style="color: #000000; font-size: 100%; padding: 6px;" | {{Trang Chính/Bài viết}} 
+|-
+! id="mp-tfp-head" | <div style="position: absolute; margin-top: -5px; margin-left: 5px;">[[Tập tin:Records.svg|40px|link=|alt=]]</div><div style="margin: 0; background: #ccfcf9; font-family: inherit; font-size: 120%; text-align: left; font-weight: bold; border: 1px solid #4ccbc3; padding: 0;"><div id="mp-tfp-h2" style="margin-left: 50px;">[[Wikipedia:Hình ảnh chọn lọc|<span style="color: #000000;">Hình ảnh chọn lọc</span>]]</div></div>
+|-
+| id="mp-tfp" style="color: #000000; font-size: 100%; padding: 6px;" | {{Trang Chính/Hình ảnh}}
+|-
+! id="mp-lang-head" | <div style="position: absolute; margin-top: -5px; margin-left: 5px;">[[Tập tin:Preferences-desktop-locale-2.svg|40px|link=|alt=]]</div><div style="margin: 0; background: #c7ec9f; font-family: inherit; font-size: 120%; text-align: left; font-weight: bold; border: 1px solid #32cd32; padding: 0;"><div id="mp-lang-h2" style="margin-left: 50px;">[[Wikipedia:Phiên bản ngôn ngữ|<span style="color: #000000;">Wikipedia ngôn ngữ khác</span>]]</div></div>
+|-
+| id="mp-lang" style="color: #000000; font-size: 100%; padding: 6px;" | {{Trang Chính/Các ngôn ngữ|liên wiki=có}}
+|}
+| id="mp-right" style="margin-top: 2px; background: none" | <!-------------------- Bên phải -------------------->
+|  style="width: 50%; border: 1px solid #d4d4d4; background: #FFFFFF; vertical-align: top;" |
+{| style="width: 100%; padding: 2px; vertical-align: top; background: #FFFFFF"
+! id="mp-dyk-head" | <div style="position: absolute; margin-top: -5px; margin-left: 5px;">[[Tập tin:Help-browser-red.svg|38px|link=|alt=]]</div><div style="margin: 0; background: #f2c3c4; font-family: inherit; font-size: 120%; text-align: left; font-weight: bold; border: 1px solid #e05f62; padding: 0;"><div id="mp-dyk-h2" style="margin-left: 50px;">[[Wikipedia:Bạn có biết|<span style="color: #000000;">Bạn có biết…</span>]]</div></div>
+|-
+| id="mp-dyk" style="color: #000000; font-size: 100%; padding: 6px;" | {{Trang Chính/Bạn có biết}}
+|- 
+! id="mp-itn-head" | <div style="position: absolute; margin-top: -5px; margin-left: 5px;">[[Tập tin:Globe-with-clock.svg|40px|link=|alt=]]</div><div style="margin: 0; background: #ffd6c0; font-family: inherit; font-size: 120%; text-align: left; font-weight: bold; border: 1px solid #e68d5d; padding: 0;"><div id="mp-itn-h2" style="margin-left: 50px;">[[Chủ đề:Thời sự|<span style="color: #000000;">Tin tức</span>]]</div></div>
+|-
+| id="mp-itn" style="color: #000000; font-size: 100%; padding: 6px;" | {{Trang Chính/Tin tức}}
+|-
+! id="mp-otd-head" | <div style="position: absolute; margin-top: -8px; margin-left: 4px;">[[Tập tin:Office-calendar-modified.svg|45px|link=|alt=]]</div><div style="margin: 0; background: #f9f09f; font-family: inherit; font-size: 120%; text-align: left; font-weight: bold; border: 1px solid #daa520; padding: 0;"><div id="mp-otd-h2" style="margin-left: 50px;">[[Wikipedia:Ngày này năm xưa|<span style="color: #000000;">Ngày này năm xưa</span>]]</div></div>
+|-
+| id="mp-otd" style="color: #000000; font-size: 100%; padding: 6px;" | {{Trang Chính/Ngày này năm xưa}}
+|-
+! <div style="position: absolute; margin-top: -6px; margin-left: 4px;">[[Tập tin:Gnome-colors-applications-office.svg|44px|link=|alt=]]</div><div style="margin: 0; background: #dbca7e; font-family: inherit; font-size: 120%; text-align: left; font-weight: bold; border: 1px solid #d08d4d; padding: 0;"><div style="margin-left: 50px;">[[Wikipedia:Chủ đề|<span style="color: #000000;">Các lĩnh vực</span>]]</div></div>
+|-
+| style="color: #000000; font-size: 100%; padding: 6px;" | {{Trang Chính/Các lĩnh vực}}
+|}
+|}<!----------------- Dưới cùng -------------------->
+{| id="mp-lower" style="width: 100%; margin-top: 2px; background: none"
+| style="border: 1px solid #d4d4d4; background: #ffffff; vertical-align: middle; color: #000000;" |
+{| id="mp-bottom" style="width: 100%; padding: 2px; vertical-align: top; background: #ffffff"
+|-
+! id="mp-sister-head" | <div style="position: absolute; margin-top: -5px; margin-left: 5px;">[[Tập tin:Wikimedia-logo.svg|37px|link=|alt=]]</div><div style="margin: 0; background: #ccc1f3; font-family: inherit; font-size: 120%; text-align: left;font-weight: bold; border: 1px solid #7b68ee; padding: 0;"><div id="mp-sister-h2" style="margin-left: 46px;">Dự án liên quan</div></div>
+|-
+| id="mp-sister" style="color: #000000; font-size: 100%; padding: 6px;" | {{Trang Chính/Các dự án}}
+|}
+{| style="height: 50px; width: 100%; margin-top: 2px; background: none;"
+|-
+| style="width: 100%; border-top: 1px dotted #cccccc; background: #FFFFFF;" |
+{| style="width: 100%; vertical-align: middle; background: #FFFFFF; text-align: center; color: #000000;"
+|-
+| [[Tập tin:Mail-closed.svg|32px|link=]]&nbsp;&nbsp;[[Wikipedia:Liên lạc|Liên lạc với Wikipedia]]
+|}
+|}
+|}
+__NOTOC__ __NOEDITSECTION__
+{{noexternallanglinks}}
+
+[[Thể loại:Wikipedia]]
+{{Thông tin về tổ chức
+| tên = Internet Society<br>ISOC
+| hình = Internet Society logo and wordmark.png
+| cỡ = 250px
+| chú thích = Biểu trưng
+| khung hình = 
+| bản đồ = 
+| cỡ bản đồ = 
+| chú thích bản đồ = 
+| khẩu hiệu = 
+| formation = [[1992]]
+| giải tán = 
+| kiểu = [[Tổ chức phi chính phủ|Phi chính phủ]]
+| tình trạng = [[Tổ chức phi lợi nhuận|Phi lợi nhuận]]
+| mục đích = Đảm bảo, cổ vũ cho sự phát triển, mở rộng và sử dụng Internet
+| trụ sở = [[Reston, Virginia|Reston]], [[Quận Fairfax, Virginia|Fairfax]], [[Virginia]], [[Hoa Kỳ]]<ref>[https://www.internetsociety.org/who-we-are/contact-us Contact us]</ref>
+| địa điểm = Toàn cầu
+| thành viên = 65.000
+| ngôn ngữ = [[Tiếng Anh|Anh]], [[tiếng Pháp|Pháp]], [[tiếng Ý|Ý]], <br>[[tiếng Tây Ban Nha|Tây Ban Nha]], [[tiếng Hà Lan|Hà Lan]]
+| tổng thư ký = 
+| lãnh đạo = [[Chủ tịch]], [[Tổng giám đốc điều hành#CEO|CEO]]
+| tên lãnh đạo = Bà Lynn St. Amour<ref>[http://www.internetsociety.org/who-we-are/staff-and-advisors?id=31 Staff and Advisors: Ms. Lynn St Amour, President and CEO]</ref>
+| người quan trọng = Vint Cerf & Bob Kahn <br>(2 sáng lập viên)
+| ngân sách = 
+| số nhân viên = 
+| trang chủ = [http://www.internetsociety.org/ internetsociety.org]<br>[http://www.isoc-vn.org/www/index-vn.html isoc-vn.org]
+}}
+{{đổi hướng đến đây|ISOC}}
+'''Internet Society''' hay '''ISOC''' là một [[tổ chức quốc tế]] hoạt động [[Tổ chức phi lợi nhuận|phi lợi nhuận]], [[Tổ chức phi chính phủ|phi chính phủ]] và bao gồm các thành viên có [[trình độ chuyên ngành]]. Tổ chức này chú trọng đến: [[tiêu chuẩn]], [[giáo dục]] và các vấn đề về [[chính sách]]. Với trên 145 [[tổ chức thành viên]] và 65.000 [[thành viên cá nhân]], ISOC bao gồm những con người cụ thể trong [[cộng đồng]] [[Internet]]. Mọi chi tiết có thể tìm thấy tại website của ISOC.
+
+Internet Society nằm ở gần thủ đô Washington, DC, [[Hoa Kỳ]] và [[Genève|Geneva]], [[Thụy Sĩ]]. Số hội viên của nó bao gồm hơn 145 tổ chức thành viên và hơn 65.000 cá nhân. Thành viên còn có thể tự lập một chi nhánh của tổ chức tùy theo vị trí hoặc sở thích. Hiện nay tổ chức có tới 90 chi nhánh trên toàn thế giới.<ref name="isoc.org">[http://www.internetsociety.org/who-we-are Who We Are]: Partnerships and Expertise</ref>
+
+==Nhiệm vụ và mục đích hoạt động==
+Bảo đảm, cổ vũ cho [[sự phát triển]], mở rộng và sử dụng Internet được thuận lợi nhất cho mọi người trên toàn [[thế giới]].
+
+==Xem thêm==
+*[[Internet#Lịch sử Internet|Lịch sử Internet]]
+
+==Tham khảo==
+{{tham khảo|2}}
+==Liên kết ngoài==
+*[http://www.isoc-vn.org/www/index-vn.html ISOC Việt Nam]
+*[http://www.internetsociety.org/ Trang chủ toàn cầu]
+*[http://www.internetsociety.org/internet/what-internet/history-internet/ietf-and-internet-society ''IETF and the Internet Society'' - Về Internet Engineering Task Force và ISOC], bài của [[Vint Cerf]] 18/6/1995
+*[http://cybercrime-fr.org/ L’Association Internationale de Lutte Contre la Cybercriminalité] [http://web.archive.org/web/20070313155506/http://www.ailcc.org/ bản lưu]
+*[http://www.pir.org/ Public Interest Registry]
+{{Sơ khai}}
+{{Authority control}}
+
+[[Thể loại:Internet]]
+[[Thể loại:Tổ chức quốc tế]]
+[[Thể loại:Tổ chức phi lợi nhuận]]
+[[Thể loại:Chuẩn Internet]]
+#redirect [[Internet Society]]
+{{Tóm tắt về ngôn ngữ|
+ name = Tiếng Việt |
+ familycolor = Nam Á |
+ pronunciation = tiəŋ₃₅ vḭət₃₁ (miền Bắc)<br />tiəŋ₃₅ jḭək₃₁ (miền Nam) |
+ map = [[Tập tin:Color-coded Vietnamese language distribution world map counting from 10,000 user or above vector.svg|300px|Phân bố tiếng Việt tại các nước trên thế giới]]|
+ states = [[Việt Nam]], các nước có [[Việt kiều]] sinh sống như [[Hoa Kỳ]], [[Campuchia]], [[Lào]], [[Pháp]], [[Úc]], [[Canada]], [[Đài Loan]], [[Cộng hoà Séc]] |
+ speakers= 90 triệu người trở lên |
+ script = [[Chữ Nôm]] (ngày nay không còn sử dụng) <br /> [[Chữ Quốc ngữ|Quốc ngữ]] (từ năm 1945 - nay) |
+ agency= |
+ rank = [[Danh sách ngôn ngữ theo tổng số người sử dụng|13–17]] (như tiếng mẹ đẻ); tương đương với [[tiếng Triều Tiên]], [[Tiếng Telugu|Telugu]], [[Tiếng Marathi|Marathi]] và [[Tiếng Tamil|Tamil]] |
+ fam1 = [[Hệ ngôn ngữ Nam Á|Hệ Nam Á]]<ref name="Tranh luận">Có người tranh luận là nhánh Việt-Mường là nhánh [[Ngôn ngữ tách biệt|tách biệt]], chứ không nằm ở dưới nhánh Môn-Khmer và hệ Nam Á, nhưng phân loại bên trên vẫn được công nhận thông thường.</ref> |
+ fam2 = [[Nhóm ngôn ngữ Môn-Khmer|Nhóm Môn-Khmer]]<ref name="Tranh luận" /> |
+ fam3 = [[Ngữ chi Việt|Nhánh Việt-Mường]] |
+ nation ={{Cờ|Việt Nam}} [[Việt Nam]]<ref>{{chú thích web|url=http://khoavanhoc-ngonngu.edu.vn/home/index.php?option=com_content&view=article&id=1422%3Ath-ng-ca-ting-vit-trong-thi-k-hi-nhp-quc-t-hin-nay&catid=71%3Angon-ng-hc&Itemid=107&lang=vi|title=Thế đứng của tiếng Việt trong thời kỳ hội nhập quốc tế hiện nay|accessdate=ngày 11 tháng 3 năm 2012}}</ref> <br />{{Cờ|Cộng hòa Séc}} [[Cộng hòa Séc]] (ngôn ngữ dân tộc thiểu số)<ref>http://zpravy.idnes.cz/vietnamci-oficialni-narodnostni-mensinou-fiq-/domaci.aspx?c=A130703_133019_domaci_jj</ref>|
+ iso1 = vi |
+ iso2 = vie |
+ iso3 = vie |
+ sil = VIE
+}}
+'''Tiếng Việt''', còn gọi '''tiếng Việt Nam'''<ref name="Tên khác">{{Chú thích sách|author=Lê Bá Khanh|coauthors=Lê Bá Kông|title=Vietnamese-English/English-Vietnamese Dictionary|origyear=1975|edition=lần in số 7|year=1998|publisher=Nhà xuất bản [[Hippocrene Books]]|location=[[Thành phố New York]] ([[Hoa Kỳ]])|language=tiếng Việt, Anh|id=ISBN 0-87052-924-2|page=315|quote='''Việt. — Nam''':... Tiếng — Nam: Vietnamese... Ông ấy có thể nói tiếng — Nam: He can speak Vietnamese.}}</ref> hay '''Việt ngữ''', là ngôn ngữ của người Việt (người [[Người Việt|Kinh]]) và là ngôn ngữ chính thức tại [[Việt Nam]]. Đây là tiếng mẹ đẻ của khoảng 85% dân cư Việt Nam, cùng với hơn bốn triệu [[việt kiều|người Việt hải ngoại]] Tiếng Việt còn là ngôn ngữ thứ hai của các [[dân tộc thiểu số]] tại Việt Nam. Mặc dù tiếng Việt có một số [[từ vựng]] vay mượn từ [[tiếng Trung Quốc|tiếng Hán]] và trước đây dùng [[chữ Hán]] để viết, sau đó được cải biên thành [[chữ Nôm]], tiếng Việt được coi là một trong số các ngôn ngữ thuộc [[hệ ngôn ngữ Nam Á]] có số người nói nhiều nhất (nhiều hơn một số lần<!-- số người sử dụng tiếng Khmer còn tranh cãi --> so với các ngôn ngữ khác cùng hệ cộng lại). Ngày nay tiếng Việt dùng [[bảng chữ cái Latinh]], gọi là [[chữ Quốc ngữ]], cùng các dấu thanh để viết.
+
+[[Tổ chức tiêu chuẩn hóa quốc tế]] đặt mã hai chữ cái cho tiếng Việt là "vi" <ref name="ISO 639-2">[http://www.loc.gov/standards/iso639-2/php/code_list.php Codes for the Representation of Names of Languages]</ref> (tiêu chuẩn [[ISO 639-1]]) và đặt mã ba chữ cái cho tiếng Việt là "vie" <ref name="ISO 639-3">[http://www.ethnologue.com/show_language.asp?code=vie Ethnologue report for language code: vie<!-- Bot generated title -->]</ref> (tiêu chuẩn [[ISO 639-2]]).
+
+Tiếng Việt được chính thức ghi nhận trong hiến pháp là ngôn ngữ quốc gia của Việt Nam.<ref name=hp13>{{chú thích web|title=Hiến pháp năm 2013|url=http://datafile.chinhphu.vn/file-remote-v2/DownloadServlet?filePath=vbpq/2013/12/HP.pdf|publisher=Quốc hội Việt Nam|accessdate = ngày 1 tháng 5 năm 2014}}</ref> Tiếng Việt bao gồm cách phát âm tiếng Việt và chữ Quốc ngữ để viết. Tuy nhiên, "chưa có bất kỳ văn bản nào của Nhà nước (cấp quốc gia) công nhận đó là quốc tự..."<ref>[http://giaoduc.net.vn/Xa-hoi/Chu-quoc-ngu-chua-duoc-Nha-nuoc-cong-nhan-la-quoc-tu/261984.gd "Chữ quốc ngữ chưa được Nhà nước công nhận là quốc tự"], Giáo dục VN, 22/12/2012</ref>
+
+Cũng cần lưu ý tránh nhầm lẫn với ''Việt ngữ'' (粵語), là ngôn ngữ được sử dụng ở miền nam [[Trung Quốc]] ([[Quảng Đông]], [[Quảng Tây]]) cũng như ở [[Hồng Kông]], [[Ma Cao]] mà ta gọi là [[tiếng Quảng Đông]].
+
+== Xếp loại ==
+Với những cơ sở khoa học gần đây được đa số các [[nhà ngôn ngữ học]] thừa nhận, tiếng Việt thuộc [[hệ ngôn ngữ Nam Á|hệ Nam Á]] ở khu vực [[Đông Nam Á]] hiện nay, có quan hệ gần gũi với [[tiếng Mường]]. Xa hơn là các thứ tiếng thuộc [[nhóm ngôn ngữ Môn-Khmer]].
+
+Những ngôn ngữ này có chung một số từ vựng căn bản. Thí dụ, từ ''tay'' trong tiếng Việt tương đương trong tiếng Mường là ''thay'', trong tiếng Khmer là ''đay'' và trong [[tiếng Môn]] là ''tai''.
+
+== Lịch sử ==
+Tiếng Việt là ngôn ngữ có nguồn gốc bản địa, xuất thân từ nền [[văn minh nông nghiệp]], tại nơi mà ngày nay là khu vực phía bắc lưu vực [[sông Hồng]] và [[sông Mã]] của [[Việt Nam]].
+
+Theo [[André-Georges Haudricourt|A. G. Haudricourt]] giải thích từ năm [[1954]], nhóm ngôn ngữ Việt-Mường ở thời kỳ khoảng đầu [[Công Nguyên|Công nguyên]] là những ngôn ngữ hay phương ngữ không [[thanh điệu]]. Về sau, qua quá trình giao thoa với Hoa ngữ và nhất là với các ngữ thuộc ngữ hệ Tai-Kadai vốn có hệ thống thanh điệu phát triển cao, hệ thống thanh điệu trong tiếng Việt xuất hiện và có diện mạo như ngày nay, theo quy luật hình thành thanh điệu. Sự xuất hiện các thanh điệu, bắt đầu khoảng [[thế kỷ 6|thế kỷ thứ 6]] ([[bắc thuộc|thời kỳ Bắc thuộc]] trong [[lịch sử Việt Nam]]) với ba thanh điệu và phát triển ổn định vào khoảng [[thế kỷ 12]] ([[nhà Lý]]) với 6 thanh điệu. Sau đó một số phụ âm đầu biến đổi cho tới ngày nay. Trong quá trình biến đổi, các phụ âm cuối rụng đi làm thay đổi các kết thúc âm tiết và [[phụ âm]] đầu chuyển từ lẫn lộn [[phụ âm vô thanh|vô thanh]] với [[phụ âm hữu thanh|hữu thanh]] sang tách biệt.
+
+Ví dụ<ref name="Âm vị tiếng Việt">[http://ngonngu.net/index.php?p=64 Âm vị và các hệ thống âm vị tiếng Việt]</ref> của A.G. Haudricourt.
+{| class=wikitable
+|-
+! Đầu Công nguyên <br />(không thanh)!!Thế kỉ 6 <br />(ba thanh)!!	Thế kỉ 12 <br />(sáu thanh)!! Ngày nay
+|-
+|pa||pa||pa||ba
+|-
+|sla, hla||hla||la||la
+|-
+|ba||ba||pà||bà
+|-
+|la||la||là||là
+|-
+|pas, pah||pà||pả||bả
+|-
+|slas, hlah||hlà||lả||lả
+|-
+|bas, bah||bà||pã||bã
+|-
+|las, lah||là||lã||lã
+|-
+|pax, paʔ||pá||pá ||bá
+|-
+|slax, hlaʔ||hlá||lá||lá
+|-
+|bax, baʔ||bá||pạ ||bạ
+|-
+|lax, laʔ||lá||lạ||lạ
+|}
+
+=== Nguồn gốc bản địa ===
+{{mở rộng}}
+
+=== Ảnh hưởng từ Trung Hoa ===
+Tiếng Việt là ngôn ngữ dùng trong sinh hoạt giao tiếp của dân thường từ khi lập quốc. Có 6 âm sắc chính là: ngang, sắc, huyền, hỏi, ngã, nặng. Giai đoạn từ đầu công nguyên, tiếng Việt có rất nhiều âm mà không có trong tiếng Trung Hoa. Bắt đầu từ khi [[Trung Quốc]] có ảnh hưởng tới Việt Nam thông qua nhiều con đường và bao gồm nhiều giai đoạn khác nhau, tiếng Việt bắt đầu có những âm được vay mượn từ tiếng Hán. Các tác giả Mai Ngọc Chừ, Vũ Đức Nghiệu và Hoàng Trọng Phiến trong cuốn sách [[Cơ sở ngôn ngữ học và tiếng Việt]] chia quá trình tiếp xúc Hán – Việt thành hai giai đoạn lớn: một là giai đoạn từ đầu công nguyên đến đầu đời [[nhà Đường]] (đầu thế kỉ 8), từ vựng tiếng Hán ảnh hưởng tới tiếng Việt trong giai đoạn này gọi là [[từ Hán cổ]]; hai là giai đoạn từ đời Đường (thế kỉ 8 – thế kỉ 10) trở về sau, từ vựng tiếng Hán ảnh hưởng tới tiếng Việt trong giai đoạn này gọi là [[từ Hán Việt]]. Từ Hán cổ và từ Hán Việt được gọi chung là [[từ gốc Hán]].
+
+Một số  từ ngữ Hán cổ có thể kể đến như "đầu", "gan", "ghế", "ông", "bà", "cô", "chè", "ngà", "chén", "chém", "chìm", "buồng", "buồn", "buồm", "mùi", "mùa"... Từ Hán cổ là những từ gốc Hán được du nhập vào tiếng Việt đã lâu, đã được [[đồng hoá]] rất mạnh, nên những từ này hiện nay nói chung không còn xa lạ đối với người Việt nữa.
+
+Hệ thống [[Từ Hán-Việt|Hán-Việt]] trong tiếng Việt bằng cách đọc các [[chữ Hán]] theo ngữ âm hiện có của tiếng Việt (tương tự như [[người Nhật|người Nhật Bản]] áp dụng [[kanji]] đối với chữ Hán và [[katakana]] với các tiếng nước ngoài khác. Hiện nay có 1945 chữ Hán thông dụng trong tiếng Nhật, cũng có khoảng 2000 [[Hanja|từ Hán-Hàn]] thông dụng). Số lượng từ vựng tiếng Việt có thêm hàng loạt các yếu tố Hán-Việt. Như là "chủ", "ở", "tâm", "minh", "đức", "thiên", "tự do"... giữ nguyên nghĩa chỉ khác cách đọc; hay thay đổi vị trí như "nhiệt náo" thành "náo nhiệt", "thích phóng" thành "phóng thích", "đảm bảo" thành "bảo đảm"...; hoặc được rút gọn như "thừa trần" thành "trần" (trong ''trần nhà''), "lạc hoa sinh" thành "lạc" (trong ''củ lạc'', còn gọi là ''đậu phộng'')...; hoặc được đọc chệch đi như "tiếp thu" thành "tiếp thụ", "tháp nhập" thành "sát nhập", "thống kế" thành "thống kê", "chúng cư" thành "chung cư", "vãn cảnh" thành "vãng cảnh", "khuyến mãi" thành "khuyến mại"...; hay đổi khác nghĩa hoàn toàn như "phương phi" trong [[tiếng Trung Quốc|tiếng Hán]] có nghĩa là "hoa cỏ thơm tho" thì trong tiếng Việt lại là "béo tốt", "bồi hồi" trong tiếng Hán nghĩa là "đi đi lại lại" sang tiếng Việt thành "bồn chồn, xúc động"...Mặt khác người Trung Quốc gọi là [[Thái Sơn]], [[Hoàng Hà]], cổ thụ...thì người Việt lại đọc là [[núi Thái Sơn]], [[sông Hoàng Hà]], cây cổ thụ (mặc dù sơn = núi, hà = sông, thụ = cây)...Do [[tính quy ước của ngôn ngữ]] mà ít nhiều các cách đọc sai khác với tiếng Hán vẫn được chấp nhận và sử dụng rộng rãi, trong khi các nhà nghiên cứu ngôn ngữ tiếng Việt hiện nay cũng như các cơ quan, các cấp quản lí, tổ chức xã hội - nghề nghiệp lẫn các nhà khoa học Việt Nam chưa tìm được tiếng nói chung trong việc chuẩn hoá cách sử dụng tên riêng và từ vựng mượn từ tiếng nước ngoài.<ref name="tiengviet1">[http://www.khoahocviet.info/meresci/vi/meresci05c2.html Thuật ngữ và tên riêng tiếng nước ngoài, Nguyễn Văn Khang (2003), http://www.khoahocviet.info/] Truy cập ngày 8 tháng 1 năm 2015</ref>. Bên cạnh đó, cũng có những từ được cho là dùng sai và khó chấp nhận như, “[[quan ngại]]” được dùng và hiểu như “lo ngại”, “vấn nạn” được hiểu là “vấn đề nan giải”, “vô hình trung” thì viết thành “vô hình chung” hay “vô hình dung”, “việt dã” bị hiểu là “chạy dài”; “trứ tác” được dùng như “sáng tác”<ref name="tiengviet2"/>, “[[phong thanh]]” được dùng như “[[phong phanh]]", “[[bàng quan]]” được dùng như “[[bàng quang]]”, “[[đào ngũ]]” được dùng là “đảo ngũ”,"[[tham quan]]" thành "thăm quan", "[[xán lạn]]" thành "sáng lạng"…
+
+Đặc biệt là các yếu tố Hán-Việt được sử dụng để tạo nên những từ ngữ đặc trưng chỉ có trong tiếng Việt, không có trong tiếng Hán như là các từ "sĩ diện", "phi công" (dùng 2 yếu tố Hán-Việt) hay "bao gồm", "sống động", "sinh đẻ" (một yếu tố Hán kết hợp với một yếu tố thuần Việt). Nói chung tỉ lệ vay mượn tiếng Hán trong tiếng Việt rất lớn. Theo ước lượng của các [[nhà nghiên cứu]], từ Hán Việt chiếm khoảng trên dưới 70% vốn từ trong phong cách [[chính luận]], [[khoa học]] ([[Maspéro]] thì cho rằng, chúng chiếm tới hơn 60% lượng từ tiếng Việt)<ref name="tiengviet1"/><ref name="tiengviet2">[http://vns.hnue.edu.vn/?page=service_detail&TID=273 VÀI NÉT VỀ TÌNH HÌNH NGHIÊN CỨU TỪ HÁN VIỆT VÀ VIỆC DẠY – HỌC TỪ HÁN VIỆT HIỆN NAY] Khoa Việt Nam học, Đại học sư phạm Hà Nội. Truy cập ngày 18 tháng 1 năm 2015</ref>. Tác giả [[Lê Nguyễn Lưu]] trong cuốn sách ''Từ chữ Hán đến chữ Nôm'' thì cho rằng, về lĩnh vực chuyên môn và khoa học tỉ lệ này có thể lên đến 80%, nhưng khi nhận xét về văn ngữ trong một cuốn tiểu thuyết thì chỉ còn 12,8%, kịch nói rút xuống còn 8,9%, và ngôn ngữ nói chuyện hằng ngày còn thấp hơn nữa.<ref name="chữ">Lê Nguyễn Lưu, ''Từ chữ Hán đến chữ Nôm''. Huế: nxb Thuận Hóa, 2002. tr 202-210</ref>. Dù ở tỷ lệ nào đi nữa đại đa số những từ đó đều đã được Việt hóa cho phù hợp với nhận thức của người Việt. Tiếng Việt gọi là "thủ tướng" nhưng tiếng Hoa là "tổng lý"; tiếng Việt là "truyền hình" thì tiếng Hoa là "điện thị"; tiếng Việt là "thành phố" thì tiếng Hoa là "đô thị". Những chữ thủ tướng, truyền hình, thành phố hoàn toàn là Hán Việt nhưng người Hoa tuyệt nhiên không dùng. Do vậy tiếng Việt dù vay mượn tiếng Hán nhưng giữ được bản sắc riêng của mình trước ảnh hưởng của văn hóa Hán, trong khi lợi dụng được những thành tựu ngôn ngữ trong tiếng Hán để tự cải tiến mình.
+
+Kể từ đầu [[thế kỷ 11|thế kỷ thứ 11]], Nho học phát triển, việc học văn tự [[chữ Hán|chữ Nho]] được đẩy mạnh, tầng lớp trí thức được mở rộng tạo tiền đề cho một nền văn chương của người Việt bằng chữ Nho cực kỳ phát triển với cái áng văn thư nổi tiếng như [[Nam quốc sơn hà]] bên [[sông Cầu|sông Như Nguyệt]] (sông Cầu).
+
+Cùng thời gian này, một hệ thống chữ viết được xây dựng riêng cho người Việt theo nguyên tắc ghi âm tiết được phát triển, và đó chính là [[chữ Nôm]]. Để tiện cho việc học [[chữ Hán]] và [[chữ Nôm]] của người Việt, [[Ngô Thì Nhậm]] (1746-1803) đã biên soạn cuốn sách [[Tam thiên tự giải âm]] (còn gọi là [[Tam thiên tự]], [[Tự học toản yếu]]). ''Tam thiên tự giải âm'' chỉ lược dạy 3000 chữ Hán, Nôm thông thường, đáp ứng nhu cầu cần thiết, nhớ chữ, nhớ nghĩa từng chữ, mỗi câu bốn chữ. Hiệp vần cũng có điểm đặc biệt, tức là [[vần lưng]] (yêu vận, vần giữa câu). Tiếng thứ tư câu đầu hiệp với tiếng thứ hai câu dưới, rồi cứ thế mãi đến 3000 chữ, 750 câu. Ví dụ: Thiên- trời, địa - đất, cử - cất, tồn - còn, tử - con, tôn - cháu, lục - sáu, tam -ba, gia - nhà, quốc - nước, tiền - trước, hậu - sau, ngưu - trâu, mã - ngựa, cự - cựa, nha - răng, vô - chăng, hữu - có, khuyển - chó, dương - dê v.v...[[Trần Văn Giáp]] đánh giá đây tuy chỉ là quyển sách dạy học vỡ lòng về chữ Hán, như lời tác giả đã nói, nhưng thực ra cũng có thể coi nó chính là sách [[tự điển Hán Việt]] thông thường và phổ biến ở cuối [[thế kỷ XVIII]], cùng thời với các sách [[Chỉ nam ngọc âm]], [[Chỉ nam bị loại]], và xuất hiện trước các sách [[Nhật dụng thường đàm]], [[Thiên tự văn]] và [[Đại Nam quốc ngữ]].<ref>[http://hannom.vass.gov.vn/noidung/TapChi/Pages/baiviet.aspx?ItemID=102 Về cuốn Tam thiên tự do Ngô Thì Nhậm soạn, HOÀNG HỒNG CẨM] Tạp chí Hán Nôm, Số 1 (80) 2007; Tr.18-26</ref> Nhờ có chữ Nôm, văn học Việt Nam đã có những bước phát triển rực rỡ nhất, đạt đỉnh cao với ''[[Truyện Kiều]]'' của [[Nguyễn Du]] (1765-1820). Tiếng Việt, được thể hiện bằng chữ Nôm ở những thời kỳ sau này về cơ bản rất gần với tiếng Việt ngày nay. Tuy hầu hết mọi người Việt đều có thể nghe và hiểu văn bản bằng chữ Nôm, chỉ những người có học chữ Nôm mới có thể đọc và viết được chữ Nôm.
+
+Chữ Nôm được chính thức dùng trong hành chính khi vua [[Nguyễn Huệ|Quang Trung]] lên ngôi vào năm [[1789]].
+
+=== Ảnh hưởng từ châu Âu ===
+Kể từ khi [[Pháp]] xâm lược Việt Nam vào nửa cuối [[thế kỷ 19|thế kỷ thứ 19]], [[tiếng Pháp]] dần dần thay thế vị trí của [[chữ Hán|chữ Nho]] như là ngôn ngữ chính thức trong [[giáo dục]], [[hành chính]] và [[ngoại giao]]. [[Chữ Quốc ngữ]], vốn được tạo ra bởi một số nhà truyền giáo [[châu Âu]], đặc biệt là hai [[tu sĩ]] người Bồ Đào Nha [[Gaspar do Amaral]] và [[Antonio Barbosa]], với mục đích dùng [[bảng chữ cái Latinh|ký tự Latinh]] để biểu hiện tiếng Việt, ngày càng được phổ biến, đồng thời chịu ảnh hưởng bởi những thuật ngữ, từ ngữ mới của ngôn ngữ Tây phương (chủ yếu là từ [[tiếng Pháp]]<ref>[http://ngonngu.net/index.php?m=print&p=193 Phân lớp từ ngữ theo nguồn gốc, Các từ ngữ gốc Ấn-Âu] Theo Mai Ngọc Chừ; Vũ Đức Nghiệu & Hoàng Trọng Phiến. Cơ sở ngôn ngữ học và tiếng Việt. Nhà xuất bản Giáo dục, H., 1997, trang 213–219.</ref>) như ''phanh'', ''lốp'', ''găng'', ''pê đan''... và [[tiếng Trung Quốc|tiếng Hán]] như ''chính đảng'', ''kinh tế'', ''giai cấp'', ''bán kính''... Tờ ''[[Gia Định báo]]'' là tờ báo đầu tiên được phát hành bằng chữ Quốc Ngữ vào năm [[1865]], khẳng định sự phát triển và xu hướng của chữ Quốc Ngữ như là chữ viết chính thức của nước Việt Nam độc lập sau này.
+
+=== Thời kỳ [[1945]] cho đến nay ===
+[[Chữ Quốc ngữ]] là chữ ghi âm, chỉ sử dụng 27 ký tự Latin và 6 dấu thanh, đơn giản, tiện lợi và có tính khoa học cao, dễ học, dễ nhớ, thông dụng; thay thế hoàn toàn [[tiếng Pháp]] và [[tiếng Trung Quốc|tiếng Hán]] vốn khó đọc, khó nhớ, không thông dụng với [[người Việt]].
+
+Trong thời kỳ [[chiến tranh Việt Nam]], sự phát triển tiếng Việt giữa [[Bắc Bộ Việt Nam|miền Bắc]] và [[Nam Bộ Việt Nam|miền Nam]] có chiều hướng khác nhau. Vì các lý do [[chính trị]] và [[kinh tế]], chính quyền [[Việt Nam Dân chủ Cộng hòa]] có mối quan hệ gần gũi với [[Trung Quốc]], và sự hiện diện của các chuyên viên nhân sự Trung Quốc đưa nhiều từ [[Bạch Thoại]] (ngôn ngữ nói của Trung Quốc) vào ngữ vựng tiếng Việt{{cần chú thích}}. Những từ này thường có gốc [[Từ Hán-Việt|Hán-Việt]], nhưng thường đổi ngược thứ tự hay có nghĩa mới. Tại miền Nam, sự hiện diện của quân đội [[Hoa Kỳ]] đã đem một số từ [[tiếng Anh]] vào ngôn ngữ giao tiếp hằng ngày{{cần chú thích}}.
+
+Tuy nhiên, trong giai đoạn [[Chiến tranh Việt Nam]] thì ở miền Bắc có xu hướng sử dụng [[từ thuần Việt]] và ở miền Nam lại có khuynh hướng sử dụng từ [[Từ Hán-Việt|Hán-Việt]]. Ví dụ như miền Nam vẫn giữ tên "Ngân hàng Quốc gia" trong khi miền Bắc đổi thành "Ngân hàng Nhà nước" ([[1960]]), miền Nam lại gọi là "phi trường" thì miền Bắc gọi là "sân bay", miền Nam gọi là "Ngũ Giác Đài" thì miền Bắc gọi là "Lầu Năm Góc", miền Nam gọi là "Đệ nhất Thế chiến" thì miền Bắc kiên quyết gọi là "Chiến tranh thế giới lần thứ nhất", miền Nam gọi là "hỏa tiễn" thì miền Bắc lại gọi là "tên lửa",{{Cần chú thích}}, miền Nam vẫn gọi là "thủy quân lục chiến" còn miền Bắc lại đổi thành "lính thủy đánh bộ"... Ngược lại danh từ miền Bắc như "[[tham quan]]", "sự cố", "nhất trí", "đăng ký", "đột xuất", "vô tư" v.v. thì miền Nam dùng những chữ "thăm viếng", "trở ngại/trục trặc", "đồng lòng", "ghi tên", "bất ngờ", "thoải mái"... Các từ có gốc [[Thế giới phương Tây|phương Tây]], miền Nam có khuynh hướng biến đổi thành từ Hán Việt, như [[Iceland|Băng đảo]], [[Úc|Úc Đại Lợi]], [[Hungary|Hung Gia Lợi]] còn miền Bắc có khuynh hướng phiên âm ra thành Ai-xơ-len, Ô-xtrây-li-a, Hung-ga-ri...
+
+Sau khi [[Việt Nam]] thống nhất vào năm [[1975]], quan hệ [[Bắc Bộ Việt Nam|Bắc]] [[Miền Nam (Việt Nam)|Nam]] được kết nối lại. Gần đây, sự phổ biến của các phương tiện truyền thanh và truyền hình trên toàn quốc đã làm tiếng Việt được chuẩn hóa một phần nào. Nhiều từ [[thuần Việt]] được sử dụng phổ biến thay cho từ Hán Việt, cũng như với sự tiến triển của [[internet]] và [[toàn cầu hóa]], ảnh hưởng của [[tiếng Anh]] ngày càng lớn trên báo chí và đội ngũ phóng viên, nhiều từ nước ngoài được đưa vào tiếng Việt thiếu chọn lọc, viết nguyên bản theo ngôn ngữ nước ngoài...
+
+== Phân bố ==
+Tiếng Việt là ngôn ngữ chính thức tại Việt Nam, và cũng là ngôn ngữ phổ thông đối với các dân tộc thiểu số tại Việt Nam. Thêm vào đó, tiếng Việt được hơn 1 triệu người sử dụng tại [[Hoa Kỳ]] (đứng thứ 7 [[Hoa Kỳ|toàn quốc]], thứ 3 tại [[Texas]], thứ 4 tại [[Arkansas]] và [[Louisiana]] và thứ 5 tại [[California]]), cũng như trên 100.000 người tại [[Canada]] và [[Úc]] (đứng thứ 6 toàn quốc).
+
+Theo [[Ethnologue]]<ref name="ISO 639-3" />, tiếng Việt còn được nhiều người sử dụng tại [[Vương quốc Liên hiệp Anh và Bắc Ireland|Anh]], [[Ba Lan]], [[Campuchia]], [[Bờ Biển Ngà|Côte d'Ivoire]], [[Đức]], [[Hà Lan]], [[Lào]], [[Na Uy]], [[Nouvelle-Calédonie]], [[Phần Lan]], [[Pháp]], [[Philippines]], [[Cộng hòa Séc]], [[Sénégal]], [[Thái Lan]], [[Trung Quốc]] và [[Vanuatu]]. Tiếng Việt cũng còn được dùng bởi những người Việt sống tại [[Đài Loan]], [[Nga]]...
+
+Ngoài ra Tiếng Việt cũng được công nhận là ngôn ngữ dân tộc thiểu số tại [[Cộng hòa Séc]] vì người Việt được công nhận là dân tộc thiểu số tại Séc<ref>[http://baodatviet.vn/chinh-tri-xa-hoi/201307/nguoi-viet-duoc-cong-nhan-la-dan-toc-thieu-so-tai-sec-2349915/]</ref>.
+== Tiếng địa phương ==
+{{chính|Phương ngữ|Phương ngữ tiếng Việt}}
+Tiếng Việt có sự thay đổi trong giọng nói từ Bắc vào Nam, không đột ngột mà ''tiệm tiến'' dần theo từng vùng liền nhau. Trong đó, giọng Bắc [[Hà Nội]], giọng Trung [[Huế]] và giọng Nam [[Thành phố Hồ Chí Minh|Sài Gòn]] là ba phân loại chính. Những tiếng địa phương này khác nhau ở giọng điệu và từ địa phương. Thanh ngã và thanh hỏi ở miền Bắc rõ hơn ở miền Nam và Trung. Miền Bắc sử dụng một số phụ âm (tr, ch, n, l...) khác với miền Nam và Trung. Giọng Huế khó hiểu hơn những giọng khác vì có nhiều [[từ địa phương]]. Theo trang thông tin của Đại sứ quán Việt Nam tại Trung Quốc<ref name="ĐSQ">{{chú thích web| url = http://www.vnemba.org.cn/vnemb.china/zh/nr050708132637/nr050727110709| title = 越南ABC| accessdate = ngày 22 tháng 11 năm 2011 | publisher = Trang thông tin Đại sứ quán Việt Nam tại Trung Quốc| language = tiếng Trung}}</ref> và học giả Laurence Thompson<ref>{{chú thích sách|last=Thompson|first=Laurence|title=A Vietnamese Reference Grammar|publisher=University of Hawaii Press|year=1987|isbn=0824811178|pages=3|url=http://books.google.com/books?id=XN7SHNeZ_ksC&pg=PA3&dq=vietnamese+standard+pronunciation&ei=ZbghSbanPI_QkwTrwo3xBg#PPA3,M1}}</ref> thì cách đọc tiêu chuẩn hiện nay được dựa vào giọng Hà Nội. [[Từ điển Việt-Bồ-La]] (1651) của [[Alexandre de Rhodes]] lấy tiếng miền Bắc làm nền tảng, Dictionarium Anamitico Latinum (1772-1773) của Pierre Pigneaux de Béhaine lấy tiếng miền Nam làm nền tảng.<ref>[http://www.vienngonnguhoc.gov.vn/?act=News&do=Detail&nid=101 GIA GIA, DA DA hay ĐA ĐA?]</ref>
+
+{| class=wikitable
+|-
+! Giọng chuẩn!! Nơi sử dụng
+|-
+| Giọng miền Bắc
+| [[Hà Nội]]
+|-
+| Giọng miền Trung
+| [[Huế]]
+|-
+| Giọng miền Nam
+| [[Thành phố Hồ Chí Minh]] (Sài Gòn)
+|-
+! Giọng địa phương!! Nơi thể hiện rõ nét
+|-
+| Giọng Đông Bắc
+| [[Quảng Ninh]], [[Hải Phòng]], [[Thái Bình]], [[Nam Định]]
+|-
+|Giọng Hà Thành
+|[[Hà Nội]] và vùng phụ cận
+|-
+| Giọng Thanh Hóa
+| [[Thanh Hóa]]
+|-
+| Giọng Nghệ-Tĩnh
+| [[Nghệ An]], [[Hà Tĩnh]]
+|-
+| Giọng Bình-Trị-Thiên
+| [[Quảng Bình]], [[Quảng Trị]], [[Thừa Thiên - Huế]]
+|-
+| Giọng Quảng
+| [[Quảng Nam]], [[Đà Nẵng]], [[Quảng Ngãi]]
+|-
+| Giọng Nẫu
+| [[Bình Định]], [[Phú Yên]]
+|-
+| Giọng Nam Trung Bộ
+|[[Khánh Hòa]], [[Ninh Thuận]], [[Bình Thuận]], [[Lâm Đồng]]
+|-
+| Giọng Đông Nam Bộ
+|Các tỉnh [[Đông Nam Bộ]]
+|-
+| Giọng miền Tây
+| Các tỉnh [[Đồng bằng sông Cửu Long]]
+|-
+| Giọng dân tộc thiểu số{{fact|date=7-2014}}
+| Các tỉnh [[Vùng Tây Bắc (Việt Nam)|Tây Bắc]], [[Tây Nguyên]]
+|}
+
+{| class="wikitable" style="text-align: center;"
+|+ {{Anchor|Sự khác biệt trong giọng các vùng miền}}Đặc trưng trong giọng các vùng miền
+! Miền Bắc!! Miền Trung!! Miền Nam
+|-
+| ''này'' || ''ni'', ''nì'' || ''nầy''
+|-
+| ''thế này'' || ''ri nè'' || ''vầy'', ''như vầy''
+|-
+| ''ấy'' || ''nớ'', ''tê'' || ''đó''
+|-
+| ''thế'', ''thế ấy'' || ''rứa'', ''rứa tề'', ''rứa đó'' || ''vậy'', ''vậy đó''
+|-
+| ''kia'' || ''tê'' || ''đó''
+|-
+| ''kìa'' || ''tề'' || ''đó''
+|-
+| ''đâu'' || ''mô'' || ''đâu''
+|-
+| ''nào'' || ''mồ'' || ''nào''
+|-
+| ''sao'', ''thế nào'' || ''răng'' || ''sao''
+|-
+| ''tôi'' || ''tui'' || ''tui''
+|-
+| ''tao'' || ''tau'' || ''tao''
+|-
+| ''chúng tôi'' || ''bọn tui'' || ''tụi tui''
+|-
+| ''chúng tao'' || ''bọn tau'' || ''tụi tao''
+|-
+| ''mày'' || ''mi'' || ''mầy''
+|-
+| ''chúng mày'' || ''bây'', ''bọn bây'' || ''tụi mầy''
+|-
+| ''nó'' || ''hắn'' || ''nó''
+|-
+| ''chúng nó'' || ''bọn hắn'' || ''tụi nó''
+|-
+| ''ông ấy'' || ''ông nớ'' || ''ổng''
+|-
+| ''bà ấy'' || ''bà nớ'' || ''bả''
+|-
+| ''cô ấy'' || ''dì nớ'' || ''cổ''
+|-
+| ''chị ấy'' || ''chị nớ'' || ''chỉ''
+|-
+| ''anh ấy'' || ''anh nớ'' || ''ảnh''
+|}
+
+== Ngữ âm ==
+{{chính|Ngữ âm tiếng Việt}}
+
+===Nguyên âm===
+Giống như nhiều ngôn ngữ khác ở Đông Nam Á, tiếng Việt khá phong phú về [[nguyên âm]]. Dưới đây là bảng các nguyên âm theo giọng Hà Nội.
+{| class="wikitable" style="text-align: center;"
+|-
+!  
+! [[Nguyên âm giữa|Trước]]
+! [[Nguyên âm giữa|Giữa]]
+! [[Nguyên âm sau|Sau]]
+|-
+! [[Nguyên âm đóng|Đóng]]
+| ''i'' {{IPA|[i]}}
+| ''ư'' {{IPA|[ɨ]}}
+| ''u'' {{IPA|[u]}}
+|-
+! [[Nguyên âm nửa đóng|Nửa đóng]]
+| ''ê'' {{IPA|[e]}}
+| ''ơ'' {{IPA|[əː]}}
+| ''ô'' {{IPA|[o]}}
+|-
+! [[Nguyên âm nửa mở|Nửa mở]]
+| ''e'' {{IPA|[ɛ]}}
+| ''â'' {{IPA|[ə]}} 
+| ''o'' {{IPA|[ɔ]}}
+|-
+! [[Nguyên âm mở|Mở]]
+| colspan="3" | ''ă'' {{IPA|[a]}} / ''a'' {{IPA|[aː]}}
+|}
+
+Trong bảng trên, các nguyên âm trước, giữa và nguyên âm mở là nguyên âm không tròn môi, còn lại là nguyên âm tròn môi. ''Ă'' và ''â'' là dạng ngắn của ''a'' và ''ơ''.
+
+Đồng thời, tiếng Việt còn có hệ thống [[nguyên âm đôi]] và [[nguyên âm ba]].
+
+===Phụ âm===
+Bảng dưới đây trình bày các phụ âm trong tiếng Việt và cách viết.
+{| class=wikitable style="text-align: center;"
+|- style="background: #efefef;"
+! colspan="2" |
+! [[Phụ âm đôi môi|Đôi môi]]
+! [[Phụ âm vòm trên|Vòm trên]]
+! [[Phụ âm uốn lưỡi|Uốn lưỡi]]
+! [[Phụ âm vòm|Vòm]]
+! [[Phụ âm vòm mềm|Vòm mềm]]
+! [[Phụ âm họng|Họng]]
+|-
+! style="text-align: left; background: #efefef;" rowspan="3" | [[Phụ âm tắc|Tắc]]
+| style="text-align: left; background: #efefef;" | <small>vô thanh</small>
+| ''p'' {{IPA|[p]}}
+| ''t'' {{IPA|[t]}}
+| ''tr'' {{IPA|[ʈʂ~ʈ]}}
+| ''ch'' {{IPA|[c~tɕ]}}
+| ''c/k/q'' {{IPA|[k]}}
+|
+|-
+| style="text-align: left; background: #efefef;" | <small>bật hơi</small>
+|  
+| ''th'' {{IPA|[tʰ]}}
+|
+|
+|
+|
+|-
+| style="text-align: left; background: #efefef;" | <small>hữu thanh</small>
+| ''b'' {{IPA|[ɓ]}}
+| ''đ'' {{IPA|[ɗ]}}
+|
+|
+|
+|
+|-
+! style="text-align: left; background: #efefef;" rowspan="2" | [[Phụ âm xát|Xát]]
+| style="text-align: left; background: #efefef;" | <small>vô thanh</small>
+| ''ph'' {{IPA|[f]}}
+| ''x'' {{IPA|[s]}}
+| ''s'' {{IPA|[ʂ]}}
+|
+| ''kh'' {{IPA|[x~kʰ]}}
+| ''h'' {{IPA|[h]}}
+|-
+| style="text-align: left; background: #efefef;" | <small>hữu thanh</small>
+| ''v'' {{IPA|[v]}}
+| ''d'' {{IPA|[z~j]}}
+| ''r'' {{IPA|[ʐ~ɹ]}}
+| ''gi'' {{IPA|[z~j]}}
+| ''g/gh'' {{IPA|[ɣ]}}
+|
+|-
+! style="text-align: left; background: #efefef;" colspan="2" | [[Phụ âm mũi|Mũi]]
+| ''m'' {{IPA|[m]}}
+| ''n'' {{IPA|[n]}}
+|
+| ''nh'' {{IPA|[ɲ]}}
+| ''ng/ngh'' {{IPA|[ŋ]}}
+|
+|-
+! style="text-align: left; background: #efefef;" colspan="2" | [[Phụ âm tiếp cận|Tiếp cận]]
+| ''u/o'' {{IPA|[w]}}
+| ''l'' {{IPA|[l]}}
+|
+| ''y/i'' {{IPA|[j]}}
+|
+|
+|}
+Một số phụ âm chỉ có một cách viết (như ''b'', ''p''), nhưng một số có nhiều cách viết như ''k'', có thể được biểu diễn bằng ''c'', ''k'' hay ''q''.
+Đồng thời, các phụ âm có thay đổi tuỳ theo địa phương. Sự khác biệt về phụ âm giữa các vùng miền được trình bày kĩ hơn trong bài [[phương ngữ tiếng Việt]].
+
+=== Thanh điệu ===
+{| class=wikitable style="margin: 0 0 0.5em 1em; float: right;"
+|+ Dấu thanh trong tiếng Việt
+|-
+! Dấu!! Chữ mẫu
+|-
+| ngang || a {{Audio|Vi ngang tone.ogg}}
+|-
+| [[dấu sắc|sắc]] || á {{Audio|Vi sac tone.ogg}}
+|-
+| [[dấu huyền|huyền]] || à {{Audio|Vi huyen tone.ogg}}
+|-
+| [[dấu hỏi|hỏi]] || ả {{Audio|Vi hoi tone.ogg}}
+|-
+| [[dấu ngã|ngã]] || ã {{Audio|Vi nga tone.ogg}}
+|-
+| [[dấu nặng|nặng]] || ạ {{Audio|Vi nang tone.ogg}}
+|}
+Tiếng Việt là một [[ngôn ngữ thanh điệu]], mọi âm tiết của tiếng Việt luôn mang một thanh điệu nào đó. Do các thanh điệu của tiếng Việt trong chữ quốc ngữ được biểu thị bằng các dấu thanh, còn gọi là dấu, nên một số người quen gọi các thanh điệu của tiếng Việt là các "dấu". Có sự khác biệt về số lượng thanh điệu và [[điệu trị]] của thanh điệu giữa các phương ngôn của tiếng Việt, thanh điệu có tên gọi giống nhau không đồng nghĩa với việc chúng sẽ được nói giống nhau trong mọi phương ngôn của tiếng Việt. Phương ngôn tiếng Việt Bắc Bộ có sáu thanh điệu, phương ngôn tiếng Việt Trung Bộ và Nam Bộ có năm thanh điệu. Thanh điệu của tiếng Việt tiêu chuẩn được cho là gồm sáu thanh ngang (còn gọi là thanh không dấu do chữ quốc ngữ không có dấu thanh cho thanh điệu này), sắc, huyền, hỏi, ngã, nặng nhưng lại thiếu các quy định cụ thể về việc lấy cách phát âm trong phương ngôn nào của tiếng Việt làm cách phát âm tiêu chuẩn cho sáu thanh điệu này.
+
+Các âm tiết mang [[vần nhập thanh]], tức là các vần kết thúc bằng một trong ba phụ âm cuối {{IPA|/k/}} (chữ quốc ngữ ghi lại bằng chữ cái "c" hoặc chữ cái nhị hợp "ch"), {{IPA|/t/}} (chữ quốc ngữ ghi lại bằng chữ cái "t"), {{IPA|/p/}} (chữ quốc ngữ ghi lại bằng chữ cái "p") chỉ có thể mang thanh sắc hoặc thanh nặng. Ba [[âm tắc]] trên đã làm cho các âm tiết mang vần nhập thanh chỉ có thể mang các thanh điệu có điệu trị ngắn và nhanh.
+
+Trong thơ ca các thanh điệu được phân thành hai nhóm: [[thanh bằng]] gồm có ngang và huyền, [[thanh trắc]] gồm các thanh còn lại. Trong các thể thơ cổ như Đường luật và lục bát, sự hoà hợp thanh điệu bằng - trắc giữa các tiếng trong một câu thơ rất quan trọng.
+
+== Ngữ pháp ==
+{{chính|Ngữ pháp tiếng Việt}}
+Giống như nhiều ngôn ngữ khác tại Đông Nam Á, tiếng Việt là một [[ngôn ngữ đơn lập]]. Các quan hệ ngữ pháp được thể hiện chủ yếu thông qua hệ thống [[hư từ]] và cách sắp xếp trật tự từ trong câu. Trật tự từ thông dụng nhất trong tiếng Việt là [[chủ ngữ]] - [[vị ngữ]] - [[phụ ngữ]] (SVO).
+
+Vị trí các từ được sắp xếp theo thứ tự, từ mang ý chính đứng trước từ mang ý phụ phụ đứng sau bổ sung nghĩa cho từ mang ý chính, tương tự như danh từ đứng trước tính từ đứng sau bổ sung nghĩa cho danh từ.
+
+Tiếng Việt còn có hệ thống [[đại từ nhân xưng]] phức tạp dựa trên các từ ngữ chỉ quan hệ thân thuộc, và hệ thống [[danh từ đơn vị]].
+
+== Từ vựng ==
+{{chính|Từ vựng tiếng Việt}}
+[[Tập tin:Từ thuần Việt + Từ Hán Việt.png|350px|nhỏ|Các từ màu cam là Từ thuần Việt, các từ màu xanh là [[Từ Hán-Việt]].]]
+
+Từ vựng tiếng Việt được chia ra thành hai bộ phận lớn: từ thuần Việt và [[từ mượn]]. Ngoài ra còn có những từ hỗn chủng, là kết quả của sự kết hợp các yếu tố thuần Việt và ngoại lai.
+
+===Từ thuần Việt===
+{{chính|Từ thuần Việt}}
+
+Từ thuần Việt là những từ xuất hiện lâu đời trong tiếng Việt, biểu thị những sự vật, hiện tượng, khái niệm cơ bản nhất. Do có sự tiếp xúc từ rất sớm với các ngôn ngữ nhóm Tày-Thái nên nhiều từ thuần Việt và các từ tương ứng trong các tiếng này có sự giống nhau nhất định về ngữ âm và ngữ nghĩa.<ref>{{chú thích web|title=Phân lớp từ ngữ theo nguồn gốc: Lớp từ thuần Việt|url=http://ngonngu.net/index.php?p=193|accessdate = ngày 8 tháng 7 năm 2013}}</ref>
+
+===Từ Hán-Việt===
+{{chính|Từ Hán Việt}}
+
+Sự tiếp xúc giữa tiếng Việt và [[tiếng Trung Quốc|tiếng Hán]] bắt đầu khi [[nhà Hán]] của Trung Quốc xâm chiếm nước Việt. Quá trình tiếp xúc lâu dài đã đưa vào tiếng Việt một khối lượng từ ngữ rất lớn của tiếng Hán. Giai đoạn đầu, hiện tượng này diễn ra lẻ tẻ, rời rạc, chủ yếu thông qua đường khẩu ngữ qua sự tiếp xúc giữa người Việt và người Hán, tạo nên một lớp từ có nguồn gốc Hán cổ mà ngày nay đã hoà lẫn với các từ thuần Việt.<ref name="Phân lớp từ ngữ theo nguồn gốc: Các từ ngữ gốc Hán">{{chú thích web|title=Phân lớp từ ngữ theo nguồn gốc: Các từ ngữ gốc Hán|url=http://ngonngu.net/index.php?p=192|accessdate = ngày 8 tháng 7 năm 2013}}</ref> Đến [[nhà Đường|đời Đường]], tiếng Việt mới có sự tiếp nhận các từ ngữ Hán một cách có hệ thống qua đường sách vở. Các từ ngữ gốc Hán này chủ yếu được đọc theo ngữ âm đời Đường tuân thủ nguyên tắc ngữ âm tiếng Việt gọi là [[phiên âm Hán-Việt|âm Hán-Việt]]. Khi được đưa vào tiếng Việt, bên cạnh việc bị thay đổi về mặt [[ngữ âm]], nhiều từ Hán Việt bị thay đổi cả [[ngữ nghĩa]].<ref name="Phân lớp từ ngữ theo nguồn gốc: Các từ ngữ gốc Hán"/>
+
+Từ Hán Việt chiếm một phần không nhỏ trong vốn từ vựng tiếng Việt. Chúng có vai trò quan trọng, hiện diện trong tất cả các lĩnh vực của đời sống xã hội. Người Việt Nam có thói quen đặt tên người theo tiếng Hán Việt như Sơn, Thủy, Phong,...mà ít khi đặt theo tiếng thuần Việt như Núi, Nước, Gió,...Việc sử dụng từ thuần Việt để đặt tên đôi khi bị coi là không hay, quê mùa. Tuy nhiên, nhiều người nổi tiếng có xu hướng đặt các nghệ danh theo tên Hán Việt, thường được [[báo chí Việt Nam]] gọi là các tên kêu, các mỹ từ như [[Nhật Kim Anh]], [[Lý Nhã Kỳ]], [[Phan Đinh Tùng]], [[Quang Lê]], [[Ngô Kiến Huy]]...<ref>[http://www.tiin.vn/chuyen-muc/sao/ten-that-dang-sau-nghe-danh-keu-nhu-chuong-cua-sao-viet.html Tên thật đằng sau nghệ danh kêu như chuông của sao Việt]</ref> Người Việt Nam có ý thức trong việc nhận thức và [[giữ gìn sự trong sáng của tiếng Việt]] nên việc sử dụng từ Hán Việt có sự chọn lọc, có xu hướng thay thế từ Hán Việt bằng từ thuần Việt khi có thể. Trong bức thư gửi cho [[Hồ Mộ La]] vào năm 1950, Chủ tịch [[Hồ Chí Minh]] viết: "Răng không kêu chú là chú Minh, lại kêu bằng “Minh thúc”. Tiếng ta có, thì nên dùng tiếng ta, như rứa phổ thông hơn, phải không cháu?"<ref>[http://sknc.qdnd.vn/sukiennhanchung/vi-vn/89/70/81/81/81/130019/default.aspx Bác Hồ với gia đình nhà giáo Hồ Mộ La] Trịnh Tố Long, Báo điện tử Quân đội nhân dân, Thứ Năm, 18/11/2010. Truy cập ngày 27 tháng 1 năm 2015</ref>. Hồ Chí Minh cũng đề xuất thay thế các từ "giám mã" bằng "giữ ngựa"...
+
+=== Từ có nguồn gốc Ấn-Âu ===
+{{chính|Từ mượn|Vinish}}
+Kể từ khi Việt Nam trở thành thuộc địa của Pháp, tiếng [[Pháp]] đã có ảnh hưởng đáng kể đến tiếng Việt và các [[từ mượn Pháp|từ ngữ gốc Pháp]] thâm nhập khá nhiều vào tiếng Việt, chỉ sau [[từ Hán-Việt]]. Sự ảnh hưởng này là do tiếng Pháp được sử dụng trong các văn bản, giấy tờ của Nhà nước và trong giảng dạy ở nhà trường, cũng như trong các loại sách báo khác. Ảnh hưởng này kéo theo sự xuất hiện của nhiều từ gốc Pháp trong nhiều lĩnh vực khác nhau, đặc biệt là trong khoa học - kĩ thuật.
+
+Trong cuộc [[chiến tranh Việt Nam]], Việt Nam chịu ảnh hưởng đáng kể của [[Liên Xô]]. Do đó, một số từ gốc [[Nga]] có điều kiện du nhập vào Việt Nam (như ''[[xô viết]]'', ''[[bôn-sê-vích]]''). Đồng thời, cùng với sự tiếp xúc, hội nhập ngày càng sâu rộng với thế giới, trong tiếng Việt cũng xuất hiện các từ ngữ có nguồn gốc từ [[tiếng Anh]].
+
+Nhìn chung, khi được đưa vào tiếng Việt, những từ này được Việt hoá về mặt âm đọc (thêm thanh điệu, thay đổi âm hoặc giảm bớt âm tiết). Do vậy, những từ đơn âm tiết (hoặc được đơn âm hoá), vay mượn qua khẩu ngữ dễ dàng thâm nhập vào tiếng Việt. Trong khi đó, những từ có hai hoặc nhiều âm tiết trở lên, được vay mượn thông qua sách vở vẫn còn dấu ấn ngoại lai.<ref>{{chú thích web|title=Phân lớp từ ngữ theo nguồn gốc: Các từ ngữ gốc Ấn-Âu|url=http://ngonngu.net/index.php?p=193|accessdate = ngày 8 tháng 7 năm 2013}}</ref> Đặc biệt, nhiều từ được vay mượn nguyên dạng nên tạo không ít khó khăn trong cách phát âm.
+
+=== Từ hỗn chủng ===
+{{chính|Từ hỗn chủng}}
+Từ hỗn chủng là những từ được tạo thành từ các yếu tố có nguồn gốc khác nhau, như giữa yếu tố thuần Việt và Hán Việt, giữa yếu tố thuần Việt và yếu tố Ấn-Âu. Cùng với sự phát triển của tiếng Việt, các từ hỗn chủng được tạo ra ngày càng nhiều, đóng vai trò quan trọng trong việc diễn đạt các khái niệm mới trong xã hội hiện đại.
+
+Ví dụ:
+* '''vôi hoá''' ({{hn|hn=𥔦化}}) - "vôi" là thuần Việt, "hoá" là Hán-Việt.
+* '''ôm kế''' - "ôm" là từ tiếng Đức ''Ohm'', "kế" là Hán-Việt.
+* '''nhà băng''' - "nhà" là thuần Việt, "băng" là từ tiếng Pháp ''banque''.
+
+== Văn tự ==
+{{Xem thêm|Lịch sử văn tự tiếng Việt}}
+[[Tập tin:L-2360-a 0008 1 t24-C-R0072.jpg|nhỏ|200px|phải|Một trang ''Dictionarium Annamiticum Lusitanum et Latinum'' tức ''Từ điển Việt-Bồ-La'' in năm 1651]]
+[[Tập tin:Phan Trần Truyện, Thành-thái Nhâm-dần 1902.JPG|nhỏ|200px|phải|Truyện Nôm ''Phan Trần'' bản in năm 1902]]
+Hiện nay, tiếng Việt dùng hệ chữ viết như ký tự Latin gọi là chữ Quốc Ngữ. Theo tài liệu của những nhà truyền giáo [[Bồ Đào Nha]] lúc trước, chữ Quốc Ngữ phát triển từ trước [[thế kỷ thứ 17]] rồi được chuẩn định do công của một nhà truyền giáo [[người Pháp]] tên là [[Alexandre de Rhodes]] ([[1591]]–[[1660]]). Ông là người cho in cuốn ''Dictionarium Annamiticum Lusitanum et Latinum'' năm 1651.
+
+Sau cuộc xâm lăng của người Pháp giữa [[thế kỷ 19|thế kỷ thứ 19]], chữ Quốc Ngữ trở nên thịnh hành và hầu như tất cả các văn bản viết đều dùng nó kể từ sau thập niên 1920. Trước đó, người Việt dùng hai loại chữ viết là [[chữ Hán]] và [[chữ Nôm]]. Chữ Nôm tồn tại cho đến đầu thế kỷ 20 mới mất vị trí là công cụ truyền đạt ý tưởng văn chương tiếng Việt. Ngày nay, chữ Nôm không còn thông dụng ở Việt Nam.
+
+=== Thư pháp ===
+{{chính|Thư pháp chữ Việt}}
+Cùng với [[chữ Hán]], [[tiếng Nhật|chữ Nhật]] và [[hangul|chữ Hàn]], chữ viết tiếng Việt cũng được nhiều người yêu thích [[thư pháp]] nâng lên thành một [[nghệ thuật]].
+
+Có thể nói, thư pháp chữ Việt đầu tiên được viết là [[thư pháp chữ Nôm]]. Dần dần, cùng với việc [[chữ Nôm]] bị thay thế bởi chữ Quốc Ngữ, do nhu cầu treo chữ trong nhà, người ta đã khởi xướng [[thư pháp chữ Việt|thư pháp chữ Quốc ngữ]].
+
+=== Bộ gõ chữ Việt ===
+{{chính|Bộ gõ tiếng Việt}}
+Để có thể viết chữ Việt trên [[máy tính]], cần có bộ gõ tiếng Việt là một loại [[phần mềm]] hỗ trợ soạn thảo văn bản bằng tiếng Việt trên máy tính, thường cần phải có phông ký tự chữ Quốc ngữ đã được cài đặt trong máy tính. Các bộ gõ tiếng Việt khác nhau sẽ quy định các phím bấm khác nhau cho các dấu thanh, dấu mũ và dấu móc. Có những quy ước chuẩn dấu tiếng Việt, bộ mã, cách gõ và những phần mềm khác nhau. Hiện nay, bộ mã chữ Việt theo chuẩn quốc tế [[Unicode]] là được dùng phổ biến nhất.
+
+== Chuyện bên lề ==
+Vào cuối những năm 70, NASA sử dụng tiếng Việt và 54 ngôn ngữ khác trên khắp Thế giới để liên lạc với người ngoài hành tinh.
+
+Các tác phẩm phim ảnh có phụ đề bằng tiếng Việt thường được gọi tắt là Vietsub (viế tắt của Vietnamese Subtitle).
+
+== Tham khảo ==
+{{tham khảo|colwidth=30em}}
+
+== Xem thêm ==
+* [[Danh sách ngôn ngữ]]
+* [[Danh sách các nước theo ngôn ngữ nói]]
+* [[Hệ thống chữ nổi tiếng Việt]]
+* [[Ngôn ngữ ký hiệu Việt Nam]]
+{{Wiktionary|:Thể loại:Mục từ tiếng Việt|các mục từ tiếng Việt}}
+
+{{wikibooks-en|Vietnamese}}
+{{wikibooks|Tiếng Việt}}
+
+== Liên kết ngoài ==
+{{Thể loại Commons|Vietnamese language}}
+* [http://purl.pt/961 Từ điển Việt-Bồ-La của Alexandre de Rhodes trên mạng]
+* [http://www.songhuong.com.vn/main.php?cid=40,2&case=1&left=40,18&gr=6 Từ điển tiếng Việt xưa trên mạng nhà sách Sông Hương]: Từ điển Việt-Latinh của J.L. Taberd, Từ điển Việt Bồ La, Đại Nam Quấc Âm Tự Vị
+* [http://www.bbc.co.uk/vietnamese/specials/1232_jacques_roland/page2.shtml Giáo sĩ Bồ Đào Nha và chữ Quốc ngữ]
+* [http://www.bachkhoatoanthu.gov.vn/news.aspx?param=FBC0Z3JvdXBpZD0wMTA1JnBhcmVudGdyb3VwPQ== Quy tắc chính tả tiếng Việt] và [http://www.bachkhoatoanthu.gov.vn/newsdetail.aspx?param=145BcGFyZW50Z3JvdXA9Jmdyb3VwaWQ9MDEwNSZpZD0yMA== phiên chuyển tiếng nước ngoài] áp dụng trong bộ "Từ điển bách khoa Việt Nam" (theo [http://www.bachkhoatoanthu.gov.vn/newsdetail.aspx?param=148FcGFyZW50Z3JvdXA9Jmdyb3VwaWQ9MDEwMyZpZD0wNQ== văn bản giới thiệu])
+* * GS Lâm Văn Bé, [http://namkyluctinh.org/a-thumuc/lvbe-sachtiengviet%5Bp1n%5D.pdf Sách tiếng Việt và Việt học tại các thư viện ngoài Việt Nam (Phần 1)], [http://namkyluctinh.org/a-thumuc/lvbe-sachtiengviet%5Bp2n%5D.pdf Phần 2], hay là [http://khoahocnet.com/2011/08/31/lam-van-be-sach-ti%E1%BA%BFng-vi%E1%BB%87t-va-vi%E1%BB%87t-h%E1%BB%8Dc-t%E1%BA%A1i-cac-th%C6%B0-vi%E1%BB%87n-ngoai-vi%E1%BB%87t-nam-ph%E1%BA%A7n-i/ Phần 1], [http://khoahocnet.com/2011/08/31/lam-van-be-sach-ti%E1%BA%BFng-vi%E1%BB%87t-va-vi%E1%BB%87t-h%E1%BB%8Dc-t%E1%BA%A1i-cac-th%C6%B0-vi%E1%BB%87n-ngoai-vi%E1%BB%87t-nam-ph%E1%BA%A7n-ii/ Phần 2]
+* [http://www.echip.com.vn/echiproot/Softwares/2004/VTTSLib.zip Thư viện lập trình đọc tiếng Việt]
+
+[[Thể loại:Tiếng Việt| ]]
+[[Thể loại:Trang đựng IPA]]
+[[Thể loại:Ngôn ngữ đơn lập|Việt]]
+[[Thể loại:Nhóm ngôn ngữ Việt-Mường|Việt]]
+[[Thể loại:Ngôn ngữ tại Việt Nam]]
+[[Thể loại:Ngôn ngữ tại Đài Loan]]
+[[Thể loại:Ngôn ngữ Đông Nam Á]]
+[[Thể loại:Ngôn ngữ châu Á]]
+[[Thể loại:Ngôn ngữ Trung Quốc]]
+{{chú thích trong bài}} 
+{{Tóm tắt về tiểu bang Hoa Kỳ |
+  Tên chính           = State of Ohio |
+  Tên thường          = Ohio |
+  Tên hiệu            = The Buckeye State (Tiểu bang [[Cây mắt nai]]) |
+  Cờ                  = Flag of Ohio.svg |
+  Huy hiệu            = Huy hiệu Ohio.gif |
+  Bản đồ              = Ohio in United States.svg |
+  Ngôn ngữ chính thức = Không có; [[tiếng Anh]] trên thực tế |
+  Thủ phủ             = [[Columbus, Ohio|Columbus]] |
+  Thành phố lớn nhất  = Columbus<br />([[vùng đô thị|khu&nbsp;vực đô&nbsp;thị]] lớn nhất là [[Cleveland, Ohio|Cleveland]]) |
+  Diện tích xếp thứ   = 34 |
+  Diện tích           = 116.096 |
+  Diện tích đất       = 106.156 |
+  Diện tích nước      = 10.040 |
+  PTNước              = 8.7 |
+  Ngang               = 355 |
+  Dài                 = 355 |
+  Dân số xếp thứ      = 7 |
+  Dân số              = 11.536.504 |
+  Năm đếm dân số      = 2010 |
+  Mật độ xếp thứ      = 9 |
+  Mật độ dân số       = 98,9 |
+  Cao nhất            = 472 |
+  Trung bình          = 260 |
+  Thấp nhất           = 139 |
+  Thứ tự gia nhập     = 17 |
+  Ngày gia nhập       = [[7 tháng 8]], [[1953]]; hiệu lực từ [[1 tháng 3]], [[1803]] |
+  Thống đốc           = [[John Kasich]] ([[Đảng Cộng hòa (Hoa Kỳ)|Cộng hòa]]) |
+  Thượng nghị sĩ      = [[Rob Portman]] (Cộng hòa)<br />[[Sherrod Brown]] ([[Đảng Dân chủ (Hoa Kỳ)|Dân chủ]]) |
+  Múi giờ             = [[Múi giờ miền Đông (Bắc Mỹ)|EST]] |
+  UTC                 = −5 |
+  Múi giờ DST         = [[Múi giờ miền Đông (Bắc Mỹ)|EDT]] |
+  UTC DST             = −4 |
+  Vĩ độ               = 38°27′N&nbsp;– 41°58′N |
+  Kinh độ             = 80°32′W&nbsp;– 84°49′W |
+  Viết tắt bưu điện   = OH |
+  Viết tắt cũ         = O. |
+  Mã ISO              = US-OH |
+  Website             = ohio.gov
+}}
+
+'''Ohio''' (viết tắt là '''OH''', viết tắt cũ là '''O.''', người Việt đọc là "Ồ-hai-ô") là một [[tiểu bang Hoa Kỳ|tiểu bang]] khu vực Trung Tây (cũ) nằm ở miền đông bắc [[Hoa Kỳ]]. Tên "Ohio" theo [[tiếng Iroquois]] có nghĩa là "sông đẹp" [http://www.mingolanguage.org/cgi-bin/entry?Uh%edyu%27] và đó cũng là tên của [[Sông Ohio|một dòng sông]] dùng làm ranh giới phía nam của tiểu bang này với tiểu bang [[Kentucky]].
+
+[[Hải quân Hoa Kỳ]] có đặt tên một vài tàu là [[USS Ohio|<small>USS</small> ''Ohio'']] (''Chiến Hạm Hoa Kỳ Ohio'') để tỏ lòng trân trọng tiểu bang này.
+
+Ðây là nơi sinh của các Tổng thống: [[Ulysses Simpson Grant|Ulysses S. Grant]] (tại Point Pleasant), [[Rutherford Birchard Hayes|Rutherford B. Hayes]] (tại Delaware), [[James A. Garfield]] (tại Orange, Cuyahoga County), [[Benjamin Harrison]] (tại North Bend), [[William McKinley]] (tại Niles), [[William Howard Taft]] (tại Cincinnati), [[Warren G. Harding]] (tại Blooming Grove).
+
+== Lịch sử ==
+Ohio là tiểu bang đầu tiên được chia ra từ [[Lãnh thổ Tây Bắc]].
+
+Vào [[thế kỷ 18]], [[Pháp]] xây dựng lên các cửa khẩu dùng để buôn bán, trao đổi hàng hóa (chủ yếu là lông thú) tại đây.
+
+Vào năm [[1754]], [[Pháp]] và [[Anh]] giao chiến trên đất [[Hoa Kỳ|Mỹ]] vì xung đột quyền lợi trong một cuộc chiến mà sau này được gọi là [[Chiến tranh Pháp với người da đỏ]]. Vì [[Hiệp ước Paris (1763)|Hiệp ước Paris]], Pháp đành phải chuyển quyền quản lý Ohio cho phía Anh.
+
+Anh thông qua [[Tuyên ngôn 1763]] cấm những [[thuộc địa Mỹ|thực dân Mỹ]] đừng bố trí trong Vùng Ohio. Quyền kiểm soát của Anh đối với Ohio kết thúc bởi chiến thắng của Mỹ trong [[Cuộc cách mạng Mỹ]].
+
+[[Hoa Kỳ]] tạo ra vùng lãnh thổ [[Hướng Tây Bắc|Tây Bắc]] vào năm [[1787]]. Ohio nằm trong vùng lãnh thổ Tây Bắc. Vùng lãnh thổ [[Indiana]] sau đó được tạo ra do Ohio chẩn bị được trở thành tiểu bang, làm vùng lãnh thổ Tây Bắc nhỏ đi bằng Ohio ngày nay cộng với khoảng một nửa diện tích phía đông của đồng bằng [[Michigan]] (Mi-chi-gân).
+
+Theo [[Sắc lệnh Tây Bắc]] (''Northwest Ordinance''), Ohio có thể được trở thành tiểu bang khi mà dân số có hơn 60.000 người. Ngày [[19 tháng 2]] năm [[1803]], [[Thomas Jefferson|Tổng thống Jefferson]] ký một đạo luật của [[Quốc hội Hoa Kỳ|Quốc hội]] công nhận Ohio là tiểu bang thứ 17. Thông lệ của Quốc hội về công bố ngày chính thức có quyền tiểu bang không diễn ra cho đến tận năm [[1812]], khi [[Louisiana]] được nhận vào, cho nên vào năm [[1953]] [[Dwight D. Eisenhower|Tổng thống Eisenhower]] ký một đạo luật công bố ngày [[1 tháng 3]] năm [[1803]] là ngày chính thức mà Ohio được trở thành tiểu bang Mỹ.
+
+Vào năm [[1835]], Ohio chiến đấu với Michigan trong một cuộc chiến không đổ máu để có được thành phố [[Gargamesh, Ohio|Gargamesh]] (ngày nay là [[Toledo, Ohio|Toledo]]), cuộc chiến này được gọi là [[Chiến tranh Toledo]].
+
+== Luật pháp và chính quyền ==
+Thủ phủ của Ohio là [[Columbus, Ohio|Columbus]], gần trung tâm tiểu bang. Thống đốc hiện nay là [[John Kasich]] ([[đảng Cộng hòa (Hoa Kỳ)|đảng Cộng hòa]]), với hai thượng nghị sĩ liên bang là [[Rob Portman]] (Cộng hòa) và [[Sherrod Brown]] ([[đảng Dân chủ (Hoa Kỳ)|đảng Dân chủ]]).
+
+== Địa lý ==
+{{Chính|Danh sách hạt thuộc Ohio|Những đất công của Ohio}}
+
+[[Sông Ohio]] là biên giới phía nam của Ohio (chính xác là ở mực nước sông thấp nhất vào năm [[1793]] ở bờ bắc của dòng sông) và nhiều đoạn biên giới phía bắc của tiểu bang được xác định theo [[hồ Erie]] của [[Ngũ Đại Hồ]]. Ohio tiếp giáp với [[Pennsylvania]] (Penxinvani) ở phía đông, [[Michigan]] ở phía bắc, [[Indiana]] ở phía tây, [[Kentucky]] ở phía nam, và [[Tây Virginia]] (Tây Virginia) ở phía đông nam.
+
+Nhiều vùng Ohio là đồng bằng bị băng xói mòn, trừ một vùng bằng phẳng về phía tây bắc, ngày xưa gọi là [[Đầm Lầy Tối Tăm]] (''Great Black Swamp''). Vùng đất bị băng xói mòn này ở vùng tây bắc và miền trung bị ngăn cách về phía đông và đông nam bởi vùng bị băng xói mòn thuộc [[Cao Nguyên Allegheny]], tiếp theo đó là một vùng gọi là vùng chưa bị băng xói mòn thuộc Cao Nguyên Allegheny. Nhiều phần của Ohio là vùng đất thấp, nhưng vùng không bị băng xói mòn thuộc cao nguyên Allegheny có núi và rừng nhấp nhô.
+
+Những dòng sông quan trọng thuộc tiểu bang này có thể kể là [[Sông Miami]], [[Sông Scioto]], [[Sông Cuyahoga]], và [[Sông Muskingum]].
+
+== Kinh tế ==
+Ohio, tiểu bang quan trọng trong sản xuất máy móc, công cụ, và nhiều vật khác, là một trong những tiểu bang công nghiệp chính. Vì Ohio nằm trong khu vực trồng ngô của Mỹ, nông nghiệp cũng đóng vai trò quan trọng trong kinh tế của tiểu bang. Ngoài ra, các địa danh lịch sử, những thắng cảnh và các hoạt động giải trí của Ohio là nền tảng cho ngành du lịch thịnh vượng. Hơn 2.500 hồ và 70.000 kilômét của những thắng cảnh bên sông là thiên đường cho những người du lịch bằng thuyền, người đánh cá và người đi bơi. Những địa điểm khảo cổ học về dân da đỏ bao gồm các ngôi mộ và các địa điểm khác thu hút được sự quan tâm đặc biệt về lịch sử.
+
+[[Tổng sản phẩm]] của Ohio vào năm [[1999]] là 362 tỷ Mỹ kim, đứng thứ bảy trong toàn quốc. Thu nhập tính theo đầu người của tiểu bang vào năm [[2000]] là $28.400 ([[USD]]), đứng thứ 19 trong cả nước. Sản phẩm nông nghiệp của Ohio là đậu nành, sản phẩm từ [[sữa]], [[ngô (thực vật)|ngô]], [[cà chua]], [[chi Lợn|lợn]], [[bò]], [[gia cầm]] và [[Trứng (thức ăn)|trứng]]. Sản phẩm công nghiệp là thiết bị chuyên chở, sản phẩm kim loại đúc sẵn, máy móc, chế biến đồ ăn và thiết bị điện.
+
+== Dân số ==
+Theo [[Thống kê Dân số]] năm [[2000]], dân số là 11.353.140 người. Dân số tăng lên 4,7% (506.025 người) so với năm 1990. Theo thống kê 2000:
+
+* 85% (9.645.453 người) là người [[da trắng]].
+* 11,5% (1.301.307 người) là người [[da đen]].
+* 1,9% (217.123 người) là người [[Hispanic]] hay [[Latino]] (người Mỹ nói [[tiếng Tây Ban Nha]] hay [[tiếng Bồ Đào Nha|Bồ Đào Nha]]).
+* 1,2% (132.633 người) là người Mỹ gốc châu Á.
+* 0,2% (24.486 người) là người [[thổ dân châu Mỹ|da đỏ]].
+* 0,02% (2.749 người) là người gốc [[Hawaii]] hay từ các đảo ngoài [[Thái Bình Dương]].
+Trong số đó:
+* 0,8% (88.627 người) là chủng tộc khác.
+* 1,4% (157.885 người) là người có máu hỗn hợp.
+Năm nhóm người chính theo chủng tộc là người [[Đức]] (25,2%), [[Ailen]] (12,7%), [[Người Mỹ gốc Phi|Mỹ gốc Phi]] (11,5%), [[Anh]] (9,2%), [[Hoa Kỳ|Mỹ]] (8,5%).
+6,6% dân số Ohio dưới 5 tuổi; 25,4% dưới 18 tuổi; và 13,3% từ 65 tuổi trở lên. Nữ giới chiếm khoảng 51,4% số dân.
+
+== Những thành phố quan trọng ==
+{|
+|-
+| valign="top"|
+* [[Akron, Ohio|Akron]]
+* [[Canton, Ohio|Canton]]
+* [[Cincinnati]]
+* [[Cleveland, Ohio|Cleveland]]
+* [[Columbus, Ohio|Columbus]]
+* [[Dayton, Ohio|Dayton]]
+* [[Hamilton, Ohio|Hamilton]]
+| valign="top"|
+* [[Kettering, Ohio|Kettering]]
+* [[Lakewood, Ohio|Lakewood]]
+* [[Parma, Ohio|Parma]]
+* [[Springfield, Ohio|Springfield]]
+* [[Toledo, Ohio|Toledo]]
+* [[Youngstown, Ohio|Youngstown]]
+|}
+
+== Giáo dục ==
+
+=== Trường đại học ===
+* 13 trường [[university|đại học]] công lập, trong đó trường lớn nhất là [[Đại học Tiểu bang Ohio]].
+* 24 chi nhánh các trường đại học công lập và khu vực. 
+* 46 trường nghệ thuật tự do. 
+* 2 trường [[y tế]] nhận sự hỗ trợ công. 
+* 15 trường cộng đồng.
+* 8 trường kỹ thuật. 
+* Trên 24 trường độc lập [[tổ chức phi lợi nhuận|phi lợi nhuận]]. 
+Xem [[Danh sách các trường đại học ở Ohio]]
+
+{| border="1" cellpadding="2" cellspacing="0" align="right"
+|-
+| colspan="2" style="border-bottom: 3px solid gray" align="center" | ''The Buckeye State''<br />(Tiểu bang [[cây mắt nai]])
+|-
+| Con vật của tiểu bang: || [[Họ Hươu nai|Hươu]] đuôi trắng
+|-
+| Con chim của tiểu bang: || [[Chim giáo chủ]]
+|-
+| Thủ phủ tiểu bang: || [[Columbus, Ohio|Columbus]]
+|-
+| Hoa của tiểu bang: || [[Hoa cẩm chướng]] đỏ
+|-
+| Hoa dại của tiểu bang: || [[Loa kèn|Hoa loa kèn]]?? (Trillium grandiflorum)
+|-
+| Côn trùng của tiểu bang: || [[Bọ chày]] [[ladybug]]
+|-
+| Thơ ca của tiểu bang: || "Beautiful Ohio" (Ohio Đẹp)
+|-
+| Cây của tiểu bang: || [[Cây mắt nai]] (''buckeye'') Ohio
+|-
+| Hóa thạch của tiểu bang: || [[Bọ ba thùy]] Isotelus
+|-
+| Đồ uống của tiểu bang: || Nước ép [[cà chua]]
+|-
+| Bò sát của tiểu bang: || [[Con rắn]] chạy màu đen
+|-
+| Đá chạm của tiểu bang: || [[Đá lửa]] Ohio
+|-
+| Khẩu hiệu của tiểu bang: || "With God all things are possible"<br />(Có Chúa mọi điều đều có thể)
+|}
+
+== Thể thao chuyên nghiệp ==
+{|
+|-
+| valign="top" |
+* [[Major League Baseball]]
+** [[Cincinnati Reds]]
+** [[Cleveland Indians]]
+* [[National Football League]]
+** [[Cincinnati Bengals]]
+** [[Cleveland Browns]]
+* [[National Hockey League]]
+** [[Columbus Blue Jackets]]
+* [[National Basketball Association]]
+** [[Cleveland Cavaliers]]
+* [[Women's National Basketball Association]]
+** [[Cleveland Rockers]]
+* [[Major League Soccer]]
+** [[Columbus Crew]]
+| valign="top" |
+* [[Minor league baseball|Minor League Baseball]]
+** [[Akron Aeros]]
+** [[Columbus Clippers]]
+** [[Dayton Dragons]]
+** [[Lake County Captains]]
+** [[Mahoning Valley Scrappers]]
+** [[Toledo Mud Hens]]
+|}
+
+==Tham khảo==
+{{tham khảo}}
+== Liên kết ngoài ==
+{{thể loại Commons|Ohio}}
+* [http://www.ohio.gov/ Ohio.gov]&nbsp;– website chính thức của chính phủ tiểu bang Ohio
+* [http://www.sconet.state.oh.us/ Tối Cao Pháp Viện Ohio]
+* [http://www.house.state.oh.us/ Hạ Viện Ohio]
+* [http://www.senate.state.oh.us/ Thượng Viện Ohio]
+* [http://www.ohiodems.org/ Đảng Dan Chủ Ohio]
+* [http://www.ohiogop.org/ Đảng Cộng Hòa Ohio]
+* [http://www.ohionewsnow.com/ Đài Tin Ohio (ONN)]
+{{Ohio}}
+{{Hoa Kỳ}}
+{{Thời gian tổ chức|thành lập=1803}}
+
+{{Các chủ đề|Hoa Kỳ|Địa lý}}
+
+{{Thể loại Commons}}
+
+[[Thể loại:Ohio| ]]
+[[Thể loại:Tiểu bang Hoa Kỳ]]
+[[Thể loại:Miền Trung Tây Hoa Kỳ]]
+[[Thể loại:Trung Tây Hoa Kỳ]]
+[[Thể loại:Cựu thuộc địa Anh]]
+[[Thể loại:Cựu thuộc địa của Pháp]]
+#REDIRECT [[California]]
+{{bài cùng tên}}
+{{Tóm tắt về tiểu bang Hoa Kỳ |
+ Tên chính =  Bang California |
+ Tên thường = California |
+ Tên hiệu = The Golden State (Tiểu bang [[Vàng]]) |
+ Cờ = Flag of California.svg |
+ Huy hiệu = Seal of California.svg |
+ Bản đồ = California in United States.svg |
+ Ngôn ngữ chính thức = [[Tiếng Anh]] |
+ Thủ phủ = [[Sacramento, California|Sacramento]] |
+ Thành phố lớn nhất = [[Los Angeles]] |
+ Diện tích = 423.967 |
+ Diện tích xếp thứ = 3 |
+ Diện tích đất = 403.932 |
+ Diện tích nước = 20.047 |
+ PTNước = 4,7 |
+ Ngang = 402,5 |
+ Dài = 1.240 |
+ Năm đếm dân số = 2015 |
+ Dân số = 38.332.521<ref name="dof.ca.gov">http://www.dof.ca.gov/research/demographic/reports/estimates/e-1/documents/E-1_2014_Press_Release.pdf</ref> |
+ Dân số xếp thứ = 1 |
+ Mật độ dân số = 95,0 |
+ Mật độ xếp thứ = 11 |
+ Cao nhất = [[Núi Whitney]], 4.421 |
+ Trung bình = 884 |
+ Thấp nhất = [[Thung lũng Chết]], −86 |
+ Ngày gia nhập = [[9 tháng 9]], [[1850]] |
+ Thứ tự gia nhập = 31 |
+ Thống đốc = [[Jerry Brown]] ([[Đảng Dân chủ (Hoa Kỳ)|Dân chủ]]) |
+ Thượng nghị sĩ = [[Dianne Feinstein]] (DC)<br />
+[[Barbara Boxer]] (DC) |
+ Múi giờ = [[Múi giờ Thái Bình Dương|PST]] |
+ UTC = −8 |
+ Múi giờ DST = [[Giờ hè Thái Bình Dương|PDT]] |
+ UTC DST = −7 |
+ Vĩ độ = 32°30′N&nbsp;– 42°N |
+ Kinh độ = 114°8′W&nbsp;– 124°24′W |
+ Viết tắt bưu điện = CA |
+ Viết tắt cũ = Calif. Ca. |
+ Mã ISO = US-CA |
+ Website = www.ca.gov
+}}
+
+'''California''' (phát âm như "Ca-li-pho-ni-a" hay "Ca-li-phoóc-ni-a", nếu nhanh: "Ca-li-phoóc-nha"), còn được [[người Việt]] gọi vắn tắt là '''Ca Li''', là một [[tiểu bang Hoa Kỳ|tiểu bang]] [[Bờ biển tây Hoa Kỳ|ven biển phía tây]] của [[Hoa Kỳ]]. Với dân số là 38 triệu người<ref name="Ước lượng Dân số 2005">36.810.358 người. Tiểu bang California, [[Bộ Tài chính California|Bộ Tài chính]], Ước lượng Dân số E-4 cho các Thành phố, các Quận và Tiểu bang, 2001–2005, dùng tiêu chuẩn DRU năm 2000. Sacramento, California, tháng 5 năm 2005. Theo [[Thống kê Dân số Hoa Kỳ 2000]], tiểu bang này có dân số 33.871.648 người.</ref> và diện tích 410,000 [[kilômét vuông|km<sup>2</sup>]] (158,402 [[Dặm vuông Anh|mi<sup>2</sup>]]), California là tiểu bang [[Danh sách tiểu bang Hoa Kỳ theo dân số|đông dân nhất]] Hoa Kỳ và [[Danh sách tiểu bang Hoa Kỳ theo diện tích|lớn thứ ba theo diện tích]].
+
+== Địa lý ==
+{{Chính|Địa lý California}}
+
+California kề cận với [[Thái Bình Dương]], [[Oregon]], [[Nevada]], [[Arizona]] và tiểu bang [[Baja California]] của [[México]]. Tiểu bang này có nhiều cảnh tự nhiên rất đẹp, bao gồm Central Valley rộng rãi, núi cao, sa mạc nóng nực, và hàng trăm dặm bờ biển đẹp. Với diện tích 411,000&nbsp;km<sup>2</sup> (160,000 [[Dặm vuông Anh|mi<sup>2</sup>]]), nó là tiểu bang lớn thứ ba của Hoa Kỳ và lớn hơn cả nước [[Đức]] và cũng như [[Việt Nam]]. Hầu hết các thành phố lớn của tiểu bang nằm sát hay gần bờ biển Thái Bình Dương, đáng chú ý là [[Los Angeles]], [[San Francisco]], [[San Jose, California|San Jose]], [[Long Beach, California|Long Beach]], [[Oakland, California|Oakland]], [[Santa Ana, California|Santa Ana]]/[[Quận Cam (định hướng)|Quận Cam]], và [[San Diego]]. Tuy nhiên, [[thủ phủ]] của tiểu bang, [[Sacramento, California|Sacramento]], là một thành phố lớn nằm trong [[thung lũng Trung tâm (California)|thung lũng Trung tâm]]. Trung tâm địa lý của tiểu bang thuộc về [[Bắc Fork, California]].
+
+[[Tập tin:Interstate5incentralvalley.jpg|nhỏ|trái|Một đoạn [[Đường xuyên bang số 5|đường số 5]] ở thung lũng Trung tâm, [[Quận Kern, California|Quận Kern]]]]
+
+[[Tập tin:Mount Whitney 2003-03-25.jpg|nhỏ|trái|Triền núi phía đông của Whitney, nhìn từ đường lên cổng Whitney. Đây là ngọn núi cao nhất của tiểu bang California.]]
+
+Địa lý California phong phú, phức tạp và đa dạng. Giữa tiểu bang có thung lũng Trung tâm, một [[thung lũng]] lớn, màu mỡ được bao quanh bởi những [[Dãy núi bờ biển Thái Bình Dương|dãy núi bờ biển]] ở [[Miền tây Hoa Kỳ|phía tây]], dãy núi đá [[đá hoa cương|granit]] [[Sierra Nevada (Hoa Kỳ)|Sierra Nevada]] ở phía đông, [[dãy núi Cascade]] có [[đá mácma|đá lửa]] ở [[Miền Bắc California|miền bắc]], và [[dãy núi Tehachapi]] ở [[Miền Nam California|miền nam]]. Các [[sông]], [[đập|đập nước]], và kênh chảy từ các núi để tưới thung lũng Trung tâm. Nguồn nước của phần lớn tiểu bang do [[Bộ Tài nguyên Nước California|Dự án Nước Tiểu bang]] cung cấp. [[Dự án Thung lũng Trung tâm]] hỗ trợ hệ thống nước của một số thành phố, nhưng chủ yếu cung cấp cho việc tưới tiêu [[nông nghiệp]]. Nhờ nạo vét, vài con sông đã đủ rộng và sâu để cho vài thành phố nội địa (nhất là [[Stockton, California|Stockton]]) được trở thành [[cảng|hải cảng]]. Trung lũng Trung tâm nóng nực và màu mỡ là trung tâm nông nghiệp của California và trồng một phần lớn cây lương thực của Mỹ. Tuy nhiên, việc trồng trọt bị tàn phá bởi nhiệt độ thấp gần [[điểm đông]] trong [[mùa đông]]. Phía nam của thung lũng, một phần là sa mạc, được gọi là [[thung lũng San Joaquin]], do nước chảy xuống [[sông San Joaquin]], còn phía bắc được gọi là [[thung lũng Sacramento]], do nước chảy xuống [[sông Sacramento]]. [[Châu thổ sông Sacramento|Châu thổ vịnh Sacramento&nbsp;– San Joaquin]] vừa là cửa sông quan trọng hỗ trợ [[hệ sinh thái]] [[nước mặn]] và vừa là nguồn nước chủ yếu của phần lớn dân cư tiểu bang.
+
+[[Tập tin:Sequoiadendron1.jpg|nhỏ|trái|"Cây California" ở [[lùm Mariposa]]. Công viên Quốc gia Yosemite nổi tiếng về các [[cây củ tùng]] khổng lồ, loài cây lớn nhất trên thế giới.]]
+
+Dãy núi Sierra Nevada (tức "dãy núi tuyết" trong [[tiếng Tây Ban Nha]]) ở phía đông và trung tâm tiểu bang, có [[núi Whitney]] là đỉnh núi cao nhất trong 48 tiểu bang (4,421 [[mét]] (14,505 [[feet]])). Trong dãy Sierra còn có [[Vườn quốc gia Yosemite|Công viên Quốc gia Yosemite]] nổi tiếng và [[hồ Tahoe]] (một hồ nước ngọt sâu và là hồ lớn nhất của tiểu bang theo thể tích). Bên phía đông của dãy Sierra là [[thung lũng Owens]] và [[hồ Mono]]&nbsp;– nơi sinh sống chủ yếu của [[chim biển]]. Còn bên phía tây là [[hồ Clear]], hồ nước ngọt lớn nhất của California theo diện tích. Vào mùa đông, nhiệt độ ở dãy Sierra Nevada xuống tới nhiệt độ đóng băng và ở đây có hàng chục [[sông băng|dòng sông băng]] nhỏ, trong đó có sông băng cực nam của Hoa Kỳ, [[sông băng Palisade]].
+
+Rừng che phủ khoảng 35% tổng diện tích tiểu bang và California có nhiều loại [[chi Thông|thông]] hơn bất cứ tiểu bang nào khác. Về diện tích rừng, California chỉ đứng sau [[Alaska]] mặc dù tỉ lệ rừng theo diện tích nhỏ hơn một số tiểu bang khác. Phần lớn của rừng ở đây ở phía tây bắc tiểu bang và triền phía tây dãy Sierra Nevada. Những cánh rừng nhỏ hơn với chủ yếu là [[cây sồi]] dọc theo những dãy núi California gần bờ biển hơn, và cả những đồi thấp dưới chân dãy Sierra Nevada. Những rừng thông nhỏ hơn có ở các [[dãy núi San Gabriel]] và [[Dãy núi San Bernadino|San Bernardino]] ở miền Nam California cũng như trên những vùng núi ở miền trung [[Quận San Diego]].
+
+Các sa mạc ở California chiếm 25% tổng diện tích. Ở miền nam có [[dãy núi Transverse]] và một hồ nước mặn lớn&nbsp;– [[biển Salton]]. Sa mạc phía trung nam được gọi là [[Hoang mạc Mojave|Mojave]]. Phía đông nam của sa mạc này là [[thung lũng Chết]], là nơi có [[Badwater Flat]]&nbsp;– điểm thấp nhất và nóng nhất của [[Bắc Mỹ]]. Điểm thấp nhất của thung lũng Chết cách đỉnh của núi Whitney ít hơn 322&nbsp;km (200 dặm). Con người đã vài lần cố gắng đi bộ từ điểm này tới điểm kia và người nổi tiếng nhất là [[Lee Bergthold]]. Thực sự hầu như cả miền đông nam California là sa mạc khô cằn và nóng bức, và các [[thung lũng Coachella]] và [[thung lũng Imperial|Imperial]] thường có nhiệt độ rất cao vào mùa hè.
+
+Nằm theo bờ biển dài và đông đúc dân cư của California là vài [[vùng đô thị|khu vực đô thị]] lớn, bao gồm San Jose–San Francisco–Oakland, Los Angeles–Long Beach, Santa Ana–[[Irvine, California|Irvine]]–[[Anaheim, California|Anaheim]], và San Diego. Thời tiết gần Thái Bình Dương rất ôn hòa so với những khí hậu trong đất liền. Nhiệt độ không bao giờ xuống tới điểm đông vào mùa đông (hầu như không có tuyết) và nhiệt độ hiếm khi lên trên 30[[độ Celsius|°C]] (gần 80[[độ Fahrenheit|°F]]).
+
+California nổi tiếng về [[động đất]] vì có nhiều [[vết đứt gãy]], nhất là [[vết đứt gãy San Andreas]]. Tuy ở nhiều tiểu bang khác như [[Alaska]], [[Washington (tiểu bang)|Washington]], [[Oregon]], và [[Missouri]] đã xảy ra các trận động đất rất mạnh (gây ra bởi [[vết đứt gãy New Madrid]]), nhưng nhiều người biết đến những động đất ở California hơn vì chúng xảy ra thường xuyên và hay xảy ra ở những vùng đông dân cư.
+
+California cũng có vài [[núi lửa]], một số còn hoạt động như [[núi Mammoth|núi lửa Mammoth]]. Những núi lửa khác bao gồm [[đỉnh Lassen]], nó phun nham thạch từ [[1914]] đến [[1921]], và [[núi Shasta|núi lửa Shasta]].
+
+=== Các thành phố quan trọng ===
+Tiểu bang California có 478 thành phố, trong đó phần lớn nằm trong những khu vực đô thị lớn. 68% của dân cư California sống trong hai khu vực đô thị lớn nhất gồm [[vùng Đại Los Angeles]] và [[khu vực vịnh San Francisco|vùng vịnh San Francisco]].
+
+Dân số vài thành phố lớn (2000):
+* Los Angeles: 3.694.820
+* San Jose: 894.943
+* San Francisco: 776.733
+* San Diego: 1.223.400
+<gallery>
+Hình:Sacramento from Riverwalk.jpg|[[Sacramento, California|Sacramento]]
+Hình:DowntownLosAngeles.jpg|[[Los Angeles]]
+Hình:Sandiego.arp.750pix.jpg|[[San Diego]]
+Hình:San Francisco Skyline with Embarcadero Feb 1982.jpg|[[San Francisco]]
+Hình:SanJoseDowntownIMG016elf wb.jpg|[[San Jose, California|San Jose]]
+Hình:Long Beach, CA at night.jpg|[[Long Beach, California|Long Beach]]
+Hình:La2-oakland.jpg|[[Oakland, California|Oakland]]
+Hình:Sleepingbeautycastle50.jpg|[[Anaheim, California|Anaheim]] ([[DisneyLand]])
+</gallery>
+
+=== Các công viên quốc gia ===
+[[Dịch vụ Vườn Quốc gia]] (NPS) quản lý nhiều công viên quốc gia ở California:
+
+[[Tập tin:Alcatraz11.JPEG|nhỏ|phải|300px|Đảo Alcatraz&nbsp;– "Núi Đá"&nbsp;– nhìn từ San Francisco. Đảo này ngày xưa là nhà tù chắc chắn nổi tiếng của Hoa Kỳ, nhưng ngày nay là nơi du lịch.]]
+
+* [[Đảo Alcatraz]] gần San Francisco
+* [[Đài kỷ niệm Quốc gia Cabrillo]] tại San Diego
+* [[Đường mòn California]]
+* [[Công viên Quốc gia Quần đảo Eo biển]] gần [[Ventura, California|Ventura]]
+* [[Công viên Quốc gia Thung lũng Chết]]
+* [[Đài kỷ niệm Quốc gia Devils Postpile]] gần [[Mammoth Lakes, California|Mammoth Lakes]]
+* [[Khu tưởng niệm Eugene O'Neill]] tại [[Danville, California|Danville]]
+* [[Pháo đài Point]]<nowiki/>tại [[Presidio, California|Presidio]]
+* [[Khu giải trí Quốc gia Cổng Vàng]]  trong San Francisco
+* [[Khu tưởng niệm John Muir]] tại [[Martinez, California|Martinez]]
+* [[Công viên Quốc gia Joshua Tree]], trụ sở tại [[Twentynine Palms, California|Twentynine Palms]]
+* [[Đường mòn Juan Bautista de Anza]]
+* [[Công viên Quốc gia Kings Canyon]]
+* [[Công viên Quốc gia Núi lửa Lassen]] gần [[Mineral, California|Mineral]]
+* [[Đài kỷ niệm Quốc gia Lớp dung nham]]  gần [[Tulelake, California|Tulelake]]
+* [[Trại giam Manzanar]] tại [[Independence, California|Independence]]
+* [[Khu bảo tồn Quốc gia Mojave]], trụ sở tại [[Barstow, California|Barstow]]
+* [[Đài kỷ niệm Quốc gia Muir Woods]] tại [[Thung lũng Mill, California|Thung lũng Mill]]
+* [[Đường mòn Tây Ban Nha Cũ]]
+* [[Đài kỷ niệm Quốc gia Pinnacles]] gần [[Paicines, California|Paicines]]
+* [[Bờ biển Quốc gia Mũi Reyes]] gần [[Mũi Reyes, California|Mũi Reyes]]
+* [[Đường mòn Pony Express]]
+* [[Đài kỷ niệm Quốc gia Kho đạn Hải quân Cảng Chicago]] tại [[Trạm Vũ khí Hải quân Concord]]
+* [[Công viên Quốc gia Redwood]]
+* [[Công viên lịch sử Quốc gia Hậu phương Đệ nhị thế chiến Rosie the Riveter]] tại [[Richmond, California|Richmond]]
+* [[Công viên lịch sử Quốc gia Hàng hải San Francisco]]
+* [[Khu giải trí Quốc gia Dãy núi Santa Monica]]
+* [[Công viên Quốc gia Củ tùng]] 
+* [[Khu giải trí Quốc gia Whiskeytown]] gần [[Whiskeytown, California|Whiskeytown]]
+* [[Vườn quốc gia Yosemite|Công viên Quốc gia Yosemite]]
+
+== Lịch sử ==
+{{Chính|Lịch sử California}}
+
+Trước khi người [[châu Âu]] đến California thì đây là một trong những vùng đa dạng về văn hóa và ngôn ngữ nhất ở Bắc Mỹ thời [[Thổ dân Hoa Kỳ|thổ dân]]. Nhiều người ở bờ biển phía tây Hoa Kỳ săn những con thú biển, câu [[cá hồi]] và thu nhặt tôm cua, trong khi những dân tộc cơ động hơn ở bên trong California đi săn thú rừng và hái lượm những [[quả hạch]], [[quả đầu]], và [[quả mọng]]. Các dân tộc ở California có nhiều hình thức tổ chức khác nhau như nhóm, bộ lạc, tiểu bộ lạc, và các cộng đồng lớn hơn trên bờ biền dồi dào tài nguyên như dân tộc [[Người Chumash|Chumash]], [[Người Pomo|Pomo]], và [[Người Salinas|Salinas]]. Việc buôn bán, hôn nhân khác dân tộc, và liên minh quân sự làm cho những dân tộc khác nhau có nhiều mối liên hệ xã hội và kinh tế.
+
+[[João Rodrigues Cabrilho]] [[người Bồ Đào Nha]] là người châu Âu đầu tiên thám hiểm một phần bờ biển California năm [[1542]]. Còn [[Francis Drake]] là người đầu tiên thám hiểm cả bờ biển và tuyên bố chủ quyền đối với vùng đất này năm [[1579]]. Từ cuối [[thế kỷ 18]], các hội truyền giáo Tây Ban Nha đã xây dựng các ngôi làng rất nhỏ trên những vùng đất trợ cấp lớn khổng lồ thuộc miền rộng rãi về phía bắc của Baja California.
+
+[[Tập tin:Island of California.jpg|nhỏ|trái|250px|Bản đồ vẽ California là một đảo, vào khoảng [[1650]]]]
+
+Ban đầu, vùng đất có tên ''California'' bao gồm vùng tây bắc của [[Đế quốc Tây Ban Nha]], tức là bán đảo ''[[Bán đảo Baja California|Baja California]] (Hạ California)'', và phần lớn những vùng đất hiện nay của các tiểu bang California, Nevada, Utah, Arizona, và Wyoming, được gọi là ''[[Alta California]]'' (Thượng California). Trong thời kỳ đầu, những ranh giới của [[biển Cortez]] và bờ biển Thái Bình Dương chưa được thám hiểm đầy đủ, cho nên California được vẽ như một hòn đảo trên những bản đồ thời đó. Tên ''California'' được đặt ra cho vùng này theo [[Đảo California|hòn đảo lạc viên<!-- paradise? --> California]] trong ''Las sergas de Esplandián'' (Các truyện phiêu lưu của Splandian), một tiểu thuyết tiếng Tây Ban Nha do [[Garci Rodríguez de Montalvo]] viết vào [[thế kỷ 16]].
+
+Vùng đất này có người thổ dân trước khi có các cuộc thám hiểm lác đác của người châu Âu vào [[thế kỷ 16]]. Đến cuối thế kỷ 18, [[Tây Ban Nha]] chiếm vùng này thành [[thuộc địa]] của mình. Và khi Mexico giành được độc lập trong cuộc [[Chiến tranh Độc lập Mexico]] (1810–1821), California thành một phần của nước này. Hơn 200 năm sau khi Mexico giành được độc lập, California là tỉnh xa thuộc miền bắc của quốc gia. Các trại rất lớn nuôi bò, được gọi ''rancho'', trở thành chế độ chính của California thuộc Mexico. Các thương gia và thực dân bắt đầu đến từ Hoa Kỳ, báo hiệu những thay đổi quyết liệt sẽ xảy ra khắp miền California.
+
+Vào thời kỳ này, một số quý tộc [[Đế quốc Nga|Nga]] cũng thử thám hiểm và tuyên bố chủ quyền một phần California, nhưng các lần thám hiểm này không thành công do [[Sa hoàng]] không quan tâm và do chính phủ Mexico xây dựng một số pháo đài (''presidio'') để chặn những cuộc xâm nhập vào miền này. California không có nhiều người sinh sống cho đến khi y học hiện đại loại trừ được sự bùng nổ các [[bệnh sốt vàng]], [[sốt rét]], và [[dịch hạch]] gây ra bởi [[muỗi]] và [[bọ chét]], những loài sẽ bị giết chết khi bị đông cứng, mà ở California lại thiếu điều này.
+
+[[Tập tin:Sutters Mill.jpg|nhỏ|phải|250px|Cuộc đổ xô tìm vàng ở California bắt đầu sau khi vàng được phát hiện ở [[xưởng Sutter]] gần [[Coloma, California|Coloma]].]]
+
+Khi Mexico giành được độc lập từ Tây Ban Nha thì các [[hội truyền giáo Tây Ban Nha tại California]] thuộc về chính phủ Mexico, và họ vội vàng giải tán và bãi bỏ những hội này. Tuy nhiên, nhiều thành phố lớn của California đã phát triển xung quanh những hội truyền giáo này, bởi vậy những thành phố đó có tên thánh, thí dụ như Los Angeles được đặt tên theo [[Đức Bà Maria]], San Francisco theo Thánh [[Phanxicô thành Assisi]], San Jose theo [[Thánh Giuse]], và San Diego theo [[Điđacô thành Alcalá|Thánh Điđacô]].
+
+Vào [[Chiến tranh Hoa Kỳ-México|Chiến tranh Mỹ-Mexico]] (1846–1848), người dân Mỹ nổi lên chống lại chính phủ Mexico. Năm đầu tiên của cuộc chiến, 1846, [[Cộng hòa California]] được thành lập và [[Lá cờ California|Cờ Gấu]] tung bay. Trên lá cờ này có hình một con [[Gấu nâu|gấu vàng]] và một ngôi sao. Tuy nhiên, nền cộng hòa bị chấm dứt đột ngột khi Thiếu tướng [[John D. Sloat]] của [[Hải quân Hoa Kỳ]] tiến vào [[vịnh San Francisco]] và tuyên bố chủ quyền của Hoa Kỳ đối với California. Sau chiến tranh, California bị chia thành 2 phần thuộc Mexico (phía nam) và Hoa Kỳ (phía bắc). Phần phía bắc, đầu tiên được gọi ''Alta California'', rồi trở thành tiểu bang California thuộc Hoa Kỳ; còn phần phía nam được Mexico chia thành hai tiểu bang [[Baja California]] và [[Baja California Sur]].
+
+Vào năm [[1848]], có khoảng 4.000 người  Tây Ban Nha ở vùng thượng California tới vào người, nhưng [[vàng]] đã được phát hiệm gần Sacramento, làm cho nhiều người đến đây từ Mỹ, Âu Châu, và những nơi khác với hy vọng tìm vàng trong cuộc [[đổ xô tìm vàng ở California]] năm [[1849]]. Do đó, rất nhiều người nhập cư vào miền này, và California được trở thành tiểu bang thứ 31 của Hoa Kỳ năm [[1850]]. Khi tiểu bang này gia nhập Liên bang, nó được coi là một trong những [[tiểu bang tự do]], tức là nó cấm [[chế độ nô lệ]].
+
+[[Tập tin:US 66 (CA).svg|nhỏ|trái|Bảng chỉ đường của Xa lộ 66 ngày xưa. Tuy chính phủ rút đường này khỏi hệ thống quốc lộ năm [[1985]], nhưng California vẫn giữ một phần là [[Bang lộ 66 California|Bang lộ 66]] để kỷ niệm con đường nổi tiếng này.]]
+
+Đầu tiên, việc đi lại lại giữa miền Tây và các trung tâm ở miền Đông tốn thì giờ và nguy hiểm. Hành khách phải đi theo các chuyến đường biển dài hoặc đi bằng xe ngựa hay đi bộ rất khó khăn trên những con đường đất. Năm [[1869]], [[đường xe lửa xuyên lục địa]] đầu tiên được hoàn thành, tạo ra một lối đi thẳng hơn. Sau đó, hàng trăm ngàn người Mỹ tới California, nơi những người mới đến khám phá ra rằng nếu tưới đất vào những tháng hè khô cạn, đất đó rất hợp để trồng cây an quả và làm nông nghiệp nói chung. Các loại cây [[giống cam quýt]] được trồng phổ biến (nhất là [[Quả cam|cây cam]]), và từ đó ngành sản xuất nông nghiệp California bắt đầu rất thành công đến ngày nay.
+
+Đầu [[thế kỷ 20]], sự di trú đến California tăng nhanh sau khi hoàn thành những con đường xuyên lục địa lớn như [[Đường Lincoln]] và [[Xa lộ 66 Hoa Kỳ|Xa lộ 66]]. Từ 1900 đến 1965, dân số California tăng tới gần một triệu và California trở thành tiểu bang đông dân nhất Liên bang. Từ năm 1965 đến nay, nhân khẩu của tiểu bang thay đổi hoàn toàn làm California trở thành một trong những địa điểm có nhiều loại người nhất trên thế giới. Nói chung, tiểu bang có khuynh hướng tự do, hiểu biết về kỹ thuật và văn hóa, và là trung tâm quốc tế về công ty kỹ thuật, ngành công nghiệp [[điện ảnh]] và [[truyền hình]], công nghiệp [[âm nhạc]], và ngành sản xuất nông nghiệp đã nói ở trên.
+
+== Nhân khẩu ==
+=== Dân số ===
+{{US Census population
+| 1850 = 92597
+| 1860 = 379994
+| 1870 = 560247
+| 1880 = 864694
+| 1890 = 1213398
+| 1900 = 1485053
+| 1910 = 2377549
+| 1920 = 3426861
+| 1930 = 5677251
+| 1940 = 6907387
+| 1950 = 10586223
+| 1960 = 15717204
+| 1970 = 19953134
+| 1980 = 23667902
+| 1990 = 29760021
+| 2000 = 33871648
+| 2010 = 37253956
+| estimate= 38340000
+| estyear= 2014
+| footnote = Nguồn: 1790–1990, 2000, 2010<ref name="dof.ca.gov"/><ref name="census_1790_1990">{{chú thích web|url=http://www.census.gov/prod/cen1990/cph2/cph-2-1-1.pdf|title=1990 Census of Population and Housing, Unit Counts,United States, 1990 CPH-2-1|work=Population and Housing Unit Counts, Population Estimates 1790–1990, pages 26–27|publisher=[[United States Census Bureau]], U.S. Department of Commerce Economics and Statistics Administration|date=ngày 20 tháng 8 năm 1993|accessdate=ngày 1 tháng 1 năm 2012}}</ref><ref name="CensusQuickFacts">{{chú thích web | title = California QuickFacts from the US Census Bureau: | publisher = US Census Bureau | url = http://quickfacts.census.gov/qfd/states/06000.html | accessdate =ngày 26 tháng 12 năm 2009}}</ref><br />Bảng xếp hạng không bao gồm số liệu dân số bản<br />địa nghiên cứu cho thấy những người Mỹ bản địa<br />dân số ở California vào năm 1850 là gần 150.000<br />trước khi giảm xuống 15.000 vào năm 1900.<ref name="cabrillo1">{{chú thích web|url=http://www.cabrillo.edu/~crsmith/anth6_americanperiod.html |title=INDIANS of CALIFORNIA – American Period |publisher=Cabrillo.edu |accessdate=ngày 21 tháng 3 năm 2012}}{{verify credibility|date=July 2012}}</ref><ref name="americanindiantah1">{{chú thích web|url=http://americanindiantah.com/lesson_plans/ml_indians_in_northern_california.html |title=American Indian Civics Project: Indians of Northern California: A Case Study of Federal, State, and Vigilante Intervention, 1850–1860 |publisher=Americanindiantah.com |accessdate=ngày 21 tháng 3 năm 2012}}</ref>
+}}
+
+Năm 2006, California có khoảng 36.132.147 người, tăng 290.109 người hay 0,8% so với năm 2005 và tăng 2.260.494 người hay 6,7% so với năm 2000. Với tỷ lệ tăng này, California đứng hàng thứ 13 trong số các tiểu bang tăng dân số nhanh nhất. Số người tăng lên gồm 1.557.112 tăng trưởng tự nhiên (2.781.539 người sinh trừ 1.224.427 người chết) và 751.419 người nhập cư. California là tiểu bang đông dân nhất với trên 12% người Mỹ sống tại đây. Nếu là một quốc gia riêng, California sẽ là nước đông dân thứ 34 trên thế giới. California nhiều hơn [[Canada]] 4 triệu dân.
+
+=== Chủng tộc ===
+{| class="wikitable"
+|-
+!
+! Điều tra dân số 2000 [http://www.census.gov/popest/states/asrh/tables/SC-EST2003-03/SC-EST2003-03-28.pdf]
+! Ước tính năm 2003 [http://www.census.gov/popest/states/asrh/tables/SC-EST2003-03/SC-EST2003-03-28.pdf]
+|-
+| [[Mỹ trắng|Người da trắng]] || align=center|47,4% || align=center|45,2%
+|-
+| [[Người gốc Hispanic]] / [[Người gốc Mỹ Latinh|Mỹ Latinh]] || align=center|32,4% || align=center|34,3%
+|-
+| [[Mỹ gốc Á|Người châu Á]] || align=center|11,0% || align=center|11,4%
+|-
+| [[Người Mỹ gốc Phi|Người da đen]] || align=center|6,5% || align=center|6,3%
+|-
+| Lai nhiều hơn 1 chủng tộc || align=center|1,9% || align=center|1,9%
+|-
+| [[Thổ dân Hoa Kỳ|Người thổ dân da đỏ]] và [[Inuit]] || align=center|0,5% || align=center|0,5%
+|-
+| [[Thổ dân Hawaii|Người thổ dân Hawaii]] và các đảo [[Thái Bình Dương]] || align=center|0,3% || align=center|0,3%
+|}
+
+Không sắc tộc nào chiếm đa số tại California. Đây là một trong ba tiểu bang (California, [[Hawaii]] và [[New Mexico]]) mà người thiểu số nhiều hơn người da trắng. Người da trắng không có gốc từ châu Mỹ Latinh vẫn là nhóm đông nhất, nhưng họ không chiếm đại đa số. Người gốc từ châu Mỹ Latinh chiếm trên một phần ba số dân; các nhóm khác, theo thứ tự là: Người Mỹ gốc Á, [[Người Mỹ gốc Phi]] và [[Thổ dân Mỹ|Người thổ dân da đỏ]].
+
+Vì có nhiều người nhập cư từ [[mỹ Latinh|châu Mỹ Latinh]], nhất là từ [[México]], và tỉ lệ sinh sản của người gốc châu Mỹ Latinh cao hơn, các nhà nghiên cứu phỏng đoán rằng họ sẽ chiếm đa số vào năm [[2040]]. California có tỉ lệ người gốc châu Á cao thứ nhì toàn quốc, chỉ sau Hawaii.
+
+=== Ngôn ngữ ===
+Tính đến năm 2000, số người California từ 5 tuổi trở lên sử dụng [[tiếng Anh]] và [[tiếng Tây Ban Nha]] tại nhà lần lượt là 60,5% và 25,8%. [[Tiếng Trung Quốc]] đứng thứ ba với 2,6%, sau đó là [[tiếng Tagalog]] (2,0%) và [[tiếng Việt]] (1,3%).<ref name="Thống kê ngôn ngữ">{{Chú thích web|title=Detailed List of Languages Spoken at Home for the Population 5 Years and Over by State: 2000|url=http://www.census.gov/population/cen2000/phc-t20/tab05.pdf|format=PDF|year=2003|work=[[Thống kê Dân số Hoa Kỳ|Thống kê Dân số và Gia cư Hoa Kỳ]] năm 2000|publisher=[[Cục Thống kê Dân số Hoa Kỳ]]|accessdate=11 tháng 4 năm 2006}}</ref>
+
+Có trên 100 [[Ngôn ngữ thổ dân California|ngôn ngữ thổ dân tại đây]], nhưng hầu hết đang ở tình trạng mai một. Từ năm [[1986]], [[Hiến pháp California]] đã chỉ định tiếng Anh làm ngôn ngữ phổ thông và chính thức trong tiểu bang.
+
+=== Tôn giáo ===
+Người dân California theo các tôn giáo sau:
+* [[Kitô giáo]]&nbsp;– 75%
+** [[Tin Lành]]&nbsp;– 38%
+*** [[Báp-tít|Baptist]]&nbsp;– 8%
+*** [[Giáo hội Trưởng Nhiệm|Trưởng Lão]]&nbsp;– 3%
+*** [[Phong trào Giám Lý|Giám Lý]]&nbsp;– 2%
+*** [[Giáo hội Luther]]&nbsp;– 2%
+*** Các giáo hội [[Tin Lành|Kháng Cách]] khác&nbsp;– 23%
+** [[Giáo hội Công giáo Rôma]]&nbsp;– 34%
+** Các giáo phái Kitô khác&nbsp;– 3%
+* [[Do Thái giáo]]&nbsp;– 2%
+* [[Hồi giáo]]&nbsp;– 2%
+* Các tôn giáo khác&nbsp;– 3%
+* Không tôn giáo&nbsp;– 20%
+
+Như các tiểu bang miền tây khác, số người tự nhận là "không tôn giáo" cao hơn các nơi khác tại Hoa Kỳ.
+
+== Kinh tế ==
+{{Chính|Kinh tế California}}
+
+[[Tập tin:Hollywood Sign close up 2006.jpg|nhỏ|phải|250px|[[Bảng Hollywood]] là vật tượng trưng nổi tiếng nhất cho ngành giải trí khổng lồ của California.]]
+[[Tập tin:SJPan.jpg|nhỏ|phải|250px|Thung lũng Silicon, ở chung quanh thành phố San Jose, là trung tâm của ngành máy tính ở California.]]
+
+Tuy tiểu bang vốn nổi tiếng về thái độ thoải mái khi so sánh với các tiểu bang ở [[bờ biển đông Hoa Kỳ]], nền kinh tế California lớn thứ sáu trên thế giới và đóng góp 13% vào [[tổng sản phẩm nội địa|tổng sản phẩm quốc nội]] (GDP) Hoa Kỳ. Các ngành công nghiệp lớn nhất của tiểu bang bao gồm nông nghiệp, [[hàng không]] [[vũ trụ]], [[giải trí]], công nghiệp nhẹ, và [[du lịch]]. California cũng có vài trung tâm kinh tế quan trọng như [[Hollywood]] (nổi tiếng về điện ảnh), thung lũng Trung tâm California (về nông nghiệp), [[silicon Valley|thung lũng Silicon]] (về [[máy tính]] và [[công nghệ cao]]), và [[vùng Rượu vang]] (nổi tiếng về [[rượu vang]]).
+
+== Chính phủ ==
+{{Chính|Chính phủ California}}
+
+Giống chính phủ liên bang Hoa Kỳ, California có chính phủ kiểu [[cộng hòa]], với ba [[Tam quyền phân lập|nhánh chính phủ]]: [[quyền hành pháp|hành pháp]] gồm [[Thống đốc California]] và các quan chức được bầu riêng rẽ; [[cơ quan lập pháp|lập pháp]] gồm [[Hạ viện California|Hạ viện]] và [[Thượng viện California|Thượng viện]]; và [[tư pháp]] có [[Tòa án Tối cao California]] và các tòa cấp dưới. Tiểu bang cũng để cử tri tham gia vào quá trình chính phủ qua [[kiến nghị]], [[trưng cầu dân ý]], [[bãi miễn]], và [[phê chuẩn]].
+
+== Giáo dục ==
+{{Chính|Giáo dục California}}
+
+[[Tập tin:Berkeley glade afternoon.jpg|nhỏ|phải|250px|Memorial Glade ở trung tâm trường Đại học California tại Berkeley (''Cal [Berkeley]'')]]
+
+Do một tu chính án của hiến pháp tiểu bang, California phải chi phí 40% của thu nhập tiểu bang cho hệ thống trường công. California là tiểu bang duy nhất có điều khoản như vậy.
+
+Các [[trường tiểu học|trường tiểu học công lập]] có chất lượng khác nhau tùy theo trường. Chất lượng của các trường địa phương phần lớn tùy theo tiền thuế ở vùng đấy và cỡ của ban phụ trách các trường. Ở một số vùng, chi phí quản lý tốn một phần lớn của tiền đã dùng cho giáo dục. Ở những vùng nghèo, tỷ lệ người biết đọc viết có thể ít hơn 70% dân cư.
+
+Hệ thống [[trường trung học|trường trung học công lập]] dạy những lớp tùy chọn về nghề nghiệp, ngôn ngữ, và khoa học nhân văn có cấp riêng cho những học sinh giỏi, sinh viên tương lai, và học sinh công nghiệp. Họ nhận học sinh bắt đầu từ khoảng 14–18 tuổi, và chính phủ ngừng đòi hỏi người phải đi học khi đến 16 tuổi. Ở nhiều khu vực trường học, những trường trung học cơ sở có lớp tùy chọn với chương trình tập trung vào cách học, người 11–13 tuổi đi những trường học này. Những trường tiểu học chỉ dạy về cách học, lịch sử, và xã hội, và có [[trường mẫu giáo]] tùy chọn nửa ngày bắt đầu từ 5 tuổi. Chính phủ đòi hỏi trẻ em phải đến trường từ 6 tuổi.
+
+Hệ thống các [[viện đại học]] nghiên cứu chính của tiểu bang là hệ thống [[Đại học California|Viện Đại học California]] (UC), có nhiều nhà nghiên cứu đã đoạt [[giải Nobel]] hơn bất cứ cơ sở nào trên thế giới và được coi như một trong những hệ thống [[viện đại học]] công lập hàng đầu của Hoa Kỳ. UC có 10 viện đại học thành viên: [[Đại học California tại Berkeley|UC-Berkeley]], [[Đại học California tại San Francisco|UC-San Francisco]], [[Đại học California tại Los Angeles|UC-Los Angeles]], [[Đại học California tại San Diego|UC-San Diego]], [[Đại học California tại Davis|UC-Davis]], [[Đại học California tại Santa Cruz|UC-Santa Cruz]], [[Đại học California tại Santa Barbara|UC-Santa Barbara]], [[Đại học California tại Irvine|UC-Irvine]], [[Đại học California tại Riverside|UC-Riverside]], và [[Đại học California tại Merced|UC-Merced]]. [[Đại học California tại San Francisco|UC-San Franscico]] chỉ dạy những sinh viên sau đại học ngành y, và [[Trường Đại học Luật Hastings]](Hastings College of Law; một trong những cơ sở trực thuộc hệ thống UC, ngoài 10 thành viên chính, cũng ở San Francisco) là một trong bốn trường luật của UC. Hệ thống UC có mục đích nhận 12,5% của những học sinh cao điểm nhất và thực hiện nghiên cứu sau đại học. UC cũng quản lý một số phòng thí nghiệm liên bang cho [[Bộ Năng lượng Hoa Kỳ]]: [[Phòng thí nghiệm Quốc gia Lawrence tại Livermore]], [[Phòng thí nghiệm Quốc gia Lawrence tại Berkeley]], và [[Phòng thí nghiệm Quốc gia Los Alamos]].
+
+[[Tập tin:RHall.JPG|nhỏ|phải|250px|UC-Los Angeles (UCLA)]]
+
+Hệ thống [[Đại học Tiểu bang California|Viện Đại học California State]] (CSU) cũng được coi như một trong những hệ thống trường học ưu việt trên thế giới. Hệ thống CSU bao gồm 23 [[viện đại học]]:
+
+* [[Đại học Tiểu bang Humboldt]]
+* [[Đại học Tiểu bang Chico]]
+* [[Đại học Tiểu bang Sonoma]]
+* [[Đại học Tiểu bang Sacramento]]
+* [[Đại học Tiểu bang San Francisco]]
+* [[Đại học Tiểu bang California tại Vịnh Đông]]
+* [[Đại học Tiểu bang California tại Bakersfield]]
+* [[Đại học Tiểu bang California tại Quần đảo Eo biển]]
+* [[Đại học Tiểu bang California tại Dominguez Hills]]
+* [[Đại học Tiểu bang California tại Fresno]]
+* [[Đại học Tiểu bang California tại Fullerton]]
+* [[Đại học Tiểu bang California tại Long Beach]]
+* [[Đại học Tiểu bang California tại Los Angeles]]
+* [[Học viện Hàng hải California]]
+* [[Đại học Tiểu bang California tại Vịnh Monterey]]
+* [[Đại học Tiểu bang California tại Northridge]]
+* [[Đại học Bách khoa Tiểu bang California tại Pomona]]
+* [[Đại học Tiểu bang California tại San Bernardino]]
+* [[Đại học Tiểu bang San Diego]]
+* [[Đại học Tiểu bang San Jose]]
+* [[Đại học Bách khoa Tiểu bang California tại San Luis Obispo]]
+* [[Đại học Tiểu bang California tại San Marcos]]
+* [[Đại học Tiểu bang California tại Stanislaus]]
+
+[[Tập tin:Stanford University campus from above.jpg|nhỏ|phải|250px|Sân chính (''Main Quad'') của Viện Đại học Stanford và vùng chung quanh]]
+
+Với hơn 400.000 sinh viên, hệ thống CSU là hệ thống viện đại học lớn nhất của Hoa Kỳ. Nó có mục đích nhận phần ba học sinh trung học phổ thông cao điểm nhất. Các viện đại học thuộc hệ thống CSU phần nhiều dành cho sinh viên đại học, nhưng nhiều trường lớn trong hệ thống, như là [[Đại học Tiểu bang California tại Long Beach|CSU-Long Beach]], [[Đại học Tiểu bang California tại Fresno|CSU-Fresno]], [[Đại học Tiểu bang San Diego|San Diego State University]], và [[Đại học Tiểu bang San Jose|San Jose State University]], đang quan tâm thêm về nghiên cứu, nhất là về những ngành khoa học ứng dụng. SCU sắp làm trái với một phần của Sơ đồ Kerr năm 1960 vào năm 2007 khi họ bắt đầu phong học vị tiến sĩ (Ph.D.) về giáo dục. Cán bộ Thư viện Tiểu bang Kevin Star và các người khác đã nói rằng thay đổi nhỏ này là bước đầu tiên để cải tổ hệ thống đại học ở California.
+
+Hệ thống Trường Đại học Cộng đồng California (California Community Colleges) cung cấp những lớp "giáo dục tổng quát", có thể chuyển đơn vị lớp học qua những hệ thống CSU và UC, và cũng cung cấp chương trình dạy nghề, dạy lớp thấp, và học tiếp. Các trường này cấp giấy chứng nhận và bằng cao đẳng (associate's degree). Nó bao gồm 109 trường đại học được tổ chức thành 72 khu vực, dạy hơn 2,9 triệu sinh viên.
+
+[[Tập tin:USC Bovard Auditorium.jpg|nhỏ|phải|250px|Viện Đại học Nam California (USC)]]
+
+Những viện đại học [[tư thục]] nổi tiếng bao gồm [[Đại học Stanford|Viện Đại học Stanford]], [[Đại học Nam California|Viện Đại học Nam California]] (USC), [[Đại học Santa Clara|Viện Đại học Santa Clara]] (SCU), [[Đại học Claremont|Viện Đại học Claremont]], và [[Viện Công nghệ California]] (Caltech). Caltech cũng quản lý [[Phòng thí nghiệm Chuyển động Phản lực]] cho [[NASA]].
+
+California có thêm hàng trăm trường và viện đại học tư thục, bao gồm nhiều học viện tôn giáo và học viện chuyên biệt. Bởi vậy California có nhiều cơ hội đặc biệt về giải trí và giáo dục cho dân cư. Cho thí dụ, miền nam California, một trong những vùng đông đại học nhất trên thế giới, có rất nhiều người hát giỏi mà thi trong đại hội ca đoàn lớn. Gần Los Angeles có nhiều học viện nghệ thuật và điện ảnh, bao gồm [[California Institute of the Arts|Học viện Nghệ thuật California]] (CalArts).
+
+==Chú thích==
+{{tham khảo|2}}
+
+==Tham khảo==
+{{thể loại Commons|California}}
+{{Wikibooks-en|Category:Californian recipes|Món ăn California}}
+{{Wikisource-en|California Constitution|Hiến pháp California}}
+* [http://www.ca.gov/ Welcome to California]&nbsp;– Chính phủ California (tiếng Anh)
+* [http://countingcalifornia.cdlib.org/ Counting California]&nbsp;– Thư viện [[Đại học California]] (tiếng Anh)
+
+{{California}}
+{{Hoa Kỳ}}
+{{Thời gian tổ chức|thành lập=1850}}
+{{các chủ đề|Hoa Kỳ}}
+
+[[Thể loại:California| ]]
+[[Thể loại:Tiểu bang Hoa Kỳ]]
+[[Thể loại:Miền Tây Hoa Kỳ]]
+[[Thể loại:Miền bị phân chia]]
+Từ tháng 12 năm 2004, phần mềm MediaWiki không còn đưa các tên tập tin vào đây. Hãy xem [[Đặc biệt:Log/upload]] nếu cần tìm các tập tin được truyền lên sau ngày 17 tháng 12 năm 2004.
+
+<ul><li>20:01, 17 Dec 2004 [[User:David|David]] uploaded "[[:Image:Tho_Tinh.jpg|Tho_Tinh.jpg]]" <em>(từ EN)</em></li>
+<li>23:08, 15 Dec 2004 [[User:Ngungo|Ngungo]] uploaded "[[:Image:Vietnam_admin01.jpg|Vietnam_admin01.jpg]]"</li>
+<li>16:29, 13 Dec 2004 [[User:David|David]] uploaded "[[:Image:Dom_Do_Lon.jpg|Dom_Do_Lon.jpg]]" <em>(tư NL)</em></li>
+<li>23:09, 11 Dec 2004 [[User:David|David]] uploaded "[[:Image:Moc_Tinh.jpg|Moc_Tinh.jpg]]" <em>(từ NL)</em></li>
+<li>14:21, 8 Dec 2004 [[User:David|David]] uploaded "[[:Image:Ares_Vallis.jpg|Ares_Vallis.jpg]]" <em>(từ NASA)</em></li>
+<li>05:04, 6 Dec 2004 [[User:Mgz|Mgz]] uploaded "[[:Image:Images395007_A_Rhodes.jpg|Images395007_A_Rhodes.jpg]]" <em>(Alexandre de Rhodes (1591-1660))</em></li>
+<li>14:42, 5 Dec 2004 [[User:Kaufmannh2|Kaufmannh2]] uploaded "[[:Image:Gia_tuong.JPG|Gia_tuong.JPG]]"</li>
+<li>14:39, 5 Dec 2004 [[User:Kaufmannh2|Kaufmannh2]] uploaded "[[:Image:Miss_U10.JPG|Miss_U10.JPG]]"</li>
+<li>14:37, 5 Dec 2004 [[User:Kaufmannh2|Kaufmannh2]] uploaded "[[:Image:Velo.JPG|Velo.JPG]]"</li>
+<li>14:35, 5 Dec 2004 [[User:Kaufmannh2|Kaufmannh2]] uploaded "[[:Image:Frankfurt_13.JPG|Frankfurt_13.JPG]]"</li>
+<li>14:34, 5 Dec 2004 [[User:Kaufmannh2|Kaufmannh2]] uploaded "[[:Image:Frankfurt_12.JPG|Frankfurt_12.JPG]]"</li>
+<li>14:32, 5 Dec 2004 [[User:Kaufmannh2|Kaufmannh2]] uploaded "[[:Image:Frankfurt_11.JPG|Frankfurt_11.JPG]]"</li>
+<li>14:29, 5 Dec 2004 [[User:Kaufmannh2|Kaufmannh2]] uploaded "[[:Image:Frankfurt_9.JPG|Frankfurt_9.JPG]]"</li>
+<li>14:25, 5 Dec 2004 [[User:Kaufmannh2|Kaufmannh2]] uploaded "[[:Image:Frankfurt_7.JPG|Frankfurt_7.JPG]]"</li>
+<li>14:24, 5 Dec 2004 [[User:Kaufmannh2|Kaufmannh2]] uploaded "[[:Image:Frankfurt_5.JPG|Frankfurt_5.JPG]]"</li>
+<li>14:22, 5 Dec 2004 [[User:Kaufmannh2|Kaufmannh2]] uploaded "[[:Image:Frankfurt_3.JPG|Frankfurt_3.JPG]]"</li>
+<li>14:10, 5 Dec 2004 [[User:Kaufmannh2|Kaufmannh2]] uploaded "[[:Image:Frankfurt_1.JPG|Frankfurt_1.JPG]]"</li>
+<li>22:36, 3 Dec 2004 [[User:David|David]] uploaded "[[:Image:Hoa_Tinh.jpg|Hoa_Tinh.jpg]]" <em>(từ NL)</em></li>
+<li>16:46, 1 Dec 2004 [[User:David|David]] uploaded "[[:Image:Kim_Tinh.jpg|Kim_Tinh.jpg]]" <em>(từ WikipediaEN, từ NASA)</em></li>
+<li>23:10, 27 Nov 2004 [[User:David|David]] uploaded "[[:Image:Thuy_Tinh.gif|Thuy_Tinh.gif]]" <em>(từ NASA)</em></li>
+<li>05:26, 27 Nov 2004 [[User:Mxn|Mxn]] uploaded "[[:Image:Cropscientist.jpg|Cropscientist.jpg]]" <em>(Transferred from &#91;&#91;en:Image:Cropscientist.jpg]])</em></li>
+<li>21:30, 26 Nov 2004 [[User:Mxn|Mxn]] uploaded "[[:Image:US_long_grain_rice.jpg|US_long_grain_rice.jpg]]" <em>(Transferred from &#91;&#91;en:Image:US long grain rice.jpg]])</em></li>
+<li>04:23, 24 Nov 2004 [[User:Mxn|Mxn]] uploaded "[[:Image:Wiki-species.png|Wiki-species.png]]" <em>(Transferred from &#91;&#91;Wikispecies:Image:Wiki-species.png]])</em></li>
+<li>04:10, 24 Nov 2004 [[User:Mxn|Mxn]] uploaded "[[:Image:Wikinews-logo3a.png|Wikinews-logo3a.png]]" <em>(Transferred from &#91;&#91;m:Image:Wikinews-logo3a.png]])</em></li>
+<li>06:30, 22 Nov 2004 [[User:Tomchiukc|Tomchiukc]] uploaded "[[:Image:LocationPRChina.png|LocationPRChina.png]]" <em>(from zh wiki)</em></li>
+<li>06:30, 22 Nov 2004 [[User:Tomchiukc|Tomchiukc]] uploaded "[[:Image:China_guohui.png|China_guohui.png]]" <em>(from zh wiki)</em></li>
+<li>06:30, 22 Nov 2004 [[User:Tomchiukc|Tomchiukc]] uploaded "[[:Image:China_flag.png|China_flag.png]]" <em>(from zh wiki)</em></li>
+<li>01:31, 19 Nov 2004 [[User:Kaufmannh2|Kaufmannh2]] uploaded "[[:Image:EV601-054.jpg|EV601-054.jpg]]"</li>
+<li>01:23, 19 Nov 2004 [[User:Kaufmannh2|Kaufmannh2]] uploaded "[[:Image:Museum1.jpg|Museum1.jpg]]"</li>
+<li>05:46, 17 Nov 2004 [[User:Mxn|Mxn]] uploaded "[[:Image:Hinh_vuong.png|Hinh_vuong.png]]" <em>(Transferred from &#91;&#91;en:Image:Square (shape).png]])</em></li>
+<li>18:31, 16 Nov 2004 [[User:Kaufmannh2|Kaufmannh2]] uploaded "[[:Image:Dinh_độc_lập.jpg|Dinh_độc_lập.jpg]]"</li>
+<li>18:28, 16 Nov 2004 [[User:Kaufmannh2|Kaufmannh2]] uploaded "[[:Image:Bưu_điện_Sài_Gòn.jpg|Bưu_điện_Sài_Gòn.jpg]]"</li>
+<li>18:12, 16 Nov 2004 [[User:Kaufmannh2|Kaufmannh2]] uploaded "[[:Image:Typisch_Giao_thông_Việt_Nam.jpg|Typisch_Giao_thông_Việt_Nam.jpg]]"</li>
+<li>18:09, 16 Nov 2004 [[User:Kaufmannh2|Kaufmannh2]] uploaded "[[:Image:Nhà_sàn_Bác_Hồ.jpg|Nhà_sàn_Bác_Hồ.jpg]]"</li>
+<li>18:08, 16 Nov 2004 [[User:Kaufmannh2|Kaufmannh2]] uploaded "[[:Image:Lăng_Bác.jpg|Lăng_Bác.jpg]]"</li>
+<li>18:07, 16 Nov 2004 [[User:Kaufmannh2|Kaufmannh2]] uploaded "[[:Image:Ngã_5_Bờ_Hồ.jpg|Ngã_5_Bờ_Hồ.jpg]]"</li>
+<li>18:06, 16 Nov 2004 [[User:Kaufmannh2|Kaufmannh2]] uploaded "[[:Image:Chùa_một_cột.jpg|Chùa_một_cột.jpg]]"</li>
+<li>18:04, 16 Nov 2004 [[User:Kaufmannh2|Kaufmannh2]] uploaded "[[:Image:Hồ_Gươm_3.jpg|Hồ_Gươm_3.jpg]]"</li>
+<li>18:00, 16 Nov 2004 [[User:Kaufmannh2|Kaufmannh2]] uploaded "[[:Image:Khuê_Văn_Các.jpg|Khuê_Văn_Các.jpg]]"</li>
+<li>12:00, 15 Nov 2004 [[User:Kaufmannh2|Kaufmannh2]] uploaded "[[:Image:018.jpg|018.jpg]]"</li>
+<li>11:43, 15 Nov 2004 [[User:Kaufmannh2|Kaufmannh2]] uploaded "[[:Image:DCP_3500.jpg|DCP_3500.jpg]]"</li>
+<li>11:32, 15 Nov 2004 [[User:Kaufmannh2|Kaufmannh2]] uploaded "[[:Image:Ho_Chi_Minh_1.jpg|Ho_Chi_Minh_1.jpg]]"</li>
+<li>11:24, 15 Nov 2004 [[User:Kaufmannh2|Kaufmannh2]] uploaded "[[:Image:Images_1.jpg|Images_1.jpg]]"</li>
+<li>11:23, 15 Nov 2004 [[User:Kaufmannh2|Kaufmannh2]] uploaded "[[:Image:Pham_The_Duyet.jpg|Pham_The_Duyet.jpg]]"</li>
+<li>11:22, 15 Nov 2004 [[User:Kaufmannh2|Kaufmannh2]] uploaded "[[:Image:Le_Kha_Phieu.jpg|Le_Kha_Phieu.jpg]]"</li>
+<li>11:21, 15 Nov 2004 [[User:Kaufmannh2|Kaufmannh2]] uploaded "[[:Image:Le_Duc_Anh.jpg|Le_Duc_Anh.jpg]]"</li>
+<li>11:16, 15 Nov 2004 [[User:Kaufmannh2|Kaufmannh2]] uploaded "[[:Image:Tran_Duc_Luong.jpg|Tran_Duc_Luong.jpg]]"</li>
+<li>22:23, 14 Nov 2004 [[User:David|David]] uploaded "[[:Image:Nhung_hanh_tinh_cua_he_mat_troi.jpg|Nhung_hanh_tinh_cua_he_mat_troi.jpg]]" <em>(từ Wikipedia en)</em></li>
+<li>04:15, 14 Nov 2004 [[User:Mxn|Mxn]] uploaded "[[:Image:Manatee_with_calf.PD.jpg|Manatee_with_calf.PD.jpg]]" <em>(Transferred from &#91;&#91;en:Image:Manatee with calf.PD.jpg]])</em></li>
+<li>02:45, 12 Nov 2004 [[User:Mxn|Mxn]] uploaded "[[:Image:PhanVanKhai.jpg|PhanVanKhai.jpg]]" <em>(Transferred from &#91;&#91;en:Image:PhanVanKhai.jpg]])</em></li>
+<li>01:03, 9 Nov 2004 [[User:Mxn|Mxn]] uploaded "[[:Image:Ban_do_ba_vuong_quoc_Trieu_Tien.png|Ban_do_ba_vuong_quoc_Trieu_Tien.png]]" <em>(Transferred from &#91;&#91;en:Image:Three Kindoms of Korea Map.png]])</em></li>
+<li>03:14, 2 Nov 2004 [[User:Mxn|Mxn]] uploaded "[[:Image:ParacelIslands.png|ParacelIslands.png]]" <em>(Paracel Island map; transferred from &#91;&#91;en:Image:ParacelIslands.png]])</em></li>
+<li>02:12, 2 Nov 2004 [[User:Mxn|Mxn]] uploaded "[[:Image:Pg-map.png|Pg-map.png]]" <em>(Spratly Islands map (CIA World Factbook 2002); transferred from &#91;&#91;en:Image:Pg-map.png]])</em></li>
+<li>22:13, 17 Oct 2004 [[User:David|David]] uploaded "[[:Image:Da_Vit_bang_Chu_Nom.jpg|Da_Vit_bang_Chu_Nom.jpg]]" <em>(David bằng chữ nôm)</em></li>
+<li>21:33, 17 Oct 2004 [[User:David|David]] uploaded "[[:Image:Cac_cong_dong_nuoc_Bi.JPG|Cac_cong_dong_nuoc_Bi.JPG]]" <em>(từ Wikipedia NL, PD)</em></li>
+<li>21:28, 17 Oct 2004 [[User:David|David]] uploaded "[[:Image:Cac_xu_nuoc_Bi.JPG|Cac_xu_nuoc_Bi.JPG]]" <em>(từ Wikipedia NL, PD)</em></li>
+<li>03:31, 11 Oct 2004 [[User:Mxn|Mxn]] uploaded "[[:Image:Usgreatseal.png|Usgreatseal.png]]" <em>(Transferred from &#91;&#91;en:Image:Usgreatseal.png]])</em></li>
+<li>03:24, 11 Oct 2004 [[User:Mxn|Mxn]] uploaded "[[:Image:Wfbcover04.jpg|Wfbcover04.jpg]]" <em>(Transferred from &#91;&#91;en:Image:Wfbcover04.jpg]])</em></li>
+<li>03:13, 11 Oct 2004 [[User:Mxn|Mxn]] uploaded "[[:Image:Drcongomap.jpg|Drcongomap.jpg]]" <em>(Transferred from &#91;&#91;en:Image:Drcongomap.jpg]])</em></li>
+<li>03:01, 5 Oct 2004 [[User:Mxn|Mxn]] uploaded "[[:Image:Favicon.png|Favicon.png]]" <em>(Favicon from &#91;http&#58;//vi.wikipedia.org/favicon.ico], converted to PNG using Microsoft Paint)</em></li>
+<li>00:34, 1 Oct 2004 [[User:Mxn|Mxn]] uploaded "[[:Image:The_gioi_tu_nhien.jpg|The_gioi_tu_nhien.jpg]]" <em>(Transferred from &#91;&#91;en:Image:Physical world.jpg]])</em></li>
+<li>12:55, 27 Sep 2004 [[User:David|David]] uploaded "[[:Image:Huy_hieu_cua_nuoc_Bi.JPG|Huy_hieu_cua_nuoc_Bi.JPG]]" <em>(from Wikipedia NL)</em></li>
+<li>12:46, 27 Sep 2004 [[User:David|David]] uploaded "[[:Image:Co_cua_nuoc_Bi.JPG|Co_cua_nuoc_Bi.JPG]]" <em>(cia flag)</em></li>
+<li>02:54, 27 Sep 2004 [[User:Mxn|Mxn]] uploaded "[[:Image:Moon.crater.arp.750pix.jpg|Moon.crater.arp.750pix.jpg]]" <em>(Transferred from &#91;&#91;en:Image:Moon.crater.arp.750pix.jpg]])</em></li>
+<li>18:34, 25 Sep 2004 [[User:Mxn|Mxn]] uploaded "[[:Image:Greatseal.gif|Greatseal.gif]]" <em>(Transferred from &#91;&#91;en:Image:Greatseal.gif]])</em></li>
+<li>18:24, 25 Sep 2004 [[User:Mxn|Mxn]] uploaded "[[:Image:Hinh_ve_tinh_anh_sang_Jeanne.gif|Hinh_ve_tinh_anh_sang_Jeanne.gif]]" <em>(Transferred from &#91;&#91;en:Image:Jeanne visible satellite image.gif]])</em></li>
+<li>00:10, 25 Sep 2004 [[User:Mxn|Mxn]] uploaded "[[:Image:80px-Sourceberg.jpg|80px-Sourceberg.jpg]]" <em>(From &#91;&#91;en:Image:Sourceberg.jpg]])</em></li>
+<li>23:48, 24 Sep 2004 [[User:Mxn|Mxn]] uploaded "[[:Image:80px-Wikiquote.png|80px-Wikiquote.png]]" <em>(From &#91;&#91;en:Image:Wikiquote.png]])</em></li>
+<li>23:46, 24 Sep 2004 [[User:Mxn|Mxn]] uploaded "[[:Image:80px-Wikibooks.png|80px-Wikibooks.png]]" <em>(From &#91;&#91;en:Image:Wiki-textbook.png]])</em></li>
+<li>23:40, 24 Sep 2004 [[User:Mxn|Mxn]] uploaded "[[:Image:80px-Wiktionary.png|80px-Wiktionary.png]]" <em>(From &#91;&#91;en:Image:Wiktionary.png]])</em></li>
+<li>23:34, 24 Sep 2004 [[User:Mxn|Mxn]] uploaded "[[:Image:80px-Wiki-meta.png|80px-Wiki-meta.png]]" <em>(From &#91;&#91;en:Image:Wiki-meta.png]])</em></li>
+<li>02:17, 23 Sep 2004 [[User:Mxn|Mxn]] uploaded "[[:Image:La_co_I-ran_to.png|La_co_I-ran_to.png]]" <em>(Transferred from &#91;&#91;en:Image:Iran flag large.png]])</em></li>
+<li>22:45, 21 Sep 2004 [[User:Mxn|Mxn]] uploaded "[[:Image:Mandelpart2.jpg|Mandelpart2.jpg]]" <em>(Transferred from &#91;&#91;en:Image:Mandelpart2.jpg]])</em></li>
+<li>03:27, 20 Sep 2004 [[User:Mxn|Mxn]] uploaded "[[:Image:Trung_Quoc,_Giang_Trach_Dan_va_Ho_Cam_Dao_(10).jpg|Trung_Quoc,_Giang_Trach_Dan_va_Ho_Cam_Dao_(10).jpg]]" <em>(Transferred from &#91;&#91;en:Image:China, Jiang Zemin and Hu Jintao (10).jpg]])</em></li>
+<li>22:36, 19 Sep 2004 [[User:David|David]] uploaded "[[:Image:British_Columbia.png|British_Columbia.png]]" <em>(Locator map for BC, from Wikipedia EN)</em></li>
+<li>20:05, 19 Sep 2004 [[User:Mxn|Mxn]] uploaded "[[:Image:Ivan_GOES_floater.jpg|Ivan_GOES_floater.jpg]]" <em>(Transferred from &#91;&#91;en:Image:Ivan GOES floater.jpg]])</em></li>
+<li>06:49, 7 Sep 2004 [[User:Mth|Mth]] uploaded "[[:Image:Dong_duong.jpg|Dong_duong.jpg]]" <em>(Bản đồ Đông Dương)</em></li>
+<li>19:02, 4 Sep 2004 [[User:Mxn|Mxn]] uploaded "[[:Image:Sacramento_from_Riverwalk.JPG|Sacramento_from_Riverwalk.JPG]]" <em>(Transferred from en:)</em></li>
+<li>12:37, 25 Jul 2004 [[User:VnPenguin|VnPenguin]] uploaded "[[:Image:Ngomon-hue.jpg|Ngomon-hue.jpg]]"</li>
+<li>12:26, 25 Jul 2004 [[User:VnPenguin|VnPenguin]] uploaded "[[:Image:Cyclo-vn.jpg|Cyclo-vn.jpg]]" <em>(Cyclo Vietnam)</em></li>
+<li>20:50, 21 Jul 2004 [[User:Mxn|Mxn]] uploaded "[[:Image:Xich-lo_o_Delhi.jpg|Xich-lo_o_Delhi.jpg]]" <em>(&#91;&#91;Xích lô&#124;Velotaxi]] in the Main Bazaar of &#91;&#91;Delhi]], &#91;&#91;2004]]. Photo released into the &#91;&#91;Công chúng&#124;public domain]]. Transferred from &#91;&#91;en:Image:Delhi velotaxi.jpg]].)</em></li>
+<li>15:36, 30 Jun 2004 [[User:Mxn|Mxn]] uploaded "[[:Image:Saddamcapture.jpg|Saddamcapture.jpg]]" <em>(Transferred from &#91;&#91;en:Image:Saddamcapture.jpg]])</em></li>
+<li>01:58, 15 May 2004 [[User:Mxn|Mxn]] uploaded "[[:Image:Tam_giac_nhon.png|Tam_giac_nhon.png]]" <em>(Imported from &#91;&#91;en:Image:Triangle.Acute.png]])</em></li>
+<li>01:56, 15 May 2004 [[User:Mxn|Mxn]] uploaded "[[:Image:Tam_giac_tu.png|Tam_giac_tu.png]]" <em>(Imported from &#91;&#91;en:Image:Triangle.Obtuse.png]])</em></li>
+<li>01:54, 15 May 2004 [[User:Mxn|Mxn]] uploaded "[[:Image:Tam_giac_vuong.png|Tam_giac_vuong.png]]" <em>(Imported from &#91;&#91;en:Image:Triangle.Right.png]])</em></li>
+<li>01:51, 15 May 2004 [[User:Mxn|Mxn]] uploaded "[[:Image:Tam_giac_lech.png|Tam_giac_lech.png]]" <em>(Imported from &#91;&#91;en:Image:Triangle.Scalene.png]])</em></li>
+<li>01:48, 15 May 2004 [[User:Mxn|Mxn]] uploaded "[[:Image:Tam_giac_can.png|Tam_giac_can.png]]" <em>(Imported from &#91;&#91;en:Image:Triangle.Isosceles.png]])</em></li>
+<li>01:29, 15 May 2004 [[User:Mxn|Mxn]] uploaded "[[:Image:Tam_giac_deu.png|Tam_giac_deu.png]]" <em>(Imported from &#91;&#91;en:Image:Triangle.Equilateral.png]])</em></li>
+<li>23:02, 14 May 2004 [[User:Mxn|Mxn]] uploaded "[[:Image:Vi_tri_cua_Gia_Na_Dai.png|Vi_tri_cua_Gia_Na_Dai.png]]" <em>(Imported from &#91;&#91;en:Image:LocationCanada.png]])</em></li>
+<li>22:56, 14 May 2004 [[User:Mxn|Mxn]] uploaded "[[:Image:Huy_hieu_Gia_Na_Dai.png|Huy_hieu_Gia_Na_Dai.png]]" <em>(Imported from &#91;&#91;en:Image:CANcoat-thb.png]])</em></li>
+<li>22:51, 14 May 2004 [[User:Mxn|Mxn]] uploaded "[[:Image:La_co_Gia_Na_Dai_to.png|La_co_Gia_Na_Dai_to.png]]" <em>(Renamed image)</em></li>
+<li>22:37, 14 May 2004 [[User:Mxn|Mxn]] uploaded "[[:Image:La_co_Gia_Na_Da_to.png|La_co_Gia_Na_Da_to.png]]" <em>(Imported from &#91;&#91;en:Image:Canada flag large.png]])</em></li>
+<li>00:42, 13 May 2004 [[User:Mxn|Mxn]] uploaded "[[:Image:La_co_My_to.png|La_co_My_to.png]]" <em>(Imported from &#91;&#91;en:Image:Us flag large.png]])</em></li>
+<li>22:26, 9 May 2004 [[User:Mxn|Mxn]] uploaded "[[:Image:Gnu-head-sm.jpeg|Gnu-head-sm.jpeg]]" <em>(Imported from &#91;&#91;en:Image:Gnu-head-sm.jpeg]])</em></li>
+<li>21:25, 24 Apr 2004 [[User:Mxn|Mxn]] uploaded "[[:Image:Firefoxtest.png|Firefoxtest.png]]" <em>(Transferred from en:)</em></li>
+<li>18:19, 16 Apr 2004 [[User:Mxn|Mxn]] uploaded "[[:Image:Ngo_Dinh_Diem.jpg|Ngo_Dinh_Diem.jpg]]" <em>(Transferred from en:)</em></li>
+<li>17:28, 16 Apr 2004 [[User:Mxn|Mxn]] uploaded "[[:Image:LocationVietnamHoChiMinh.png|LocationVietnamHoChiMinh.png]]" <em>(Location map for Vietnam&#39;s Ho Chi Minh City muncipality; transferred from en:)</em></li>
+<li>16:01, 16 Apr 2004 [[User:Mxn|Mxn]] uploaded "[[:Image:Politics_korea_uri_party.jpg|Politics_korea_uri_party.jpg]]" <em>(Transferred from en:Image:Politics korea uri party.jpg)</em></li>
+<li>15:01, 16 Apr 2004 [[User:Mxn|Mxn]] uploaded "[[:Image:Lenin4.jpg|Lenin4.jpg]]" <em>(Imported from &#91;&#91;:en:Image:Lenin4.jpg&#124;English Wikipedia]].)</em></li>
+<li>21:48, 14 Apr 2004 [[User:Mxn|Mxn]] uploaded "[[:Image:Nohat-logo-X-vi.png|Nohat-logo-X-vi.png]]" <em>(Imported from Meta-Wikipedia)</em></li>
+<li>20:24, 4 Apr 2004 [[User:Mxn|Mxn]] uploaded "[[:Image:Gaza_Strip.jpg|Gaza_Strip.jpg]]" <em>(Gaza Strip, Israeli Settlements)</em></li>
+<li>18:11, 4 Apr 2004 [[User:Mxn|Mxn]] uploaded "[[:Image:NATO001.jpg|NATO001.jpg]]" <em>(Image of Flag of NATO; transferred from en:)</em></li>
+<li>22:48, 2 Apr 2004 [[User:Mxn|Mxn]] uploaded "[[:Image:OH-flag-med.PNG|OH-flag-med.PNG]]" <em>(Image of U.S. state flag.)</em></li>
+<li>20:28, 28 Mar 2004 [[User:Mxn|Mxn]] uploaded "[[:Image:X-43A.jpg|X-43A.jpg]]" <em>(Transferred from en:)</em></li>
+<li>20:09, 28 Mar 2004 [[User:Mxn|Mxn]] uploaded "[[:Image:3MileIsland.jpg|3MileIsland.jpg]]" <em>(US government image from http&#58;//emc.ornl.gov/EMC/XNAPage.html , transferred from en:)</em></li>
+<li>20:36, 6 Mar 2004 [[User:Mxn|Mxn]] uploaded "[[:Image:Vo_Nguyen_Giap.jpg|Vo_Nguyen_Giap.jpg]]" <em>(From en:, for &quot;Võ Nguyên Giáp&quot;)</em></li>
+<li>20:14, 6 Mar 2004 [[User:Mxn|Mxn]] uploaded "[[:Image:Vietux-s.gif|Vietux-s.gif]]" <em>(VnPenguin wanted to use this image for &quot;Linux&quot;, and it&#39;s under the GPL; I assume that&#39;s compatible w/ the FDL)</em></li>
+<li>02:19, 25 Feb 2004 [[User:Mxn|Mxn]] uploaded "[[:Image:HamidKarzai.jpg|HamidKarzai.jpg]]" <em>(Migrated from en:)</em></li>
+<li>00:43, 8 Feb 2004 [[User:Mxn|Mxn]] uploaded "[[:Image:Orleans.bourbon.arp.300pix.jpg|Orleans.bourbon.arp.300pix.jpg]]" <em>(From en:, for New Orleans, Louisiana)</em></li>
+<li>03:34, 6 Feb 2004 [[User:Mxn|Mxn]] uploaded "[[:Image:Unbuilding.jpg|Unbuilding.jpg]]"</li>
+<li>03:32, 6 Feb 2004 [[User:Mxn|Mxn]] uploaded "[[:Image:Unbuilding.jpg|Unbuilding.jpg]]" <em>(Photographed by Brion Vibber, placed into the public domain.)</em></li>
+<li>19:02, 1 Feb 2004 [[User:Mxn|Mxn]] uploaded "[[:Image:Karzai.jpg|Karzai.jpg]]" <em>(Photograph of Hamid Karzai, transferred from en:)</em></li>
+<li>23:06, 11 Jan 2004 [[User:Gaup|Gaup]] uploaded "[[:Image:Quocca.jpg|Quocca.jpg]]" <em>(Quốc ca Việt Nam)</em></li>
+<li>22:53, 19 Dec 2003 [[User:Mxn|Mxn]] uploaded "[[:Image:Us-oh.gif|Us-oh.gif]]" <em>(Uploaded from the English-language article)</em></li>
+<li>22:53, 19 Dec 2003 [[User:Mxn|Mxn]] uploaded "[[:Image:Ohiostateseal.jpg|Ohiostateseal.jpg]]" <em>(Uploaded from the English-language article)</em></li>
+<li>22:52, 19 Dec 2003 [[User:Mxn|Mxn]] uploaded "[[:Image:Map_of_USA_highlighting_Ohio.png|Map_of_USA_highlighting_Ohio.png]]" <em>(Uploaded from the English-language article)</em></li>
+<li>12:18, 17 Dec 2003 [[User:Menchi|Menchi]] uploaded "[[:Image:Ban_do_Viet_Nam.png|Ban_do_Viet_Nam.png]]" <em>(add tone mark ơ)</em></li>
+<li>07:48, 17 Dec 2003 [[User:Menchi|Menchi]] uploaded "[[:Image:Ban_do_Viet_Nam.png|Ban_do_Viet_Nam.png]]" <em>(labelled!)</em></li>
+<li>10:44, 16 Dec 2003 [[User:Menchi|Menchi]] uploaded "[[:Image:Ban_do_Viet_Nam.png|Ban_do_Viet_Nam.png]]" <em>(CIA map, blanked)</em></li>
+<li>01:45, 14 Dec 2003 [[User:Brion VIBBER|Brion VIBBER]] uploaded "[[:Image:Wiki-vi.png|Wiki-vi.png]]" <em>(Version with transparency)</em></li>
+<li>03:42, 13 Dec 2003 [[User:Mxn|Mxn]] uploaded "[[:Image:Wiki-vi.png|Wiki-vi.png]]" <em>(Vietnamese translation of Nohat&#39;s logo)</em></li>
+<li>06:44, 2 Dec 2003 [[User:DHN|DHN]] uploaded "[[:Image:Vietnamescape.jpg|Vietnamescape.jpg]]" <em>(Những người miền Nam đang lên một chiếc trực thăng để thoát khỏi &#91;&#91;Sài Gòn]] khi &#91;&#91;chiến tranh Việt Nam]] kết thúc.)</em></li>
+<li>07:50, 29 Nov 2003 [[User:Joakim Löfkvist|Joakim Löfkvist]] uploaded "[[:Image:La-map.png|La-map.png]]"</li>
+<li>19:59, 28 Nov 2003 [[User:Joakim Löfkvist|Joakim Löfkvist]] uploaded "[[:Image:CambodiaArms.png|CambodiaArms.png]]"</li>
+<li>19:59, 28 Nov 2003 [[User:Joakim Löfkvist|Joakim Löfkvist]] uploaded "[[:Image:Cambodia_sm03.jpg|Cambodia_sm03.jpg]]"</li>
+<li>19:59, 28 Nov 2003 [[User:Joakim Löfkvist|Joakim Löfkvist]] uploaded "[[:Image:Cambodia_flag_medium.png|Cambodia_flag_medium.png]]"</li>
+<li>08:33, 27 Nov 2003 [[User:Menchi|Menchi]] uploaded "[[:Image:Vietnam_sm03.jpg|Vietnam_sm03.jpg]]" <em>(Vietnamese labels)</em></li>
+<li>20:44, 26 Nov 2003 [[User:Joakim Löfkvist|Joakim Löfkvist]] uploaded "[[:Image:LocationIraq.png|LocationIraq.png]]"</li>
+<li>20:44, 26 Nov 2003 [[User:Joakim Löfkvist|Joakim Löfkvist]] uploaded "[[:Image:Iraq_map.png|Iraq_map.png]]"</li>
+<li>20:44, 26 Nov 2003 [[User:Joakim Löfkvist|Joakim Löfkvist]] uploaded "[[:Image:Iraq_flag_medium.png|Iraq_flag_medium.png]]"</li>
+<li>20:43, 26 Nov 2003 [[User:Joakim Löfkvist|Joakim Löfkvist]] uploaded "[[:Image:Iraq_arms.png|Iraq_arms.png]]"</li>
+<li>08:16, 23 Nov 2003 [[User:Joakim Löfkvist|Joakim Löfkvist]] uploaded "[[:Image:US_highlighted_map2.jpg|US_highlighted_map2.jpg]]"</li>
+<li>08:16, 23 Nov 2003 [[User:Joakim Löfkvist|Joakim Löfkvist]] uploaded "[[:Image:Us_flag_medium.png|Us_flag_medium.png]]"</li>
+<li>08:15, 23 Nov 2003 [[User:Joakim Löfkvist|Joakim Löfkvist]] uploaded "[[:Image:Unitedstatesmap.png|Unitedstatesmap.png]]"</li>
+<li>08:15, 23 Nov 2003 [[User:Joakim Löfkvist|Joakim Löfkvist]] uploaded "[[:Image:Great_Seal_of_the_US_(small).png|Great_Seal_of_the_US_(small).png]]"</li>
+<li>16:32, 16 Nov 2003 [[User:Joakim Löfkvist|Joakim Löfkvist]] uploaded "[[:Image:Laos_coa.png|Laos_coa.png]]"</li>
+<li>16:32, 16 Nov 2003 [[User:Joakim Löfkvist|Joakim Löfkvist]] uploaded "[[:Image:Laos_flag_medium.png|Laos_flag_medium.png]]"</li>
+<li>09:37, 16 Nov 2003 [[User:Joakim Löfkvist|Joakim Löfkvist]] uploaded "[[:Image:LocationLaos.png|LocationLaos.png]]"</li>
+<li>09:36, 16 Nov 2003 [[User:Joakim Löfkvist|Joakim Löfkvist]] uploaded "[[:Image:LocationCambodia.png|LocationCambodia.png]]"</li>
+<li>09:33, 16 Nov 2003 [[User:Joakim Löfkvist|Joakim Löfkvist]] uploaded "[[:Image:LocationSweden.png|LocationSweden.png]]"</li>
+<li>09:24, 16 Nov 2003 [[User:Joakim Löfkvist|Joakim Löfkvist]] uploaded "[[:Image:LocationVietnam.png|LocationVietnam.png]]"</li>
+<li>20:19, 13 Nov 2003 [[User:Joakim Löfkvist|Joakim Löfkvist]] uploaded "[[:Image:Sweden_arms_small.jpg|Sweden_arms_small.jpg]]"</li>
+<li>20:17, 13 Nov 2003 [[User:Joakim Löfkvist|Joakim Löfkvist]] uploaded "[[:Image:Sw-map.png|Sw-map.png]]"</li>
+<li>20:17, 13 Nov 2003 [[User:Joakim Löfkvist|Joakim Löfkvist]] uploaded "[[:Image:Sweden_flag_medium.png|Sweden_flag_medium.png]]"</li>
+<li>18:17, 13 Nov 2003 [[User:Joakim Löfkvist|Joakim Löfkvist]] uploaded "[[:Image:Vietnam_sm03.jpg|Vietnam_sm03.jpg]]"</li>
+<li>18:13, 13 Nov 2003 [[User:Joakim Löfkvist|Joakim Löfkvist]] uploaded "[[:Image:Viet-coa.png|Viet-coa.png]]"</li>
+<li>18:12, 13 Nov 2003 [[User:Joakim Löfkvist|Joakim Löfkvist]] uploaded "[[:Image:Vietnam_flag_medium.png|Vietnam_flag_medium.png]]" <em>(Medium flag of Vietnam)</em></li>
+
+</ul>
+
+[[Thể loại:Công cụ Wikipedia|{{PAGENAME}}]]
+{{Thông tin quốc gia |
+ Tên chính = '''Vương quốc Thụy Điển'''
+| Tên bản địa 1 = Konungariket Sverige {{sv icon}} |
+ Tên thường = Thụy Điển |
+ Tên ngắn = Thụy Điển |
+ Lá cờ = Flag of Sweden.svg |
+ Huy hiệu = Coat of Arms of Sweden.svg |
+ Khẩu hiệu = ''För Sverige i tiden'' |
+ Bản đồ = EU-Sweden.svg |
+ Quốc ca = ''[[Du gamla, Du fria]]'' ''[[de facto]]'' ² |
+ Ngôn ngữ chính thức = [[Tiếng Thụy Điển]] ''(de facto)'' ³ |
+ Thủ đô = [[Stockholm]] |
+ Tọa độ thủ đô = 59°21′ bắc, 18°4′ đông |
+ Vĩ độ = 59 |
+ Vĩ độ phút = 21 |
+ Hướng vĩ độ = N |
+ Kinh độ = 18 |
+ Kinh độ phút = 4 |
+ Hướng kinh độ = E |
+ Loại chính phủ = [[Quân chủ lập hiến]] |
+ Loại viên chức =  • [[Quốc vương Thụy Điển|Quốc vương]]<br /> • [[Thủ tướng Thụy Điển|Thủ tướng]] |
+ Tên viên chức = [[Carl XVI Gustaf của Thụy Điển|Carl XVI Gustaf]]<br />[[Stefan Löfven]] |
+ Thành phố lớn nhất = Stockholm |
+ Diện tích = 449.964 |
+ Đứng hàng diện tích = 54 |
+ Độ lớn diện tích = 1 E11 |
+ Phần nước = 8,67% |
+ Dân số = 9 373 379<ref>{{chú thích web|url=http://www.scb.se/BE0101|title=Befolkningsstatistik|publisher=Statistiska centralbyrån|accessdate = ngày 11 tháng 11 năm 2009}}</ref> |
+ Năm thống kê dân số = 2009 |
+ Mật độ dân số = 20 |
+ Đứng hàng mật độ dân số = 155 |
+ Năm tính GDP PPP = 2005 |
+ GDP PPP = 381,469 tỷ Mỹ kim |<ref name="HDI of Sweden">[http://hdrstats.undp.org/2008/countries/country_fact_sheets/cty_fs_SWE.html HDI of Sweden]. The United Nations. Truy cập ngày 8 tháng 7 năm 2009.</ref>
+ Đứng hàng GDP PPP = 34 |
+ GDP PPP trên đầu người = 29.544 đô la |
+ Đứng hàng GDP PPP trên đầu người = 20 |
+ Năm tính HDI = 2004 |
+ HDI = 0,949 |<ref name="HDI of Sweden"/>
+ Đứng hàng HDI = 6 |
+ Cấp HDI = cao |
+ Loại chủ quyền = [[Thống nhất Thụy Điển|Thống nhất]] |
+ Sự kiện thành lập = |
+ Ngày thành lập = Ngày 6 tháng 6 |
+ Đơn vị tiền tệ = [[Krona Thụy Điển|Krona]] |
+ Dấu đơn vị tiền tệ = kr |
+ Mã đơn vị tiền tệ = SEK |
+ Múi giờ = [[Giờ chuẩn Trung Âu|CET]] |
+ UTC = +1 |
+ Múi giờ DST = [[Giờ mùa hè Trung Âu|CEST]] |
+ UTC DST = +2 |
+ Tên vùng Internet = [[.se]] |
+ Mã số điện thoại = 46 |
+ Ghi chú = ¹ ''För Sverige i tiden'' (tiếng Thụy Điển: ''Cho Thụy Điển – Theo thời gian'') được Carl XVI Gustaf sử dụng là khẩu hiệu cá nhân làm vai quốc vương.<br />² Không có nghị quyết nào tuyên bố rằng bản nhạc này là quốc ca.<br />³ Xem [[#Ngôn ngữ|đoạn về ngôn ngữ]].
+}}
+
+'''Thụy Điển''' ([[tiếng Thụy Điển]]: ''Sverige''), quốc danh hiện tại là '''Vương quốc Thụy Điển''' (''Konungariket Sverige'') bằng [[tiếng Thụy Điển]]) là một vương quốc ở [[Bắc Âu]] giáp [[Na Uy]] ở phía Tây và [[Phần Lan]] ở phía Đông Bắc, nối với Đan Mạch bằng cầu Öresund ở phía Nam, phần biên giới còn lại giáp [[Biển Baltic]] và [[Kattegat|Biển Kattegat]].
+
+Với diện tích 449 964&nbsp;km², Thụy Điển là nước lớn thứ ba trong [[Liên minh châu Âu]], với dân số 9.4 triệu người. Thụy Điển có mật độ dân số thấp với 21 người/ km² nhưng lại tập trung cao ở nửa phía Nam của đất nước. Khoảng 85% dân số sống ở thành thị và theo dự đoán con số này sẽ tăng dần vì quá trình đô thị hóa đang diễn ra.<ref name="publikationer2007">Statistics Sweden. ''Yearbook of Housing and Building Statistics 2007''. Statistics Sweden, Energy, Rents and Real Estate Statistics Unit, 2007. ISBN 978-91-618-1361-2. Available online in [http://www.scb.se/statistik/_publikationer/BO0801_2007A01_BR_BO01SA0701.pdf PDF format]
+</ref> Thủ đô của Thụy Điển là [[Stockholm]], đây cũng là thành phố lớn nhất nước. Thành phố lớn thứ hai là [[Göteborg]] với dân số khoảng 500.000 người và 900.000 người trên tổng vùng. Thành phố lớn thứ ba là [[Malmö]] với dân số khoảng 260.000 người và 650.000 người ở tổng vùng.
+
+Đất nước Thụy  Điển độc lập và thống nhất nổi lên vào thời [[Trung Cổ]]. Vào [[thế kỷ 17]] Thụy Điển mở rộng lãnh thổ và tạo nên [[Đế quốc Thụy Điển]]. Hầu hết lãnh thổ ngoài [[bán đảo Scandinavia]] bị mất vào [[thế kỷ 18]] và [[thế kỷ 19|19]]. Nửa phía Đông của Thụy Điển, [[Phần Lan]] ngày nay, rơi vào tay [[Đế quốc Nga]] năm 1809. Cuộc chiến tranh cuối cùng Thụy Điển tham gia trực tiếp vào năm 1814, khi Thuỵ Điển sử dụng quân sự ép [[Na Uy]] nhập vào Liên minh Thuỵ Điển và Na Uy, một liên minh tồn tại đến tận năm 1905. Kể từ đó, Thuỵ Điển là một nước hòa bình, áp dụng chính sách đối ngoại không liên kết vào thời bình và [[trung lập (quan hệ quốc tế)|chính sách trung lập]] thời chiến.<ref>[http://www.state.gov/r/pa/ei/bgn/2880.htm#foreign ''U.S. State Department Background Notes: Sweden'']</ref>
+
+Ngày nay, Thuỵ Điển là một nước [[quân chủ lập hiến]] với [[thể chế Đại nghị|thể chế đại nghị]] và một nền kinh tế phát triển cao. Thụy Điển đứng đầu về [[chỉ số dân chủ]] trên thế giới theo tạp chí [[The Economist]] và đứng thứ bảy trong [[Liên Hiệp Quốc|Liên hiệp quốc]] về [[chỉ số phát triển con người]]. Thụy Điển là thành viên của [[Liên minh châu Âu]] vào năm 1995 và là thành viên của [[Tổ chức Hợp tác và Phát triển Kinh tế|OECD]].
+
+== Nguồn gốc quốc hiệu ==
+{{main|Tên gọi Thụy Điển}}
+Danh xưng "Thụy Điển" trong tiếng Việt bắt nguồn từ "瑞典" ([[bính âm Hán ngữ|bính âm]]: Ruìdiǎn), dịch danh [[Chữ Hán|Trung văn]] của quốc hiệu Thụy Điển.
+
+== Quốc kỳ và Quốc huy ==
+=== Quốc kỳ ===
+Quốc kỳ Thuỵ Điển hình chữ nhật, nền cờ màu lam, chữ thập màu vàng chia mặt cờ thành 4 [[hình chữ nhật]] màu lam. Diện tích của 2 hình chữ nhật trên và dưới bên trái bằng nhau, 2 hình chữ nhật trên và dưới bên phải cũng có diện tích bằng nhau. Hai màu [[lam]] và [[vàng]] bắt nguồn từ màu của [[Hoàng gia]] Thuỵ Điển. Lá cờ chữ thập màu vàng từng là quân kỳ của [[hải quân]] Hoàng gia Thuỵ Điển. Ngày 22/06/1906 chính thức quy định lá quốc kỳ này.
+
+=== Quốc huy ===
+Lai lịch quốc huy Thuỵ Điển có thể truy nguyên về những năm 1408-1470. Phía trên tấm áo choàng là chiếc [[vương miện]], mặt tấm [[lá chắn]] trong tấm áo choàng có màu lam. Một chữ thập màu vàng chia mặt tấm lá chắn thành 4 phần: phần trên bên trái và phần dưới bên phải mỗi phần có 3 phần chiếc vương miện màu vàng, phần trên bên phải và phần dưới bên trái có con [[sư tử]] vàng đội vương miện vàng thè [[lưỡi]] [[đỏ]]. Trung tâm lá chắn lớn có một lá chắn tương đối nhỏ, mặt tấm lá chắn chia 2 phần phải và trái: mặt bên trái do các sọc chéo 3 màu lam, trắng bạc, đỏ và một chiếc bình vàng tạo thành, mặt bên phải có vẽ một tháp chuông kiểu lô cốt và một con [[chim ưng]] vàng. Hình trên tấm lá chắn nhỏ là phù hiệu của Hoàng gia Thuỵ Điển khoảng năm 1200. Phía trên tấm lá chắn là một chiếc vương miện, 2 bên là 2 con sư tử vàng đầu đội vương miện ngoảnh về phía sau đỡ lấy. Sư tử đứng trên đế tấm lá chắn, đuôi cong hướng lên trên, thè lưỡi đỏ. Xung quanh tấm lá chắn là [[huân chương]] trang trí. Năm 1908 chính thức chế định quốc huy dạng tấm áo choàng này.
+
+== Lịch sử ==
+{{Chính|Lịch sử Thụy Điển}}
+
+Vào cuối [[thời kỳ băng hà]] (khoảng 12.000 TCN) những người đầu tiên đã bắt đầu di dân đến các vùng ven biển bằng đường bộ ở giữa [[Đức]] và [[Scania]] (miền Nam của Thuỵ Điển ngày nay). Các di chỉ khảo cổ lâu đời nhất có niên đại vào khoảng 13.000 năm trước đây được tìm thấy ở vùng Scania. Khi con đường bộ này biến mất vào khoảng 5.000 năm TCN miền trung và vùng ven biển của Thụy Điển đã có dân cư. Cũng theo các di chỉ khảo cổ, trong thời gian từ [[Công Nguyên]] cho đến năm [[400]] đã có một nền thương mại phát đạt với [[Đế quốc La Mã]]. Vùng [[Scandinavia]] được nhắc đến lần đầu tiên trong các văn kiện của [[Đế quốc La Mã|La Mã]] từ năm [[79]] như trong ''[[Naturalis Historiae]]'' của [[Gaius Plinius Secundus]] hay trong ''[[De Origine et situ Germanorum]]'' của [[Gaius Cornelius Tacitus]].
+
+Đầu [[thế kỷ 11]] vương quốc này là một liên minh lỏng lẻo của các vùng tự trị với các hội đồng, luật lệ và tòa án riêng biệt, chỉ được liên kết với nhau qua cá nhân của vị vua có quyền lực tương đối ít. Vương quốc thật ra được thành lập trong [[trung Cổ|thời kỳ Trung Cổ]], giữa năm [[1000]] và [[1300]], đồng thời với việc theo [[Công giáo Rôma|Công giáo]]. Sau năm [[1000]] danh hiệu vua bắt đầu thành hình ở [[Götaland]] (miền nam Thuỵ Điển) và ở [[Svealand]] (miền trung Thuỵ Điển). Ban đầu chức vị này thường hay bị tranh cãi, không bền vững và thường chỉ có tầm quan trọng trong vùng. Dưới thời của [[Birger Jarl]], người có quan hệ mật thiết với anh rể của ông là vua [[Erik XI (Thụy Điển)|Erik Eriksson]], bắt đầu có những cải cách xã hội và chính trị rộng lớn, mang lại một quyền lực tập trung và một [[xã hội]] được tổ chức theo gương của các quốc gia [[phong kiến]] [[châu Âu]].
+
+Năm [[1388]] nữ hoàng [[Đan Mạch]] [[Margarethe I]] được một phái quý tộc chống đối công nhận là người trị vì Thuỵ Điển. Năm [[1397]] cháu của Margarethe là [[Erik VII (Đan Mạch)|Erik của Pommern]] lên ngôi vua trị vì 3 vương quốc Đan Mạch, [[Na Uy]] và Thuỵ Điển, thành lập [[Liên minh Kalma]].
+[[Tập tin:Marten's Poltava.jpg|nhỏ|trái|Trận Poltava năm 1709.]]
+Năm [[1611]], sau khi vua cha qua đời, [[Gustav II Adolf]] lên ngôi lúc 17 tuổi, bắt đầu thời kỳ Thuỵ Điển vươn lên trở thành cường quốc. Ông tham chiến trong nhiều cuộc chiến tranh thời đó.<ref>Christopher M. Clark, ''Iron kingdom: the rise and downfall of Prussia, 1600-1947'', trang 23</ref> Vào năm [[1700]], ba nước láng giềng là [[Đan Mạch]], [[Ba Lan]] và [[Nga]] mở đầu cuộc [[Đại chiến Bắc Âu]] ([[1700]]-[[1721]]) chống lại Thuỵ Điển. Vua [[Karl XII của Thụy Điển]] lần lượt đánh tan tác quân Đan Mạch, quân Nga và cả quân Ba Lan.<ref>Byron J. Nordstrom, ''The history of Sweden'', trang 48</ref> Nhưng vào năm [[1709]], một vị vua lớn trong [[lịch sử Nga]] là [[Pyotr I của Nga|Pyotr Đại Đế]] đánh tan tác quân [[Đế quốc Thụy Điển|Thuỵ Điển]] trong [[trận Poltava]] ([[1709]]).<ref>Gregory L. Freeze, [http://books.google.com.vn/books?id=0Rh2SSIhT6IC&printsec=frontcover&dq=pOLTAVA#v=onepage&q=pOLTAVA&f=false ''Russia: a history''], Oxford University Press, 2002, trang 102. ISBN 0-19-860511-0.</ref> Vua Karl XII chết vào năm [[1718]], và rồi Thuỵ Điển không còn là cường quốc nữa, mất đất về tay [[Đế quốc Nga]] và [[Vương quốc Phổ]]. Tuy thế, chính phủ Thuỵ Điển vẫn mong muốn lập lại vai trò liệt cường của đất nước. Họ đẩy đất nước vào cuộc chiến tranh với quân Nga trong thập niên [[1740]], kết quả là quân Thuỵ Điển lại bại trận. Từ đó, [[Sa hoàng|Nga hoàng]] càng can thiệp vào nội bộ Thụy Điển<ref name="Byrom49">Byron J. Nordstrom, [http://books.google.com.vn/books?id=CjKIb3SyQLkC&pg=PA90&dq=%221740s#v=onepage&q=%221740s&f=false ''The history of Sweden''], Greenwood Publishing Group, 2002, trang 49. ISBN 0-313-31258-3.</ref> Trong cuộc [[Chiến tranh Bảy năm]] ([[1756]] - [[1763]]), Thuỵ Điển tham chiến trong liên quân [[Họ Habsburg|Áo]] - [[Pháp]] - Nga, để đánh nước Phổ với mong muốn giành lại tỉnh [[Pomerania]].<ref>[[Christopher M. Clark]], ''Iron kingdom: the rise and downfall of Prussia, 1600-1947'', trang 200</ref> Nhưng một vị vua lớn trong lịch sử Phổ là [[Friedrich II của Phổ|Friedrich II Đại Đế]] đã đấu tranh anh dũng, sau cùng liên quân dần dần tan rã và quân Thuỵ Điển cũng phải rút lui.<ref>Christopher M. Clark, [http://books.google.com.vn/books?id=4LPODzLgDVEC&printsec=frontcover&dq=%22soon-defected#v=onepage&q=%22soon-defected&f=false ''Iron kingdom: the rise and downfall of Prussia, 1600-1947''], Harvard University Press, 2006, trang 205. ISBN 0-674-02385-4.</ref>
+
+[[Tập tin:Karl XIV Johan, king of Sweden and Norway, painted by Fredric Westin.jpg|nhỏ|Vua Karl XIV Johan tranh vẽ của Fredric Westin]]
+
+Trong cuộc [[chiến tranh Nga-Thụy Điển (1788–1790)|cuộc chiến chống Nga]] ([[1788]] - [[1790]]) của vua [[Gustav III của Thụy Điển|Gustav III]], Quân đội Thuỵ Điển gặt không ít rắc rối và cũng chẳng nhận được một vùng đất nào.<ref>Byron J. Nordstrom, ''The history of Sweden'', trang 49</ref>. Không những vậy, cuộc chiến tranh chống [[Napoléon Bonaparte|Napoléon]] của vua [[Gustav IV Adolf]] còn gây cho Thuỵ Điển nhiều thiệt hại hơn. Do [[Sa hoàng|Nga hoàng]] [[Aleksandr I của Nga|Aleksandr I]] lúc đó liên minh với "tên phản Chúa" [[Napoléon Bonaparte|Napoléon]] ([[1807]]), quân Nga đánh đuổi quân Thuỵ Điển ra khỏi xứ [[Phần Lan]], và điều này khiến một nhóm quý tộc Thuỵ Điển nổi điên lật đổ vua Gustav IV Adolf vào năm [[1809]].<ref>Byron J. Nordstrom, ''The history of Sweden'', trang 64</ref> Vào năm [[1813]], Thụy Điển tham chiến trong liên quân chống Pháp - một liên minh có cả Nga và Phổ<ref>Christopher M. Clark, ''Iron kingdom: the rise and downfall of Prussia, 1600-1947'', trang 365</ref>; sau khi Hoàng đế Napoléon đại bại trong [[trận Leipzig]], vua [[Karl XIV Johan của Thụy Điển|Karl XIV Johan]] còn lâm chiến với [[Đan Mạch]].<ref>Byron J. Nordstrom, ''The history of Sweden'', trang 90</ref> Trong [[Hiệp ước Kiel]] năm [[1814]] [[Đan Mạch]] bắt buộc phải nhượng Na Uy để đổi lại phần đất [[Vorpommern]] của Thuỵ Điển. Khi [[Na Uy]] tuyên bố độc lập sau đó, trong một cuộc chiến ngắn ngủi và gần như không đổ máu vua [[Karl XIV Johan của Thụy Điển|Karl XIV Johan]] đã thành công trong việc ép buộc thành lập liên minh Thuỵ Điển – [[Na Uy]] mà trong đó Na Uy vẫn là một vương quốc riêng biệt. Sau cuộc chiến tranh cuối cùng này Karl XIV Johan đã áp dụng một chính sách hòa bình nhất quán, là cơ sở cho nền trung lập của Thuỵ Điển. Thời gian 200 năm hòa bình của Thuỵ Điển tính từ thời điểm này cho đến nay là độc nhất trên toàn thế giới ngày nay.
+
+Dân số Thuỵ Điển tăng rõ rệt trong [[thế kỷ 19]], từ năm [[1750]] đến [[1850]] dân số đã tăng gấp đôi. Nhiều người ở vùng nông thôn, là nơi cư ngụ của đa phần người dân, không có việc làm, đi đến [[nghèo|nghèo nàn]] và [[chứng nghiện rượu|nghiện rượu]]. Vì thế trong thời gian từ 1850 đến [[1910]] đã có một cuộc di dân lớn mà chủ yếu là đến [[Hoa Kỳ|Mỹ]]. Mặc dầu vậy khi cuộc [[Cách mạng công nghiệp]] bắt đẩu tiến triển tại Thuỵ Điển, người dân từng bước gia nhập vào thành phố và tổ chức các công đoàn [[hệ thống xã hội chủ nghĩa|xã hội chủ nghĩa]]. Một cuộc cách mạng của những người theo [[chủ nghĩa xã hội]] đang đe dọa xảy ra được tránh khỏi vào năm [[1917]], sau đó là việc tái thành lập chế độ nghị viện và quốc gia này trở thành dân chủ.
+
+Trong [[thế kỷ 20]], Thuỵ Điển trung lập trong [[Chiến tranh thế giới thứ nhất|Đệ nhất thế chiến]] và [[Chiến tranh thế giới thứ hai|Đệ nhị thế chiến]], mặc dầu là sự trung lập của quốc gia này trong Đệ nhị thế chiến vẫn còn bị tranh cãi. Thuỵ Điển tiếp tục trung lập trong cuộc [[Chiến tranh Lạnh|Chiến tranh lạnh]] và cho đến ngày nay vẫn không là thành viên của một liên minh quân sự nào. Sau Đệ nhị thế chiến nhờ vào nguồn tài nguyên thiên nhiên và không bị tàn phá Thuỵ Điển đã có thể phát triển ngành công nghiệp cung cấp cho công cuộc tái xây dựng [[châu Âu]] và vì thế trở thành một trong những quốc gia giàu có nhất trên thế giới vào thập niên 1960. Khi các nền kinh tế khác bắt đầu vững mạnh Thuỵ Điển tuy đã bị vượt qua vào thập niên 1970 nhưng vẫn thuộc về các quốc gia đứng đầu về mặt hạnh phúc của người dân.
+
+Ngày [[19 tháng 12]] năm [[1946]], Thuỵ Điển gia nhập [[Liên Hiệp Quốc|Liên Hợp Quốc]], [[tháng mười một|tháng 11]] năm [[1959]] gia nhập [[Hiệp hội Mậu dịch tự do châu Âu|Hiệp hội mậu dịch tự do châu Âu]] ([[Hiệp hội Mậu dịch tự do châu Âu|EFTA]]). 
+Dưới triều vua [[Gustavus V]] (1907-1950), [[kinh tế]] phát triển thịnh vượng chưa từng có. Thuỵ Điển duy trì tính trung lập trong [[Chiến tranh thế giới thứ nhất|Chiến tranh thế giới thứ I]]. Một lần nữa, Thuỵ Điển vẫn giữ vai trò trung lập trong [[Chiến tranh thế giới thứ hai|Chiến tranh thế giới thứ II]]. Đảng Dân chủ xã hội liên tục cầm quyền dưới thời [[Thủ tướng]] [[Per Albin Hasson]] (1932-1946), [[Thủ tướng]] [[Tage Erlander]] (1946- 1969). Kinh tế vẫn phát triển và mô hình Thuỵ Điển tiếp tục được củng cố. Tuy nhiên, dưới thời Thủ tướng [[Olof Palme]] (1969- 1979), Chính phủ phải đương đầu vớị cuộc khủng hoảng [[kinh tế]] - [[xã hội]].<ref>{{chú thích web | url = http://www.vansu.vn/?part=thegioi&opt=cacnuoc&act=view&code=sweden | tiêu đề = 			            Thế giới	            	            	            	            	            	            	            	            	            	        	         | author =  | ngày =  | ngày truy cập = 17 tháng 2 năm 2015 | nơi xuất bản =  | ngôn ngữ = }}</ref>
+
+Năm 1976, phe bảo thủ lên cầm quyền. Năm 1982, O. Palme trở lại giữ chức Thủ tướng. Palme bị Ám sát năm 1986, [[Ingvar Carlsson]] trở thành người kế nhiệm. Năm 1991, lãnh đạo phe bảo thủ, Carl Bildt, trở thành Thủ tướng. Năm 1994, Đảng Dân chủ Xã hội trở lại cầm quyền. Năm 1995, Thuỵ Điển gia nhập [[Liên minh châu Âu|Liên hiệp châu Âu]], nhưng từ chối thông qua việc sử dụng đồng [[euro]] năm 1999.<ref>{{chú thích web | url = http://www.mofa.gov.vn/vi/cn_vakv/euro/nr040819111931/ns110707102124#qnyXXfRQfLOV | tiêu đề =   | author =  | ngày =  | ngày truy cập = 17 tháng 2 năm 2015 | nơi xuất bản =  | ngôn ngữ = }}</ref>
+
+== Chính trị ==
+{{Chính|Hệ thống chính trị Thụy Điển}}
+[[Tập tin:King Carl XVI Gustaf at National Day 2009.jpg|nhỏ|trái|[[Vua]] [[Carl XVI Gustaf của Thụy Điển|Carl XVI Gustav]].]]
+[[Tập tin:601px-Plenisalen Riksdagen Sweden 300dpi.jpg|nhỏ|Quốc hội Thụy Điển]]
+[[Tập tin:Riksdagshus entre 2007 1.jpg|nhỏ|Tòa nhà Quốc hội Thụy Điển.]]
+[[Tập tin:Stockholm Palace at night.jpg|nhỏ|Lâu đài [[Stockholm Palace]] nơi ở của Vua Thụy Điển.]]
+Thuỵ Điển là một nước có nền [[quân chủ lập hiến]]. [[Nguyên thủ quốc gia]] từ năm [[1973]] là vua [[Carl XVI Gustaf của Thụy Điển|Carl XVI Gustav]]. [[Quốc hội (Thụy Điển)|Quốc hội]] (''Riksdag'') chỉ có một viện bao gồm 349 nghị sĩ và được bầu 4 năm một lần. Hiện thời trong Quốc hội có 8 đảng được quyền tham gia quốc hội chia làm 2 liên minh chính trị: 
+{|
+ |Liên minh Đỏ Xanh(''De rödgröna'') gồm:
+* [[Đảng Dân chủ Xã hội Thụy Điển]] (''Sveriges socialdemokratiska arbetareparti'') (S) chiếm 112 ghế.
+* [[Đảng Xanh (Thụy Điển)|Đảng Xanh]] hay còn gọi là đảng Môi trường (''Miljöpartiet de gröna'') (Mp) chiếm 25 ghế.
+* [[Đảng Cánh tả (Thụy Điển)|Đảng Cánh tả]] (''Vänsterpartiet'') (V) chiếm 19 ghế.
+ |Liên minh (''Alliansen'') gồm:
+* [[Đảng Ôn hòa (Thụy Điển)|Đảng Ôn hòa]] (''Moderata samlingspartiet'') (M) thuộc phái bảo thủ chiếm 107 ghế.
+* [[Đảng Tự do (Thụy Điển)|Đảng Tự do]] (''Folkpartiet liberalerna'') (Fp) chiếm 24 ghế.
+* [[Đảng Trung tâm (Thụy Điển)|Đảng Trung tâm]] (''Centerpartiet'') (C) chiếm 23 ghế.
+* [[Đảng Dân chủ Cơ Đốc giáo (Thụy Điển)|Đảng Dân chủ Cơ Đốc giáo]] (Kd) (''Kristdemokraterna'') chiếm 19 ghế.
+|}
+Và [[Đảng Dân chủ Thụy Điển]] (''Sverigedemokraterna'') (Sd) chiếm 20 ghế hoạt động độc lập. Đảng này có quan điểm chính trị chống lại người nhập cư và có liên quan đến tổ chức phân biệt chủng tộc (''Bevara Sverige Svenskt'') do đó 7 đảng ở trên không muốn liên minh cùng.<ref>[http://www.riksdagen.se/sv/ledamoter-partier/ ''http://www.riksdagen.se/sv/ledamoter-partier/'']</ref>
+
+Quốc hội bổ nhiệm Thủ tướng, người bổ nhiệm các bộ trưởng cho chính phủ của ông. Hiện nay chính phủ Thuỵ Điển là chính phủ thiểu số của Đảng Dân chủ Xã hội với sự ủng hộ của Đảng Xanh và Đảng Cánh tả.
+
+Vương quốc này được chia thành 21 tỉnh (''län''). Các nhiệm vụ quản lý nhà nước ở cấp tỉnh được thống đốc (hoặc thủ hiến) (''landshövding'') và chính quyền cấp tỉnh (''länsstyrelse'') thi hành.
+
+Việc tự quản lý ở cấp làng xã được phân chia thành 2 cấp: các nhiệm vụ của làng xã như hệ thống trường học, phục vụ xã hội, chăm sóc người già và trẻ em và hạ tầng cơ sở của làng xã thuộc về nhiệm vụ của 289 làng (''kommun''), các khu vực vượt quá khả năng của từng làng xã một như hệ thống y tế, giao thông trong vùng, kế hoạch hóa giao thông,... thuộc về quyền hạn của các hội đồng tỉnh (''landsting''). Làng xã và các hội đồng tỉnh dùng thuế thu nhập, các khoản thu khác và trợ cấp quốc gia để chi phí cho các hoạt động này.
+
+Tại Thuỵ Điển có nguyên tắc công khai, tức là giới báo chí và tất cả các cá nhân đều có thể xem các văn kiện của công sở nhà nước, ngoại trừ một số ít trường hợp đặc biệt. Không một người nào phải nêu lý do tại sao muốn xem một văn kiện nhất định và cũng không phải trình chứng minh thư.
+
+Một điều đặc biệt khác là hệ thống các [[thanh tra viên]] (''ombudsman''). Những người này bảo vệ quyền lợi của cá nhân trong khi họ tiếp xúc với chính quyền và theo dõi việc thi hành các luật lệ quan trọng. Người công dân khi cho rằng bị đối xử không công bằng có thể tìm đến thanh tra viên, những người sẽ điều tra trường hợp này và có thể mang vụ việc ra trước tòa án với tư cách là nguyên cáo đặc biệt. Đồng thời họ cũng có nhiệm vụ cộng tác với các cơ quan nhà nước để nắm bắt tình hình trong phạm vi của họ, thi hành các công tác giải thích và đưa ra những đề nghị thay đổi luật lệ. Bên cạnh những thanh tra viên về luật pháp còn có thanh tra viên của người tiêu dùng, thanh tra viên về trẻ em, thanh tra viên về quyền bình đẳng và các thanh tra viên về phân biệt đối xử chủng tộc và phân biệt đối xử vì các [[thiên hướng tình dục|khuynh hướng tình dục]].
+
+Trong một thời gian dài Thụy Điển đã được xem như là một nước [[chủ nghĩa xã hội-dân chủ|dân chủ xã hội]] điển hình và nhiều người theo [[cánh tả]] ở [[châu Âu]] đã xem Thuỵ Điển như là một thí dụ điển hình cho một "[[con đường thứ ba]]" giữa [[chủ nghĩa xã hội]] và [[kinh tế thị trường]].
+
+Vào ngày [[14 tháng 9]] năm [[2003]], việc đưa đồng [[euro]] vào sử dụng làm tiền tệ quốc gia được biểu quyết tại Thuỵ Điển. Những người hoài nghi euro đã thắng thế (tỷ lệ đi bầu: 81,2%, kết quả bầu cử: 56,1% chống, 41,8% thuận, 2,1% phiếu trắng và 0,1% phiếu không hợp lệ). Theo tuyên bố của chính phủ Thuỵ Điển sẽ không có trưng cầu dân ý nào khác trước năm [[2013]].
+
+Thuỵ Điển lập quan hệ ngoại giao với [[Việt Nam]] ngày [[11 tháng 1]] năm [[1969]].
+
+== Địa lý ==
+
+{{Chính|Địa lý Thụy Điển}}
+
+[[Tập tin:Kebnekaise view from Tuolpagorni.jpg|nhỏ|[[Kebnekaise]] đỉnh núi cao nhất Thụy Điển]]
+
+Thuỵ Điển có biên giới với biển [[Kattegatt]], các quốc gia [[Na Uy]] và [[Phần Lan]] và [[Biển Đông (Thụy Điển)]]. Hai đảo lớn của Biển Đông thuộc về Thuỵ Điển là [[Gotland]] (khoảng 3.000&nbsp;km²) và [[Öland]] (khoảng 1.300&nbsp;km²). Ngoài ra còn có khoảng 221.800 đảo. Chiều dài nhất từ Bắc đến Nam là 1.572&nbsp;km, từ Đông sang Tây là 499&nbsp;km.
+
+Trong khi phần lớn đất nước là bằng phẳng hay có đồi thì dọc theo biên giới với Na Uy là [[dãy núi Bắc Âu]] (''[[Skanden]]'') cao đến trên 2.000 m với đỉnh cao nhất là [[Kebnekaise]] (2.111 m). Có rất nhiều [[vườn quốc gia Thụy Điển|vườn quốc gia]] rải rác trên toàn nước.
+
+=== Phân chia hành chính ===
+
+[[Tập tin:Carte de la Suède.png|300px|nhỏ|Bản đồ hành chính Thụy Điển]]
+
+Theo truyền thống Thuỵ Điển được chia ra thành ba vùng (''landsdelar'') là [[Götaland]], [[Svealand]] và [[Norrland]]. Vùng lịch sử thứ tư của Thụy Điển cho đến năm [[1809]] là [[Österland]], nước [[Phần Lan]] ngày nay. Cho đến cuộc cải cách hành chính do [[Axel Oxenstierna]] tiến hành năm [[1634]] các vùng này được chia là 25 khu vực (''landskap'')
+{|
+ |
+* [[Blekinge]]
+* [[Bohuslän]]
+* [[Dalarna]]
+* [[Dalsland]]
+* [[Gotland]]
+* [[Gästrikland]]
+* [[Halland]]
+* [[Hälsingland]]
+* [[Härjedalen]]
+ |
+* [[Jämtland]]
+* [[Lapland (Thụy Điển)|Lapland]]
+* [[Medelpad]]
+* [[Norrbotten]]
+* [[Närke]]
+* [[Scania]]
+* [[Småland]]
+* [[Södermanland]]
+ |
+* [[Uppland]]
+* [[Värmland]]
+* [[Västerbotten]]
+* [[Västergötland]]
+* [[Västmanland]]
+* [[Ångermanland]]
+* [[Öland]]
+* [[Östergötland]]
+|}
+
+21 đơn vị hành chính chính thức (''län'') không hoàn toàn trùng hợp với các khu vực trên là:
+{|
+ |
+* [[Stockholm (hạt)|Stockholms]]
+* [[Uppsala (hạt)|Uppsala]]
+* [[Södermanland (hạt)|Södermanlands]]
+* [[Östergötland (hạt)|Östergötlands]]
+* [[Jönköping (hạt)|Jönköpings]]
+* [[Kronoberg (hạt)|Kronobergs]]
+* [[Kalmar (hạt)|Kalmar]]
+ |
+* [[Gotland (hạt)|Gotlands]]
+* [[Blekinge (hạt)|Blekinge]]
+* [[Skåne (hạt)|Skåne]]
+* [[Halland (hạt)|Hallands]]
+* [[Västra Götaland (hạt)|Västra Götalands]]
+* [[Värmland (hạt)|Värmlands]]
+* [[Örebro (hạt)|Örebro]]
+ |
+* [[Västmanland (hạt)|Västmanlands]]
+* [[Dalarna (hạt)|Dalarnas]]
+* [[Gävleborg (hạt)|Gävleborgs]]
+* [[Västernorrland (hạt)|Västernorrlands]]
+* [[Jämtland (hạt)|Jämtlands]]
+* [[Västerbotten (hạt)|Västerbottens]]
+* [[Norrbotten (hạt)|Norrbottens]]
+|}
+
+Thành phố lớn nhất là thủ đô [[Stockholm]]. Các thành phố quan trọng khác là [[Göteborg]], [[Malmö]], [[Uppsala]], [[Linköping]], [[Västerås]], [[Örebro]] và [[Norrköping]].
+
+Nói chung Thuỵ Điển có thể được chia ra làm vùng phía Nam đông dân cư và phát triển nhiều hơn là vùng miền Bắc rất ít dân cư. Miền Bắc bắt đầu từ phía bắc của các thành phố [[Borlänge]], [[Falun]] và [[Gävle]], khoảng trên đường nối [[Söderhamn]]-[[Mora]]. Vào khoảng năm [[1900]] miền Bắc Thuỵ Điển bắt đầu được khai thác. Trong thời gian từ năm [[1907]] đến [[1937]] đường sắt Thụy Điển được xây dựng giữa [[Kristinehamn]] và [[Gällivare]] nhằm để đẩy mạnh công cuộc khai thác này.
+
+=== Địa hình ===
+
+Miền Nam và Trung Thuỵ Điển ([[Götaland]] và [[Svealand]]), hai vùng mà chỉ bao gồm 2/5 Thuỵ Điển, được chia từ Nam đến Bắc ra thành 3 vùng đất lớn. Miền Bắc Thuỵ Điển, bao gồm 3/5 còn lại của Thuỵ Điển được chia từ Đông sang Tây ra thành 3 vùng có phong cảnh khác nhau.
+
+[[Tập tin:Hjortens Udde, lake Vänern Sweden, 2003-04.jpg|nhỏ|Hồ Vänern]]
+
+Phần cực Nam, tỉnh [[Skåne]], là phần đất nối tiếp của vùng đồng bằng miền Bắc nước [[Đức]] và [[Đan Mạch]]. Điểm thấp nhất của Thuỵ Điển với 2,4 m dưới mặt biển cũng ở Schonen. Trải dài từ phía bắc của vùng này là cao nguyên Nam Thuỵ Điển, miền đất nhiều đồi với rất nhiều hồ có hình dáng dài được hình thành qua xói mòn của [[thời kỳ băng hà]]. Vùng đất lớn thứ ba là vùng trũng Trung Thuỵ Điển, là một vùng bằng phẳng nhưng lại bị chia cắt nhiều với các đồng bằng lớn, đồi núi, vịnh hẹp và nhiều hồ (trong đó có 4 hồ lớn nhất Thuỵ Điển là [[Vänern]], [[Vättern]], [[Mälaren]] và [[Hjälmaren]]).
+
+Phía tây của Bắc Thuỵ Điển là [[dãy núi Bắc Âu]], là biên giới với [[Na Uy]], có chiều cao từ 1.000 m đến 2.000 m trên mực nước biển. Trên dãy núi Bắc Âu là ngọn núi cao nhất Thuỵ Điển, ngọn núi [[Kebnekaise]] (2.111 m). Nối liền về phía Đông là vùng đất lớn nhất của Thuỵ Điển. Dọc theo dãy núi là các vùng cao nguyên rộng lớn ở độ cao 600 m đến 700 m trên mực nước biển và chuyển tiếp sang thành một vùng đất có nhiều đồi với địa thế mấp mô thấp dần đi về phía Đông. Các mỏ lớn ([[sắt]], [[đồng]], [[kẽm]], [[chì]]) của Thuỵ Điển cũng nằm trong vùng đất này. Các sông lớn của Thuỵ Điển đều bắt nguồn từ dãy núi Bắc Âu và chảy gần như song song với nhau qua các đồng bằng về hướng [[Biển Đông]]. Dọc theo bờ Biển Đông là vùng đất bằng phẳng bị chia cắt giữa [[Härnösand]] và [[Örnsköldsvik]] bởi một nhánh núi (''Höga kusten''). Các sông dài nhất của Thuỵ Điển là [[Klarälven]], [[Torneälv]], [[Dalälven]], [[Umeälv]] và [[Ångermanälven]].
+
+=== Khí hậu ===
+So với vị trí địa lý, khí hậu của Thuỵ Điển tương đối ôn hòa vì trước tiên là do gần [[Đại Tây Dương]] với dòng [[hải lưu Gulf Stream|hải lưu Gơn strim]] ấm áp. Phần lớn nước Thuỵ Điển có khí hậu ẩm, mưa nhiều và nhiệt độ tương đối ít thay đổi giữa mùa đông và mùa hè. Tại miền nam Thuỵ Điển, được cái cây lá rộng chi phối, rừng lá kim phát triển ở phía bắc, với thông và vân sam thống trị cảnh quan. Vì Thụy Điển nằm giữa 55° vĩ độ và 69° vĩ độ và một phần ở trong vòng cực Bắc nên sự cách biệt giữa ánh sáng ban ngày dài trong mùa hè và ban đêm dài trong mùa đông rất lớn. Ở phần phía bắc, với sự xuất hiện của nhiều núi và biểu hiện của khí hậu cận cực, mùa đông lạnh hơn và tuyết rơi nhiều hơn so với miền nam. Vào một phần của mùa hè mặt trời sẽ xuất hiện tới nữa đêm hoặc không lặn và vào mùa đông, mặt trời chỉ xuất hiện trong vài giờ hoặc không xuất hiện. Lượng mưa trung bình hàng năm là khoảng 1.000&nbsp;mm, với lượng mưa tương đối lớn ở phía tây cao nguyên Småland và bờ biển phía tây. Tháng giêng, nhiệt độ trung bình ban ngày vào khoảng 0 độ C ở phía nam, nhiệt độ âm ở miền trung và - 16 độ C ở phía bắc. Vào tháng bảy, nhiệt động trong bình vào khoảng 17 - 18 độ C ở Götaland och Svealand, và chỉ hơn 10 độ C ở phía cực bắc của Thuỵ Điển. Nhiệt độ thấp nhất được ghi nhận ở Thụy Điển là và ngày 2 tháng 2 năm 1966 ở Vuoggatjålme, Lappland với - 52,6 độ C. Nhiệt độ cao nhất được ghi nhận là 38 độ C ở Ultuna, Uppland (ngày 9 tháng 7 năm 1933) và Målilla, Småland (ngày 29 tháng 6 năm 1947).
+
+{| class="wikitable" style="text-align:center"
+|+ Nhiệt độ trung bình cao và thấp ở các thành phố Thụy Điển (°C)<ref>{{chú thích web|author=weather |url=http://www.msn.com/weather |archiveurl=http://web.archive.org/web/20080511023744/http://www.msn.com/weather |archivedate = ngày 11 tháng 5 năm 2008 |title=Local, National, and International Weather – Forecasts, Radar Maps, Video, and News |publisher=Msn.com |accessdate = ngày 6 tháng 5 năm 2009}}</ref>
+|- style="background:#e5afaa;"
+! scope="col" | City
+! scope="col" | Jan
+! scope="col" | Feb
+! scope="col" | Mar
+! scope="col" | Apr
+! scope="col" | May
+! scope="col" | Jun
+! scope="col" | Jul
+! scope="col" | Aug
+! scope="col" | Sep
+! scope="col" | Oct
+! scope="col" | Nov
+! scope="col" | Dec
+|- style="background:#c5dfe1; color:black"
+! scope="row" | [[Kiruna]]
+| −10/−16
+| −8/−15
+| −4/−13
+| 2/−7
+| 8/0
+| 14/6
+| 17/8
+| 14/6
+| 9/2
+| 1/−4
+| −5/−10
+| −8/−15
+|- style="background:#f8f3ca"
+! scope="row" | [[Östersund]]
+| −5/−10
+| −3/−9
+| 0/−6
+| 5/−2
+| 12/3
+| 16/8
+| 18/10
+| 17/10
+| 12/6
+| 6/2
+| 0/−3
+| −3/−8
+|- style="background:#c5dfe1"
+! scope="row" | [[Stockholm]]
+|1/−2
+|1/−3
+|4/−2
+|11/3
+|16/8
+|20/12
+|23/15
+|22/14
+|17/10
+|10/6
+|5/2
+|1/−1
+|- style="background:#f8f3ca"
+! scope="row" | [[Göteborg|Gothenburg]] ''(Göteborg)''
+| 2/−1
+| 4/−1
+| 6/0
+| 11/3
+| 16/8
+| 19/12
+| 22/14
+| 22/14
+| 18/10
+| 12/6
+| 7/3
+| 3/−1
+|- style="background:#c5dfe1"
+! scope="row" | [[Visby]]
+| 1/−2
+| 1/−3
+| 3/−2
+| 9/1
+| 14/6
+| 18/10
+| 21/13
+| 20/13
+| 16/9
+| 10/6
+| 5/2
+| 2/0
+|- style="background:#f8f3ca"
+! scope="row" | [[Malmö]]
+| 3/−1
+| 3/−1
+| 6/0
+| 12/3
+| 17/8
+| 19/11
+| 22/13
+| 22/14
+| 18/10
+| 12/6
+| 8/4
+| 4/1
+|}
+
+=== Hệ thực vật và động vật ===
+[[Tập tin:Brösarps backar okt 2005.jpg|nhỏ|trái|Khung cảnh ở [[Scania|Skåne]] miền nam Thụy Điển]]
+
+Miền Bắc Thụy Điển có nhiều rừng cây lá kim rộng lớn, càng về phía Nam thì càng có nhiều rừng tạp. Tại miền Nam Thụy Điển các rừng cây lá rộng đã phải nhường chỗ cho canh nông hay được thay thế bằng cây lá kim vì chúng có độ tăng trưởng nhanh hơn. Hai đảo [[Gotland]] và [[Öland]] có một hệ thực vật đa dạng gây nhiều ấn tượng, đặc biệt là có rất nhiều loài hoa lan.
+
+[[Lợn rừng|Heo rừng]] và [[Hươu đỏ]] (''Cervus elaphus'') có nhiều. Heo rừng đã bị tiêu diệt trong tự nhiên vào cuối [[thế kỷ 19]] nhưng sau khi thoát ra khỏi được các khu vực cấm săn bắn đã lại phát triển đến một dân số có thể tự sống được. Các dã thú như [[gấu]], [[sói xám|sói]] và [[chi Linh miêu|linh miêu]] đã phát triển trở lại trong những năm gần đây nhờ vào các quy định bảo vệ môi trường nghiêm ngặt.
+
+Năm [[1910]] Thụy Điển là quốc gia đầu tiên của châu Âu thành lập các vùng bảo vệ thiên nhiên và cho đến ngày hôm nay vẫn luôn luôn bảo vệ thiên nhiên của đất nước. Người Thụy Điển có ý thức bảo vệ môi trường rất cao.
+
+== Kinh tế ==
+[[Tập tin:Ericsson huvudkontor Kista 2010.jpg|nhỏ|Trụ sở tập đoàn [[Ericsson]] tại Stockholm]]
+{{Chính|Kinh tế Thụy Điển}}
+Trong nửa sau của [[thế kỷ 19]], mặc dầu đã có xây dựng đường sắt, Thụy Điển vẫn còn là một quốc gia nông nghiệp rõ rệt với 90% dân số sống nhờ vào nông nghiệp. Mãi cho đến thập niên cuối cùng của thế kỷ 19 mới có [[công nghiệp hóa]] rộng lớn, làm cơ sở cho một [[xã hội công nghiệp]] hiện đại cho đến cuộc [[khủng hoảng kinh tế thế giới]] năm [[1929]]. Sau [[Chiến tranh thế giới thứ hai|Đệ nhị thế chiến]] Thụy Điển trở thành một trong những quốc gia công nghiệp dẫn đầu của thế giới. Việc phát triển công nghiệp đạt đến đỉnh cao vào giữa thập niên 1960, từ thập niên 1970 số người lao động trong công nghiệp giảm xuống trong khi khu vực dịch vụ tăng trưởng thêm. Trong năm [[2002]] nông nghiệp chỉ chiếm hơn 2% của [[tổng sản phẩm nội địa|tổng sản phẩm quốc nội]], tỷ lệ của khu vực công nghiệp là 28% trong khi 70% của tổng sản phẩm quốc nội là do khu vực dịch vụ tạo nên.
+
+=== Nông nghiệp và lâm nghiệp ===
+Nền nông nghiệp Thụy Điển mang dấu ấn của những điều kiện về [[địa chất học|địa chất]] và của [[khí hậu]]. Khoảng 10% diện tích quốc gia được sử dụng trong nông nghiệp. 90% diện tích trồng trọt là ở miền Nam và miền Trung của Thụy Điển. Một phần lớn các công ty trong nông nghiệp là sở hữu gia đình. Được trồng nhiều nhất là [[ngũ cốc]], [[khoai tây]] và các loại cây cho dầu. Thế nhưng hơn phân nửa thu nhập trong nông nghiệp (58%) là từ chăn nuôi mà nhiều nhất là sản xuất sữa. Trợ giá nông nghiệp của [[Liên minh châu Âu]] chiếm 24% thu nhập. 3/4 các công ty nông nghiệp đều có rừng và kết hợp nông nghiệp với lâm nghiệp. Do Thụy Điển là một trong những nước giàu rừng nhất thế giới (25% diện tích quốc gia là rừng) nên lâm nghiệp cũng đóng vai trò quan trọng trong nền kinh tế.
+
+=== Khai thác mỏ và công nghiệp ===
+[[Tập tin:Kiruna Abraumhalden Erzbahn.jpg|nhỏ|Khai thác quặng sắt tại Kiruna]]
+Thụy Điển giàu về khoáng sản và đã bắt đầu khai thác từ [[trung Cổ|thời kỳ Trung Cổ]]. Sau cuộc khủng hoảng sắt và thép của thập niên 1970, quặng sắt chỉ còn được khai thác ở Norrland (thành phố [[Kiruna]]) và được xuất khẩu. [[Đồng]], [[chì]] và [[kẽm]] đều vượt quá nhu cầu trong nước gấp nhiều lần và cũng được xuất khẩu trong khi [[bạc]] chỉ đáp ứng được 60% và [[vàng]] 80% nhu cầu trong nước. Cũng còn có nhiều dự trữ quặng nhưng việc khai thác trong thời gian này không có hiệu quả kinh tế.
+
+Điểm đặc biệt của nền công nghiệp Thụy Điển là thành phần của các công ty lớn tương đối cao. Sau một cuộc khủng hoảng vào đầu những năm 1990 (sản xuất giảm 10% trong vòng 2 năm) công nghiệp bắt đầu phục hồi. Các ngành công nghiệp lớn nhất là chế tạo xe cơ giới (chiếm 13% giá trị sản xuất năm 1996) với các công ty như [[Volvo]], [[Scania]], [[Saab]] và Saab AB ([[máy bay]] và kỹ thuật [[du hành không gian|du hành vũ trụ]]), công nghiệp gỗ và [[giấy]] (cũng chiếm 13% giá trị sản xuất) với 4 công ty lớn, chế tạo máy (12%) với các công ty như [[Electrolux]], [[Svenska Kullager-Fabriken|SKF]], [[Tetra-Pak]], [[Alfa-Laval]] và công nghiệp điện-điện tử (19%) với các công ty chiếm ưu thế là [[Ericsson]] và [[Asea Brown Boveri|ABB]].
+[[Tập tin:Nordstan Öst.JPG|nhỏ|Trung tâm mua sắm Nordstan ở [[Göteborg|Gothenburg]], trung tâm mua sắm lớn nhất ở [[Bắc Âu]].]]
+=== Dịch vụ ===
+Khu vực dịch vụ đóng góp 70% của [[tổng sản phẩm nội địa|tổng sản phẩm quốc nội]] mà trước tiên là do khu vực nhà nước đã tăng trưởng rất mạnh trong các thập niên gần đây. Mặc dù vậy khu vực dịch vụ tư nhân vẫn chiếm hơn 2/3 sản lượng.
+
+=== Ngoại thương ===
+Kinh tế Thụy Điển phụ thuộc mạnh vào ngoại thương. Các nước xuất khẩu chính là [[Hoa Kỳ|USA]] (11,9% xuất khẩu trong quý đầu của năm [[2004]]), [[Đức]] (10,2%), [[Na Uy]] (8,3%) và [[Vương quốc Liên hiệp Anh và Bắc Ireland|Anh]] (7,8%). Các sản phẩm nhập khẩu quan trọng nhất là các sản phẩm điện và điện tử (16,8% của nhập khẩu trong quý đầu của năm 2004), máy móc (11,4%) xe cơ giới và thành phần của xe cơ giới (11,3%).
+
+Tỷ lệ đầu tư trực tiếp của nước ngoài tại Thụy Điển tương đối cao. Nguyên nhân là do một số ít tập đoàn kinh doanh quốc tế chiếm thế áp đảo trong nền kinh tế của Thụy Điển. Vào khoảng 50 tập đoàn chiếm 2/3 xuất khẩu của Thụy Điển.
+
+=== Du lịch ===
+Du lịch tham gia đóng góp vào khoảng 3% (4 tỉ [[Đô la Mỹ|USD]] năm [[2000]]) trong [[tổng sản phẩm nội địa|tổng sản phẩm quốc nội]]. 4/5 khách du lịch là người trong nước và chỉ có 1/5 là đến từ nước ngoài. Trong số khách du lịch từ nước ngoài năm [[1998]], 23% đến từ [[Đức]], 19% từ [[Đan Mạch]], 10% từ [[Na Uy]], 9% từ [[Vương quốc Liên hiệp Anh và Bắc Ireland|Anh]] và 9% từ [[Hà Lan]].
+
+== Dân cư ==
+Thụy Điển có vào khoảng 9 triệu dân. Tỷ lệ sinh 1,7 con cho một người phụ nữ ([[2002]]) là một trong những tỷ lệ thấp nhất trong lịch sử của Thụy Điển mặc dầu là vẫn còn trên mức trung bình của [[châu Âu]].
+
+12% dân cư là người di dân, trong đó người [[Phần Lan]] là nhóm đông nhất với 100.000 người. Vì cuộc khủng hoảng đang xảy ra ở [[Iraq]] nên cũng có rất nhiều người Iraq đến Thụy Điển. Ngoài ra còn có người [[Na Uy]], [[Đan Mạch]], [[Croatia]], [[Serbia]], [[Bosna và Hercegovina|Bosna]], [[Đức]] và [[Ba Lan]]. Người Ba Lan làm việc với tư cách là khách lao động có rất nhiều trong khu vực y tế.
+
+=== Ngôn ngữ ===
+Ngôn ngữ phổ thông gần khắp mọi nơi là [[tiếng Thụy Điển]]. [[Tiếng Na Uy]] cũng được hiểu gần như khắp mọi nơi vì rất tương tự như tiếng Thụy Điển. Một số vùng nói [[tiếng Phần Lan]] và [[tiếng Sami]].
+
+Tại Thụy Điển, tiếng Phần Lan, [[tiếng Meänkieli]], [[tiếng Jiddisch]], [[tiếng Romani]] và tiếng Sami có địa vị là các ngôn ngữ thiểu số được công nhận. Gần 80% người Thụy Điển nói [[tiếng Anh]] như là ngoại ngữ vì một phần tiếng Anh là ngoại ngữ đầu tiên trong trường học và phần khác là vì tiếng Anh có rất nhiều trong chương trình truyền hình. Đa số học sinh chọn [[tiếng Đức]] là ngoại ngữ thứ nhì, nhưng gần đây [[tiếng Tây Ban Nha]] đang được ưa chuộng và đã vượt qua tiếng Đức tại một số trường. Thật ra tiếng Đức là ngoại ngữ đầu tiên tại Thụy Điển cho đến năm [[1950]] cũng như trong phần còn lại của [[Bắc Âu]].
+
+=== Tôn giáo ===
+[[Tập tin:Uppsala cathedral from southwest 02.jpg|nhỏ|[[Nhà thờ chính tòa Uppsala]].]]
+[[Giáo hội Thụy Điển]], một giáo hội [[Lutheran]], đã là giáo hội quốc gia từ [[1527]] cho đến [[1999]]. Tỉ lệ thành viên của Giáo hội trên tổng dân số suy giảm dần qua các năm: từ 95,2% năm 1972 xuống còn 67,5% năm 2012. Số người của nhóm lớn thứ nhì, những người theo [[Hồi giáo]], rất khó được đoán chính xác. Tổng số những thành viên là vào khoảng 250.000 người. [[Giáo hội Công giáo Rôma|Công giáo Rôma]] có vào khoảng 150.000 người và [[Chính thống giáo Đông phương]] khoảng 100.000 người. Bên cạnh đó tại Thụy Điển có khoảng 23.000 người của [[Nhân Chứng Giê-hô-va|Nhân chứng Jehova]], 20.000 người là tín đồ [[Phật giáo]] và vào khoảng 10.000 người theo [[Do Thái giáo]].
+
+=== Cuộc sống xã hội ===
+[[Tập tin:Stockholm old town 2002.jpg|nhỏ|240px|Khu phố cổ của Stockholm]]
+
+{{Chính|Hệ thống phúc lợi xã hội Thụy Điển}}
+{{Chính|Hệ thống đào tạo Thụy Điển}}
+
+"Mô hình Thụy Điển", một khái niệm của thập niên 1970, ám chỉ [[hệ thống phúc lợi xã hội]], một hệ thống phúc lợi và chăm lo xã hội rộng khắp, là kết quả của sự phát triển hằng trăm năm. Trong thời gian từ năm [[1890]] đến [[1930]] một phần cơ sở cho một hệ thống phúc lợi xã hội đã thành hình, nhưng mãi đến những năm của thập niên 1930, đặc biệt là từ khi [[Đảng Công nhân Dân chủ Xã hội Thụy Điển]] thành lập chính phủ năm [[1932]], việc xây dựng một quốc gia phúc lợi xã hội mới trở thành một dự án chính trị và được đẩy mạnh. Hệ thống phúc lợi xã hội Thụy Điển cuối cùng đã bao gồm tất cả mọi người từ trẻ em (thông qua hệ thống chăm sóc trẻ em của làng xã) cho đến những người về hưu (thông qua hệ thống chăm sóc người già của làng xã).
+
+Mãi đến thập niên vừa qua mới có những thay đổi lớn. Một cuộc khủng hoảng kinh tế trầm trọng đầu thập niên 1990 đã dẫn đến việc cắt giảm các [[phúc lợi xã hội]] và sự phát triển nhân khẩu như đã dự đoán đã buộc phải xây dựng lại toàn bộ hệ thống hưu trí, hệ thống mà từ nay được gắn liền vào phát triển kinh tế. Thế nhưng các cuộc bầu cử vừa qua đã cho thấy là chính những phần cốt lõi của hệ thống phúc lợi xã hội rất được người công dân yêu mến.
+
+== Văn hoá ==
+{{Chính|Văn hoá Thụy Điển}}
+
+=== Văn học ===
+{{Chính|Văn học Thụy Điển}}
+
+Vào đầu [[Cải cách Kháng Cách|Phong trào Cải cách]] nền tảng cho một [[tiếng Thụy Điển]] thống nhất bắt đầu hình thành. Văn học mang tính chất [[tôn giáo]] chiếm lĩnh ưu thế trong suốt thời kỳ này.
+
+Vào năm [[1732]] số đầu tiên của tờ tuần báo đầu tiên, ''Then swänska Argus'', được phát hành. [[Olof Dalin]], người phát hành tờ tuần báo này, chủ yếu hướng về giới bạn đọc là người thường dân. Trong những người cùng thời với Dalin nổi bật nhất là bà [[Hedvig Charlotta Nordenflycht]]. Thơ của bà một phần mang tính chất cá nhân và trữ tình, một phần khác mang dấu ấn của cuộc đấu tranh vì các quyền trí thức của phụ nữ.
+
+[[Erik Gustaf Geijer]] cũng như người sau ông là [[Esaias Tegnér]] là những người đại diện cho trường phái lãng mạn quốc gia trong [[Thời kỳ Lãng mạn]]. Với bài thơ ''Vikingen'' Geijer đã đưa hình tượng của [[người Viking]] đi vào văn học. Cũng trong thời kỳ này các tiểu thuyết đầu tiên bắt đầu được phát hành, đáng kể nhất là [[Carl Jonas Love Almqvist]] với quyển tiểu thuyết ''Drottningens juvelsmycke'' (Châu báu của hoàng hậu).
+
+[[Tập tin:Selma Lagerlof (1908), painted by Carl Larsson.jpg|nhỏ|Selma Lagerlöf, tranh vẽ của Carl Larsson (1909)]]
+[[August Strindberg]] và [[Selma Lagerlöf]] là hai nhà văn nổi bật nhất trong thời gian từ cuối [[thế kỷ 19]] cho đến [[Chiến tranh thế giới thứ nhất|Đệ nhất thế chiến]]. Với hai tác phẩm ''Fadren'' (Cha) năm [[1887]] và ''Fröken Julie'' (Người con gái tên Julie) Strindberg đã đạt đến giới bạn đọc quốc tế. Người đoạt [[giải Nobel]] [[Selma Lagerhöf]] bắt đầu được giới công khai biết đến qua quyển tiểu thuyết ''Gösta Berlings saga''.
+
+Nền văn học sau năm [[1914]] hướng về các đề tài xã hội nhiều hơn thời gian trước đó. [[Sigfrid Siwertz]], [[Elin Wägner]] và [[Hjalmar Bergman]] miêu tả đất nước Thụy Điển đương thời trong thời gian chuyển đổi từ xã hội nông nghiệp sang [[xã hội công nghiệp]].
+
+[[Thời kỳ Hiện đại]] trong văn học Thụy Điển bắt đầu trong những thập niên sau [[Chiến tranh thế giới thứ hai|Đệ nhị thế chiến]]. Giữa những năm 1960 bắt đầu có một cuộc đổi hướng trong văn học Thụy Điển. Nhận thức mới về chính trị thế giới đòi hỏi một nền văn học phê bình xã hội. [[Per Olov Enquist]] viết quyển tiểu thuyết mang tính chất tài liệu về việc trục xuất những [[người Balt]] từ Thụy Điển về [[Liên Xô|Liên bang Xô viết]]. Các nhà văn khác như [[Pär Westberg]] và [[Sara Lidman]] viết về tình trạng của thế giới bên ngoài. Trong những năm của thập kỷ 1970 văn học Thụy Điển trở về đề tài sử thi. Trong nhiều tác phẩm cùng chủ đề, từng vùng đất của Thụy Điển đã được miêu tả lại trong lúc chuyển đổi giữa cũ và mới. [[Lars Norén]] với bi kịch gia đình ''Modet att döda'' (Can đảm để giết người) năm [[1980]] đã trở thành nhà viết bi kịch nổi tiếng nhất của những thập niên kế tiếp.
+
+=== Phim ===
+{{Chính|Phim Thụy Điển}}
+
+Vào khoảng năm [[1910]] Thụy Điển bắt đầu sản xuất phim thường xuyên. Chẳng bao lâu phim Thụy Điển đạt chất lượng đến một mức độ làm cho cả thế giới biết đến. Thế nhưng khi phim có âm thanh ra đời và kèm theo đó là việc tự giới hạn trong thị trường nhỏ nói tiếng Thụy Điển, phim Thụy Điển giảm sút xuống mức độ thấp về nghệ thuật. Mãi đến sau [[Chiến tranh thế giới thứ hai|Đệ nhị thế chiến]] phim Thụy Điển mới trải qua một cuộc đổi mới về chất lượng nghệ thuật. Trước tiên là trong thể loại phim tài liệu, thí dụ như phim ''Con người trong thành phố'' của [[Arne Sucksdorf]] đã đoạt được [[giải Oscar|giải thưởng Oscar]]. Thể loại phim thiếu niên và nhi đồng cũng đạt được sự quan tâm của thế giới.
+
+=== Âm nhạc ===
+Thụy Điển nổi tiếng về thể loại [[pop|nhạc Pop]] với các ban nhạc được cả thế giới biết đến như [[ABBA]], [[Roxette]], [[Ace of Base]] và [[Army of Lovers]]. Thuộc về các ban nhạc nổi tiếng hiện nay là [[Looptroop]] và [[The Hives]]. Bên cạnh đó, Thụy Điển cũng là một đất nước có nền [[nhạc Metal]] phát triển cực kì mạnh mẽ với những cái tên đã quá quen thuộc với các rockfan trên toàn thế giới như [[Arch Enemy]], [[In Flames]],[[Dark Funeral]], [[Dark Tranquillity]] hay [[Pain Of Salvation]].
+
+=== Kiến trúc ===
+{{Chính|Kiến trúc Thụy Điển}}
+
+=== Các lễ hội và phong tục tập quán đặc trưng ===
+[[Tập tin:Midsommardans av Anders Zorn 1897.jpg|nhỏ|Lễ hội giữa hè (tranh vẽ của [[Anders Zorn]] 1897)]]
+[[Tập tin:Mittsommer-skansen.jpg|nhỏ|Cây nêu của lễ hội giữa hè]]
+
+Ngày [[6 tháng 1]] là ngày lễ '''Trettondedag jul''' ([[lễ Hiển Linh|lễ Ba Vua]] còn gọi là [[lễ Hiển Linh]]), đây là ngày lễ quốc gia tại Thụy Điển chủ yếu theo đạo [[Tin Lành]].
+
+Vào ngày [[13 tháng 1]], '''Tjugondedag jul''' (còn gọi là '''Tjugondag jul''' hay '''Knut'''), mùa [[Lễ Giáng Sinh|Giáng Sinh]] chấm dứt. Thỉnh thoảng có lễ hội cuối cùng, nến và các vật trang hoàng được tháo gỡ xuống và cây Nô en được mang ra ngoài.
+
+'''Valborgsmässoafton''' được chào mừng vào ngày [[30 tháng 4]]. Người dân quay quanh các lửa trại lớn, có phát biểu chào mừng mùa Xuân và hát các bài ca về mùa Xuân. Đặc biệt ở tại [[Lund]] và [[Uppsala]] thì '''Valborg''' vào đêm trước ngày [[1 tháng 5]] là một lễ hội sinh viên quan trọng. Đúng 15 giờ tất cả mọi người đều đội mũ sinh viên lên là hát những bài ca sinh viên. Vào đêm đó thường người ta uống nhiều rượu.
+
+Ngày [[6 tháng 6]], '''Svenska flaggans dag''', là ngày lễ quốc khánh của Thụy Điển. Đầu tiên là "Flaggentag" (''Ngày Quốc kỳ''), ra đời vào năm [[1916]], ngày 6 tháng 6 là lễ quốc khánh từ năm [[1983]] và từ năm [[2005]] cũng là ngày lễ chính thức.
+
+[[Lễ hội giữa hè]] (''Midsommarfest'') được mừng vào đêm rạng sáng ngày thứ Bảy đầu tiên sau ngày [[21 tháng 6]]. Lễ hội này được ăn mừng lớn chỉ có thể so sánh được với lễ [[Lễ Giáng Sinh|Giáng Sinh]]. Thụy Điển đẹp nhất vào đêm "midsommarafton" cuối tháng 6, khi ánh sáng mặt trời có thể nhìn thấy 24 tiếng liên tục ở miền Bắc và ở miền Nam chỉ có vài tiếng là hoàng hôn và rạng sáng. Ngày lễ này có truyền thống rất lâu đời và có nguồn gốc từ các lễ hội chào mừng mùa Hè từ thời kỳ Tiền Lịch sử. Trên khắp mọi nơi ở Thụy Điển người dân ca hát và nhảy múa chung quanh cây nêu tháng 5 được trang hoàng bằng cành cây và bông hoa, có lẽ là biểu tượng quốc gia Thụy Điển nổi tiếng nhất.
+
+Vào tháng 8 bắt đầu có tôm cua tươi đầu mùa ở chợ. Lễ hội chào mừng được gọi là '''Kräftskiva''' và được tổ chức không có thời điểm nhất định. Người dân ăn tôm cua luộc cho đến khi no và uống kèm theo đó là rượu mạnh.
+
+Tại miền Bắc Thụy Điển còn có '''Surströmmingsfest''' vào cuối mùa Hè. Việc ăn [[cá trích]] được ủ trước cùng với [[khoai tây]] hay với [[tunnbröd]] (một loại bánh mì khô) trong dịp lễ này đòi hỏi phải có khẩu vị "cứng cáp".
+
+[[Lễ Lucia]] (''Luciafest'') bắt đầu vào sáng ngày [[13 tháng 12]] và tại Thụy Điển là ngày của Nữ hoàng ánh sáng. Người con gái đầu trong gia đình xuất hiện với một váy trắng và mang trên đầu một vòng hoa được làm từ cành cây của một loài cây việt quất (''Vaccinium vitis-idaea'') và nến, đánh thức gia đình và mang thức ăn sáng đến tận giường. Trường học và nơi làm việc trên toàn nước được các đoàn diễu hành đến thăm viếng vào sáng sớm. Các cô gái trẻ mang váy trắng dài đến gót chân cùng với nến trên đầu và tay, đi cùng là các nam thiếu niên mang quần áo trắng và đội nón chóp dài được trang điểm bằng nhiều ngôi sao.
+
+== Thể thao ==
+{{Chính|Thể thao Thụy Điển}}
+
+Thể thao là một phong trào quần chúng tại Thụy Điển với khoảng độ một nửa dân số tham gia tích cực. Hai môn thể thao chính là [[bóng đá]] và [[khúc côn cầu trên băng]]. [[Zlatan Ibrahimović|Zlatan Ibrahimovic]], [[Henrik Larsson]] và [[Fredrik Ljungberg]] thuộc về những ngôi sao bóng đá của Thụy Điển và trong số những người nổi tiếng trong bộ môn khúc côn cầu trên băng phải kể đến [[Markus Näslund]], [[Peter Forsberg]], [[Mats Sundin]], [[Daniel Alfredsson]], [[Niklas Lidström]], [[Börje Salming]] và [[Pelle Lindbergh]].
+
+Số người chơi các môn [[thể thao cưỡi ngựa]] nhiều chỉ sau bóng đá, phần lớn là phụ nữ. Tiếp theo sau đó là [[golf]], [[điền kinh]] và các môn thể thao đồng đội như [[bóng ném]], [[khúc côn cầu trong nhà]] ([[tiếng Anh]]: ''Floorball''), [[bóng rổ]] và ngoài ra là [[bandy]] tại các vùng phía Bắc.
+
+Các vận động viên [[quần vợt]] thành công bao gồm [[Bjorn Borg|Björn Borg]], [[Mats Wilander]],[[Stefan Edberg]] và [[Robin Söderling|Robin Soderling]].
+
+Rất nhiều người Thụy Điển đã lập thành tích quốc tế trong điền kinh, thí dụ như [[Patrik Sjöberg]] - kỷ lục [[nhảy cao]] nam châu Âu, hay [[Kajsa Bergqvist]] - kỷ lục nhảy cao nữ, và người đoạt huy chương vàng [[Thế vận hội]] [[Stefan Holm]]. Hai vận động viên Thụy Điển khác đoạt huy chương vàng tại [[Thế vận hội mùa Hè 2004]] là [[Carolina Klüft]] trong bộ môn [[điền kinh nữ bảy môn]] và [[Christian Olsson]] trong bộ môn [[nhảy ba bước]].
+
+Các vận động viên nổi tiếng khác của Thụy Điển bao gồm [[Ingemar Johansson]] ([[quyền Anh|đấm bốc]] hạng nặng), [[Annika Sörenstam]] (đánh golf), [[Jan-Ove Waldner]] (nguyên vô địch [[bóng bàn]] 5 lần) và [[Tony Rickardsson]] ([[đua mô tô]]).
+
+Trong trường học, trên bãi cỏ hay trong công viên [[brännboll]], một bộ môn thể thao tương tự như [[bóng chày]], thường hay được chơi để giải trí. Trong các thế hệ lớn tuổi các bộ môn thể thao giải trí khác là [[kubb]] và [[boules]].
+
+== Những ngày lễ ==
+{{Chính|Những ngày lễ của Thụy Điển}}
+
+{| class="wikitable" align="center"
+|-
+! Ngày!! Tên!! Tên bằng tiếng Thụy Điển!! Ghi chú
+|-
+| [[1 tháng 1]] || [[Tết Dương lịch|Tết Dương Lịch]] || ''Nyårsdagen''
+|-
+| [[6 tháng 1]] || [[Lễ Hiển Linh|Lễ Ba Vua]] || ''Trettondagen''
+|-
+| ''Thứ sáu'' (không nhất định) || [[Thứ sáu Tuần Thánh]] || ''Långfredag'' || Vào thứ sáu trước Phục Sinh
+|-
+| ''Chủ nhật'' (không nhất định) || [[Lễ Phục Sinh]] || ''Påskdagen''
+|-
+| ''Thứ hai'' (không nhất định) || [[Hậu Phục Sinh]] || ''Annandag påsk'' || Vào thứ hai sau Phục Sinh
+|-
+| [[1 tháng 5]] || [[Ngày Lao động]] || ''Första maj'' || Xem [[#Các lễ hội và phong tục tập quán đặc trưng|phần nói về lễ hội tại Thụy Điển]]
+|-
+| ''Thứ năm'' (không nhất định) || [[Lễ Thăng Thiên]] || ''Kristi himmelsfärdsdag'' || 40 ngày sau Phục Sinh
+|-
+| ''Chủ nhật'' (không nhất định) || [[Lễ Hiện Xuống]] || ''Pingstdagen'' || 50 ngày sau Phục Sinh
+|-
+| ''Thứ hai'' (không nhất định) || [[Lễ Hạ Trần|Whitmonday]] || ''Annandag Pingst'' || 51 ngày sau Phục Sinh
+|-
+| ''Thứ sáu'' thứ ba của [[tháng sáu]] || [[Giao thừa Hạ chí]] || ''Midsommarafton'' || Bán chính thức
+|-
+| ''Thứ bảy'' thứ ba của tháng sáu || [[Hạ chí]] || ''Midsommardagen''
+|-
+| ''Thứ bảy'' đầu tiên của [[tháng mười một]] || [[Lễ Toàn Thiện]] || ''Alla helgons dag''
+|-
+| [[24 tháng 12]] || [[Giao thừa Giáng Sinh]] || ''Julafton'' || Bán chính thức
+|-
+| [[25 tháng 12]] || [[Lễ Giáng Sinh|Giáng Sinh]] || ''Juldagen''
+|-
+| [[26 tháng 12]] || [[Ngày tặng quà]] (''Boxing Day'') || ''Annandag jul''
+|-
+| [[31 tháng 12]] || [[Giao thừa dương lịch]] || ''Nyårsafton'' || Bán chính thức
+|-
+| Tất cả chủ nhật || || || Ngày nghỉ chính thức
+|}
+
+==Chú thích==
+{{Tham khảo}}
+ 
+==Tham khảo==
+
+== Xem thêm ==
+* [[Truyền thanh và truyền hình tại Thụy Điển]]
+* [[Danh sách các trường Đại học tại Thụy Điển]]
+* [[Quan hệ quốc tế của Thụy Điển]]
+* [[Quân đội Thụy Điển]]
+* [[Danh sách các cuộc chiến tranh của Thụy Điển]]
+* [[Viện Hàn lâm Hoàng gia Thụy Điển]]
+* [[Giao thông tại Thụy Điển]]
+* [[Danh sách các công ty Thụy Điển]]
+* [[Danh sách báo chí Thụy Điển]]
+
+== Liên kết ngoài ==
+{{thể loại Commons|Sweden}}
+* [http://www.sweden.gov.se/ Trang web chính thức của chính phủ Thụy Điển]
+* [http://www.riksdagen.se/Index_en.asp Trang web chính thức của Quốc hội Thụy Điển] -
+* [http://www.studyin.sweden.se/ Học tập và nghiên cứu tại Thụy Điển]
+* [http://www.visit-sweden.com/ Du lịch Thụy Điển]
+* [http://www.kingdom-of-sweden.com/ Sweden Info] - Kingdom of Sweden (ENG)
+* [http://www.cia.gov/cia/publications/factbook/geos/sw.html Sách tài liệu của CIA về Thụy Điển]
+* [http://www.state.gov/r/pa/ei/bgn/2880.htm Thông tin về Thụy Điển của Bộ Ngoại giao Mỹ]
+{{Châu Âu}}
+{{Liên Minh châu Âu}}
+{{Hội đồng Bắc Âu}}
+
+[[Thể loại:Thụy Điển| ]]
+[[Thể loại:Quân chủ lập hiến]]
+[[Thể loại:Quốc gia châu Âu]]
+[[Thể loại:Quốc gia thành viên Liên minh châu Âu]]
+[[Thể loại:Bắc Âu]]
+[[Thể loại:Các nền dân chủ tự do]]
+[[Thể loại:Quốc gia thành viên Ủy hội châu Âu]]
+[[Thể loại:Các quốc gia thành viên của Liên Hiệp Quốc]]

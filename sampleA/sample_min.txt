@@ -1,0 +1,226 @@
+==Nhiệm vụ và mục đích hoạt động==
+Bảo đảm, cổ vũ cho [[sự phát triển]], mở rộng và sử dụng Internet được thuận lợi nhất cho mọi người trên toàn [[thế giới]].
+
+==Xem thêm==
+*[[Internet#Lịch sử Internet|Lịch sử Internet]]
+
+==Tham khảo==
+{{tham khảo|2}}
+==Liên kết ngoài==
+*[http://www.isoc-vn.org/www/index-vn.html ISOC Việt Nam]
+*[http://www.internetsociety.org/ Trang chủ toàn cầu]
+*[http://www.internetsociety.org/internet/what-internet/history-internet/ietf-and-internet-society ''IETF and the Internet Society'' - Về Internet Engineering Task Force và ISOC], bài của [[Vint Cerf]] 18/6/1995
+*[http://cybercrime-fr.org/ L’Association Internationale de Lutte Contre la Cybercriminalité] [http://web.archive.org/web/20070313155506/http://www.ailcc.org/ bản lưu]
+*[http://www.pir.org/ Public Interest Registry]
+{{Sơ khai}}
+{{Authority control}}
+
+[[Thể loại:Internet]]
+[[Thể loại:Tổ chức quốc tế]]
+[[Thể loại:Tổ chức phi lợi nhuận]]
+[[Thể loại:Chuẩn Internet]]
+#redirect [[Internet Society]]
+{{Tóm tắt về ngôn ngữ|
+ name = Tiếng Việt |
+ familycolor = Nam Á |
+ pronunciation = tiəŋ₃₅ vḭət₃₁ (miền Bắc)<br />tiəŋ₃₅ jḭək₃₁ (miền Nam) |
+ map = [[Tập tin:Color-coded Vietnamese language distribution world map counting from 10,000 user or above vector.svg|300px|Phân bố tiếng Việt tại các nước trên thế giới]]|
+ states = [[Việt Nam]], các nước có [[Việt kiều]] sinh sống như [[Hoa Kỳ]], [[Campuchia]], [[Lào]], [[Pháp]], [[Úc]], [[Canada]], [[Đài Loan]], [[Cộng hoà Séc]] |
+ speakers= 90 triệu người trở lên |
+ script = [[Chữ Nôm]] (ngày nay không còn sử dụng) <br /> [[Chữ Quốc ngữ|Quốc ngữ]] (từ năm 1945 - nay) |
+ agency= |
+ rank = [[Danh sách ngôn ngữ theo tổng số người sử dụng|13–17]] (như tiếng mẹ đẻ); tương đương với [[tiếng Triều Tiên]], [[Tiếng Telugu|Telugu]], [[Tiếng Marathi|Marathi]] và [[Tiếng Tamil|Tamil]] |
+ fam1 = [[Hệ ngôn ngữ Nam Á|Hệ Nam Á]]<ref name="Tranh luận">Có người tranh luận là nhánh Việt-Mường là nhánh [[Ngôn ngữ tách biệt|tách biệt]], chứ không nằm ở dưới nhánh Môn-Khmer và hệ Nam Á, nhưng phân loại bên trên vẫn được công nhận thông thường.</ref> |
+ fam2 = [[Nhóm ngôn ngữ Môn-Khmer|Nhóm Môn-Khmer]]<ref name="Tranh luận" /> |
+ fam3 = [[Ngữ chi Việt|Nhánh Việt-Mường]] |
+ nation ={{Cờ|Việt Nam}} [[Việt Nam]]<ref>{{chú thích web|url=http://khoavanhoc-ngonngu.edu.vn/home/index.php?option=com_content&view=article&id=1422%3Ath-ng-ca-ting-vit-trong-thi-k-hi-nhp-quc-t-hin-nay&catid=71%3Angon-ng-hc&Itemid=107&lang=vi|title=Thế đứng của tiếng Việt trong thời kỳ hội nhập quốc tế hiện nay|accessdate=ngày 11 tháng 3 năm 2012}}</ref> <br />{{Cờ|Cộng hòa Séc}} [[Cộng hòa Séc]] (ngôn ngữ dân tộc thiểu số)<ref>http://zpravy.idnes.cz/vietnamci-oficialni-narodnostni-mensinou-fiq-/domaci.aspx?c=A130703_133019_domaci_jj</ref>|
+ iso1 = vi |
+ iso2 = vie |
+ iso3 = vie |
+ sil = VIE
+}}
+'''Tiếng Việt''', còn gọi '''tiếng Việt Nam'''<ref name="Tên khác">{{Chú thích sách|author=Lê Bá Khanh|coauthors=Lê Bá Kông|title=Vietnamese-English/English-Vietnamese Dictionary|origyear=1975|edition=lần in số 7|year=1998|publisher=Nhà xuất bản [[Hippocrene Books]]|location=[[Thành phố New York]] ([[Hoa Kỳ]])|language=tiếng Việt, Anh|id=ISBN 0-87052-924-2|page=315|quote='''Việt. — Nam''':... Tiếng — Nam: Vietnamese... Ông ấy có thể nói tiếng — Nam: He can speak Vietnamese.}}</ref> hay '''Việt ngữ''', là ngôn ngữ của người Việt (người [[Người Việt|Kinh]]) và là ngôn ngữ chính thức tại [[Việt Nam]]. Đây là tiếng mẹ đẻ của khoảng 85% dân cư Việt Nam, cùng với hơn bốn triệu [[việt kiều|người Việt hải ngoại]] Tiếng Việt còn là ngôn ngữ thứ hai của các [[dân tộc thiểu số]] tại Việt Nam. Mặc dù tiếng Việt có một số [[từ vựng]] vay mượn từ [[tiếng Trung Quốc|tiếng Hán]] và trước đây dùng [[chữ Hán]] để viết, sau đó được cải biên thành [[chữ Nôm]], tiếng Việt được coi là một trong số các ngôn ngữ thuộc [[hệ ngôn ngữ Nam Á]] có số người nói nhiều nhất (nhiều hơn một số lần<!-- số người sử dụng tiếng Khmer còn tranh cãi --> so với các ngôn ngữ khác cùng hệ cộng lại). Ngày nay tiếng Việt dùng [[bảng chữ cái Latinh]], gọi là [[chữ Quốc ngữ]], cùng các dấu thanh để viết.
+
+[[Tổ chức tiêu chuẩn hóa quốc tế]] đặt mã hai chữ cái cho tiếng Việt là "vi" <ref name="ISO 639-2">[http://www.loc.gov/standards/iso639-2/php/code_list.php Codes for the Representation of Names of Languages]</ref> (tiêu chuẩn [[ISO 639-1]]) và đặt mã ba chữ cái cho tiếng Việt là "vie" <ref name="ISO 639-3">[http://www.ethnologue.com/show_language.asp?code=vie Ethnologue report for language code: vie<!-- Bot generated title -->]</ref> (tiêu chuẩn [[ISO 639-2]]).
+
+Tiếng Việt được chính thức ghi nhận trong hiến pháp là ngôn ngữ quốc gia của Việt Nam.<ref name=hp13>{{chú thích web|title=Hiến pháp năm 2013|url=http://datafile.chinhphu.vn/file-remote-v2/DownloadServlet?filePath=vbpq/2013/12/HP.pdf|publisher=Quốc hội Việt Nam|accessdate = ngày 1 tháng 5 năm 2014}}</ref> Tiếng Việt bao gồm cách phát âm tiếng Việt và chữ Quốc ngữ để viết. Tuy nhiên, "chưa có bất kỳ văn bản nào của Nhà nước (cấp quốc gia) công nhận đó là quốc tự..."<ref>[http://giaoduc.net.vn/Xa-hoi/Chu-quoc-ngu-chua-duoc-Nha-nuoc-cong-nhan-la-quoc-tu/261984.gd "Chữ quốc ngữ chưa được Nhà nước công nhận là quốc tự"], Giáo dục VN, 22/12/2012</ref>
+
+Cũng cần lưu ý tránh nhầm lẫn với ''Việt ngữ'' (粵語), là ngôn ngữ được sử dụng ở miền nam [[Trung Quốc]] ([[Quảng Đông]], [[Quảng Tây]]) cũng như ở [[Hồng Kông]], [[Ma Cao]] mà ta gọi là [[tiếng Quảng Đông]].
+
+== Xếp loại ==
+Với những cơ sở khoa học gần đây được đa số các [[nhà ngôn ngữ học]] thừa nhận, tiếng Việt thuộc [[hệ ngôn ngữ Nam Á|hệ Nam Á]] ở khu vực [[Đông Nam Á]] hiện nay, có quan hệ gần gũi với [[tiếng Mường]]. Xa hơn là các thứ tiếng thuộc [[nhóm ngôn ngữ Môn-Khmer]].
+
+Những ngôn ngữ này có chung một số từ vựng căn bản. Thí dụ, từ ''tay'' trong tiếng Việt tương đương trong tiếng Mường là ''thay'', trong tiếng Khmer là ''đay'' và trong [[tiếng Môn]] là ''tai''.
+
+== Lịch sử ==
+Tiếng Việt là ngôn ngữ có nguồn gốc bản địa, xuất thân từ nền [[văn minh nông nghiệp]], tại nơi mà ngày nay là khu vực phía bắc lưu vực [[sông Hồng]] và [[sông Mã]] của [[Việt Nam]].
+
+Theo [[André-Georges Haudricourt|A. G. Haudricourt]] giải thích từ năm [[1954]], nhóm ngôn ngữ Việt-Mường ở thời kỳ khoảng đầu [[Công Nguyên|Công nguyên]] là những ngôn ngữ hay phương ngữ không [[thanh điệu]]. Về sau, qua quá trình giao thoa với Hoa ngữ và nhất là với các ngữ thuộc ngữ hệ Tai-Kadai vốn có hệ thống thanh điệu phát triển cao, hệ thống thanh điệu trong tiếng Việt xuất hiện và có diện mạo như ngày nay, theo quy luật hình thành thanh điệu. Sự xuất hiện các thanh điệu, bắt đầu khoảng [[thế kỷ 6|thế kỷ thứ 6]] ([[bắc thuộc|thời kỳ Bắc thuộc]] trong [[lịch sử Việt Nam]]) với ba thanh điệu và phát triển ổn định vào khoảng [[thế kỷ 12]] ([[nhà Lý]]) với 6 thanh điệu. Sau đó một số phụ âm đầu biến đổi cho tới ngày nay. Trong quá trình biến đổi, các phụ âm cuối rụng đi làm thay đổi các kết thúc âm tiết và [[phụ âm]] đầu chuyển từ lẫn lộn [[phụ âm vô thanh|vô thanh]] với [[phụ âm hữu thanh|hữu thanh]] sang tách biệt.
+
+Ví dụ<ref name="Âm vị tiếng Việt">[http://ngonngu.net/index.php?p=64 Âm vị và các hệ thống âm vị tiếng Việt]</ref> của A.G. Haudricourt.
+{| class=wikitable
+|-
+! Đầu Công nguyên <br />(không thanh)!!Thế kỉ 6 <br />(ba thanh)!!	Thế kỉ 12 <br />(sáu thanh)!! Ngày nay
+|-
+|pa||pa||pa||ba
+|-
+|sla, hla||hla||la||la
+|-
+|ba||ba||pà||bà
+|-
+|la||la||là||là
+|-
+|pas, pah||pà||pả||bả
+|-
+|slas, hlah||hlà||lả||lả
+|-
+|bas, bah||bà||pã||bã
+|-
+|las, lah||là||lã||lã
+|-
+|pax, paʔ||pá||pá ||bá
+|-
+|slax, hlaʔ||hlá||lá||lá
+|-
+|bax, baʔ||bá||pạ ||bạ
+|-
+|lax, laʔ||lá||lạ||lạ
+|}
+
+=== Nguồn gốc bản địa ===
+{{mở rộng}}
+
+=== Ảnh hưởng từ Trung Hoa ===
+Tiếng Việt là ngôn ngữ dùng trong sinh hoạt giao tiếp của dân thường từ khi lập quốc. Có 6 âm sắc chính là: ngang, sắc, huyền, hỏi, ngã, nặng. Giai đoạn từ đầu công nguyên, tiếng Việt có rất nhiều âm mà không có trong tiếng Trung Hoa. Bắt đầu từ khi [[Trung Quốc]] có ảnh hưởng tới Việt Nam thông qua nhiều con đường và bao gồm nhiều giai đoạn khác nhau, tiếng Việt bắt đầu có những âm được vay mượn từ tiếng Hán. Các tác giả Mai Ngọc Chừ, Vũ Đức Nghiệu và Hoàng Trọng Phiến trong cuốn sách [[Cơ sở ngôn ngữ học và tiếng Việt]] chia quá trình tiếp xúc Hán – Việt thành hai giai đoạn lớn: một là giai đoạn từ đầu công nguyên đến đầu đời [[nhà Đường]] (đầu thế kỉ 8), từ vựng tiếng Hán ảnh hưởng tới tiếng Việt trong giai đoạn này gọi là [[từ Hán cổ]]; hai là giai đoạn từ đời Đường (thế kỉ 8 – thế kỉ 10) trở về sau, từ vựng tiếng Hán ảnh hưởng tới tiếng Việt trong giai đoạn này gọi là [[từ Hán Việt]]. Từ Hán cổ và từ Hán Việt được gọi chung là [[từ gốc Hán]].
+
+Một số  từ ngữ Hán cổ có thể kể đến như "đầu", "gan", "ghế", "ông", "bà", "cô", "chè", "ngà", "chén", "chém", "chìm", "buồng", "buồn", "buồm", "mùi", "mùa"... Từ Hán cổ là những từ gốc Hán được du nhập vào tiếng Việt đã lâu, đã được [[đồng hoá]] rất mạnh, nên những từ này hiện nay nói chung không còn xa lạ đối với người Việt nữa.
+
+Hệ thống [[Từ Hán-Việt|Hán-Việt]] trong tiếng Việt bằng cách đọc các [[chữ Hán]] theo ngữ âm hiện có của tiếng Việt (tương tự như [[người Nhật|người Nhật Bản]] áp dụng [[kanji]] đối với chữ Hán và [[katakana]] với các tiếng nước ngoài khác. Hiện nay có 1945 chữ Hán thông dụng trong tiếng Nhật, cũng có khoảng 2000 [[Hanja|từ Hán-Hàn]] thông dụng). Số lượng từ vựng tiếng Việt có thêm hàng loạt các yếu tố Hán-Việt. Như là "chủ", "ở", "tâm", "minh", "đức", "thiên", "tự do"... giữ nguyên nghĩa chỉ khác cách đọc; hay thay đổi vị trí như "nhiệt náo" thành "náo nhiệt", "thích phóng" thành "phóng thích", "đảm bảo" thành "bảo đảm"...; hoặc được rút gọn như "thừa trần" thành "trần" (trong ''trần nhà''), "lạc hoa sinh" thành "lạc" (trong ''củ lạc'', còn gọi là ''đậu phộng'')...; hoặc được đọc chệch đi như "tiếp thu" thành "tiếp thụ", "tháp nhập" thành "sát nhập", "thống kế" thành "thống kê", "chúng cư" thành "chung cư", "vãn cảnh" thành "vãng cảnh", "khuyến mãi" thành "khuyến mại"...; hay đổi khác nghĩa hoàn toàn như "phương phi" trong [[tiếng Trung Quốc|tiếng Hán]] có nghĩa là "hoa cỏ thơm tho" thì trong tiếng Việt lại là "béo tốt", "bồi hồi" trong tiếng Hán nghĩa là "đi đi lại lại" sang tiếng Việt thành "bồn chồn, xúc động"...Mặt khác người Trung Quốc gọi là [[Thái Sơn]], [[Hoàng Hà]], cổ thụ...thì người Việt lại đọc là [[núi Thái Sơn]], [[sông Hoàng Hà]], cây cổ thụ (mặc dù sơn = núi, hà = sông, thụ = cây)...Do [[tính quy ước của ngôn ngữ]] mà ít nhiều các cách đọc sai khác với tiếng Hán vẫn được chấp nhận và sử dụng rộng rãi, trong khi các nhà nghiên cứu ngôn ngữ tiếng Việt hiện nay cũng như các cơ quan, các cấp quản lí, tổ chức xã hội - nghề nghiệp lẫn các nhà khoa học Việt Nam chưa tìm được tiếng nói chung trong việc chuẩn hoá cách sử dụng tên riêng và từ vựng mượn từ tiếng nước ngoài.<ref name="tiengviet1">[http://www.khoahocviet.info/meresci/vi/meresci05c2.html Thuật ngữ và tên riêng tiếng nước ngoài, Nguyễn Văn Khang (2003), http://www.khoahocviet.info/] Truy cập ngày 8 tháng 1 năm 2015</ref>. Bên cạnh đó, cũng có những từ được cho là dùng sai và khó chấp nhận như, “[[quan ngại]]” được dùng và hiểu như “lo ngại”, “vấn nạn” được hiểu là “vấn đề nan giải”, “vô hình trung” thì viết thành “vô hình chung” hay “vô hình dung”, “việt dã” bị hiểu là “chạy dài”; “trứ tác” được dùng như “sáng tác”<ref name="tiengviet2"/>, “[[phong thanh]]” được dùng như “[[phong phanh]]", “[[bàng quan]]” được dùng như “[[bàng quang]]”, “[[đào ngũ]]” được dùng là “đảo ngũ”,"[[tham quan]]" thành "thăm quan", "[[xán lạn]]" thành "sáng lạng"…
+
+Đặc biệt là các yếu tố Hán-Việt được sử dụng để tạo nên những từ ngữ đặc trưng chỉ có trong tiếng Việt, không có trong tiếng Hán như là các từ "sĩ diện", "phi công" (dùng 2 yếu tố Hán-Việt) hay "bao gồm", "sống động", "sinh đẻ" (một yếu tố Hán kết hợp với một yếu tố thuần Việt). Nói chung tỉ lệ vay mượn tiếng Hán trong tiếng Việt rất lớn. Theo ước lượng của các [[nhà nghiên cứu]], từ Hán Việt chiếm khoảng trên dưới 70% vốn từ trong phong cách [[chính luận]], [[khoa học]] ([[Maspéro]] thì cho rằng, chúng chiếm tới hơn 60% lượng từ tiếng Việt)<ref name="tiengviet1"/><ref name="tiengviet2">[http://vns.hnue.edu.vn/?page=service_detail&TID=273 VÀI NÉT VỀ TÌNH HÌNH NGHIÊN CỨU TỪ HÁN VIỆT VÀ VIỆC DẠY – HỌC TỪ HÁN VIỆT HIỆN NAY] Khoa Việt Nam học, Đại học sư phạm Hà Nội. Truy cập ngày 18 tháng 1 năm 2015</ref>. Tác giả [[Lê Nguyễn Lưu]] trong cuốn sách ''Từ chữ Hán đến chữ Nôm'' thì cho rằng, về lĩnh vực chuyên môn và khoa học tỉ lệ này có thể lên đến 80%, nhưng khi nhận xét về văn ngữ trong một cuốn tiểu thuyết thì chỉ còn 12,8%, kịch nói rút xuống còn 8,9%, và ngôn ngữ nói chuyện hằng ngày còn thấp hơn nữa.<ref name="chữ">Lê Nguyễn Lưu, ''Từ chữ Hán đến chữ Nôm''. Huế: nxb Thuận Hóa, 2002. tr 202-210</ref>. Dù ở tỷ lệ nào đi nữa đại đa số những từ đó đều đã được Việt hóa cho phù hợp với nhận thức của người Việt. Tiếng Việt gọi là "thủ tướng" nhưng tiếng Hoa là "tổng lý"; tiếng Việt là "truyền hình" thì tiếng Hoa là "điện thị"; tiếng Việt là "thành phố" thì tiếng Hoa là "đô thị". Những chữ thủ tướng, truyền hình, thành phố hoàn toàn là Hán Việt nhưng người Hoa tuyệt nhiên không dùng. Do vậy tiếng Việt dù vay mượn tiếng Hán nhưng giữ được bản sắc riêng của mình trước ảnh hưởng của văn hóa Hán, trong khi lợi dụng được những thành tựu ngôn ngữ trong tiếng Hán để tự cải tiến mình.
+
+Kể từ đầu [[thế kỷ 11|thế kỷ thứ 11]], Nho học phát triển, việc học văn tự [[chữ Hán|chữ Nho]] được đẩy mạnh, tầng lớp trí thức được mở rộng tạo tiền đề cho một nền văn chương của người Việt bằng chữ Nho cực kỳ phát triển với cái áng văn thư nổi tiếng như [[Nam quốc sơn hà]] bên [[sông Cầu|sông Như Nguyệt]] (sông Cầu).
+
+Cùng thời gian này, một hệ thống chữ viết được xây dựng riêng cho người Việt theo nguyên tắc ghi âm tiết được phát triển, và đó chính là [[chữ Nôm]]. Để tiện cho việc học [[chữ Hán]] và [[chữ Nôm]] của người Việt, [[Ngô Thì Nhậm]] (1746-1803) đã biên soạn cuốn sách [[Tam thiên tự giải âm]] (còn gọi là [[Tam thiên tự]], [[Tự học toản yếu]]). ''Tam thiên tự giải âm'' chỉ lược dạy 3000 chữ Hán, Nôm thông thường, đáp ứng nhu cầu cần thiết, nhớ chữ, nhớ nghĩa từng chữ, mỗi câu bốn chữ. Hiệp vần cũng có điểm đặc biệt, tức là [[vần lưng]] (yêu vận, vần giữa câu). Tiếng thứ tư câu đầu hiệp với tiếng thứ hai câu dưới, rồi cứ thế mãi đến 3000 chữ, 750 câu. Ví dụ: Thiên- trời, địa - đất, cử - cất, tồn - còn, tử - con, tôn - cháu, lục - sáu, tam -ba, gia - nhà, quốc - nước, tiền - trước, hậu - sau, ngưu - trâu, mã - ngựa, cự - cựa, nha - răng, vô - chăng, hữu - có, khuyển - chó, dương - dê v.v...[[Trần Văn Giáp]] đánh giá đây tuy chỉ là quyển sách dạy học vỡ lòng về chữ Hán, như lời tác giả đã nói, nhưng thực ra cũng có thể coi nó chính là sách [[tự điển Hán Việt]] thông thường và phổ biến ở cuối [[thế kỷ XVIII]], cùng thời với các sách [[Chỉ nam ngọc âm]], [[Chỉ nam bị loại]], và xuất hiện trước các sách [[Nhật dụng thường đàm]], [[Thiên tự văn]] và [[Đại Nam quốc ngữ]].<ref>[http://hannom.vass.gov.vn/noidung/TapChi/Pages/baiviet.aspx?ItemID=102 Về cuốn Tam thiên tự do Ngô Thì Nhậm soạn, HOÀNG HỒNG CẨM] Tạp chí Hán Nôm, Số 1 (80) 2007; Tr.18-26</ref> Nhờ có chữ Nôm, văn học Việt Nam đã có những bước phát triển rực rỡ nhất, đạt đỉnh cao với ''[[Truyện Kiều]]'' của [[Nguyễn Du]] (1765-1820). Tiếng Việt, được thể hiện bằng chữ Nôm ở những thời kỳ sau này về cơ bản rất gần với tiếng Việt ngày nay. Tuy hầu hết mọi người Việt đều có thể nghe và hiểu văn bản bằng chữ Nôm, chỉ những người có học chữ Nôm mới có thể đọc và viết được chữ Nôm.
+
+Chữ Nôm được chính thức dùng trong hành chính khi vua [[Nguyễn Huệ|Quang Trung]] lên ngôi vào năm [[1789]].
+
+=== Ảnh hưởng từ châu Âu ===
+Kể từ khi [[Pháp]] xâm lược Việt Nam vào nửa cuối [[thế kỷ 19|thế kỷ thứ 19]], [[tiếng Pháp]] dần dần thay thế vị trí của [[chữ Hán|chữ Nho]] như là ngôn ngữ chính thức trong [[giáo dục]], [[hành chính]] và [[ngoại giao]]. [[Chữ Quốc ngữ]], vốn được tạo ra bởi một số nhà truyền giáo [[châu Âu]], đặc biệt là hai [[tu sĩ]] người Bồ Đào Nha [[Gaspar do Amaral]] và [[Antonio Barbosa]], với mục đích dùng [[bảng chữ cái Latinh|ký tự Latinh]] để biểu hiện tiếng Việt, ngày càng được phổ biến, đồng thời chịu ảnh hưởng bởi những thuật ngữ, từ ngữ mới của ngôn ngữ Tây phương (chủ yếu là từ [[tiếng Pháp]]<ref>[http://ngonngu.net/index.php?m=print&p=193 Phân lớp từ ngữ theo nguồn gốc, Các từ ngữ gốc Ấn-Âu] Theo Mai Ngọc Chừ; Vũ Đức Nghiệu & Hoàng Trọng Phiến. Cơ sở ngôn ngữ học và tiếng Việt. Nhà xuất bản Giáo dục, H., 1997, trang 213–219.</ref>) như ''phanh'', ''lốp'', ''găng'', ''pê đan''... và [[tiếng Trung Quốc|tiếng Hán]] như ''chính đảng'', ''kinh tế'', ''giai cấp'', ''bán kính''... Tờ ''[[Gia Định báo]]'' là tờ báo đầu tiên được phát hành bằng chữ Quốc Ngữ vào năm [[1865]], khẳng định sự phát triển và xu hướng của chữ Quốc Ngữ như là chữ viết chính thức của nước Việt Nam độc lập sau này.
+
+=== Thời kỳ [[1945]] cho đến nay ===
+[[Chữ Quốc ngữ]] là chữ ghi âm, chỉ sử dụng 27 ký tự Latin và 6 dấu thanh, đơn giản, tiện lợi và có tính khoa học cao, dễ học, dễ nhớ, thông dụng; thay thế hoàn toàn [[tiếng Pháp]] và [[tiếng Trung Quốc|tiếng Hán]] vốn khó đọc, khó nhớ, không thông dụng với [[người Việt]].
+
+Trong thời kỳ [[chiến tranh Việt Nam]], sự phát triển tiếng Việt giữa [[Bắc Bộ Việt Nam|miền Bắc]] và [[Nam Bộ Việt Nam|miền Nam]] có chiều hướng khác nhau. Vì các lý do [[chính trị]] và [[kinh tế]], chính quyền [[Việt Nam Dân chủ Cộng hòa]] có mối quan hệ gần gũi với [[Trung Quốc]], và sự hiện diện của các chuyên viên nhân sự Trung Quốc đưa nhiều từ [[Bạch Thoại]] (ngôn ngữ nói của Trung Quốc) vào ngữ vựng tiếng Việt{{cần chú thích}}. Những từ này thường có gốc [[Từ Hán-Việt|Hán-Việt]], nhưng thường đổi ngược thứ tự hay có nghĩa mới. Tại miền Nam, sự hiện diện của quân đội [[Hoa Kỳ]] đã đem một số từ [[tiếng Anh]] vào ngôn ngữ giao tiếp hằng ngày{{cần chú thích}}.
+
+Tuy nhiên, trong giai đoạn [[Chiến tranh Việt Nam]] thì ở miền Bắc có xu hướng sử dụng [[từ thuần Việt]] và ở miền Nam lại có khuynh hướng sử dụng từ [[Từ Hán-Việt|Hán-Việt]]. Ví dụ như miền Nam vẫn giữ tên "Ngân hàng Quốc gia" trong khi miền Bắc đổi thành "Ngân hàng Nhà nước" ([[1960]]), miền Nam lại gọi là "phi trường" thì miền Bắc gọi là "sân bay", miền Nam gọi là "Ngũ Giác Đài" thì miền Bắc gọi là "Lầu Năm Góc", miền Nam gọi là "Đệ nhất Thế chiến" thì miền Bắc kiên quyết gọi là "Chiến tranh thế giới lần thứ nhất", miền Nam gọi là "hỏa tiễn" thì miền Bắc lại gọi là "tên lửa",{{Cần chú thích}}, miền Nam vẫn gọi là "thủy quân lục chiến" còn miền Bắc lại đổi thành "lính thủy đánh bộ"... Ngược lại danh từ miền Bắc như "[[tham quan]]", "sự cố", "nhất trí", "đăng ký", "đột xuất", "vô tư" v.v. thì miền Nam dùng những chữ "thăm viếng", "trở ngại/trục trặc", "đồng lòng", "ghi tên", "bất ngờ", "thoải mái"... Các từ có gốc [[Thế giới phương Tây|phương Tây]], miền Nam có khuynh hướng biến đổi thành từ Hán Việt, như [[Iceland|Băng đảo]], [[Úc|Úc Đại Lợi]], [[Hungary|Hung Gia Lợi]] còn miền Bắc có khuynh hướng phiên âm ra thành Ai-xơ-len, Ô-xtrây-li-a, Hung-ga-ri...
+
+Sau khi [[Việt Nam]] thống nhất vào năm [[1975]], quan hệ [[Bắc Bộ Việt Nam|Bắc]] [[Miền Nam (Việt Nam)|Nam]] được kết nối lại. Gần đây, sự phổ biến của các phương tiện truyền thanh và truyền hình trên toàn quốc đã làm tiếng Việt được chuẩn hóa một phần nào. Nhiều từ [[thuần Việt]] được sử dụng phổ biến thay cho từ Hán Việt, cũng như với sự tiến triển của [[internet]] và [[toàn cầu hóa]], ảnh hưởng của [[tiếng Anh]] ngày càng lớn trên báo chí và đội ngũ phóng viên, nhiều từ nước ngoài được đưa vào tiếng Việt thiếu chọn lọc, viết nguyên bản theo ngôn ngữ nước ngoài...
+
+== Phân bố ==
+Tiếng Việt là ngôn ngữ chính thức tại Việt Nam, và cũng là ngôn ngữ phổ thông đối với các dân tộc thiểu số tại Việt Nam. Thêm vào đó, tiếng Việt được hơn 1 triệu người sử dụng tại [[Hoa Kỳ]] (đứng thứ 7 [[Hoa Kỳ|toàn quốc]], thứ 3 tại [[Texas]], thứ 4 tại [[Arkansas]] và [[Louisiana]] và thứ 5 tại [[California]]), cũng như trên 100.000 người tại [[Canada]] và [[Úc]] (đứng thứ 6 toàn quốc).
+
+Theo [[Ethnologue]]<ref name="ISO 639-3" />, tiếng Việt còn được nhiều người sử dụng tại [[Vương quốc Liên hiệp Anh và Bắc Ireland|Anh]], [[Ba Lan]], [[Campuchia]], [[Bờ Biển Ngà|Côte d'Ivoire]], [[Đức]], [[Hà Lan]], [[Lào]], [[Na Uy]], [[Nouvelle-Calédonie]], [[Phần Lan]], [[Pháp]], [[Philippines]], [[Cộng hòa Séc]], [[Sénégal]], [[Thái Lan]], [[Trung Quốc]] và [[Vanuatu]]. Tiếng Việt cũng còn được dùng bởi những người Việt sống tại [[Đài Loan]], [[Nga]]...
+
+Ngoài ra Tiếng Việt cũng được công nhận là ngôn ngữ dân tộc thiểu số tại [[Cộng hòa Séc]] vì người Việt được công nhận là dân tộc thiểu số tại Séc<ref>[http://baodatviet.vn/chinh-tri-xa-hoi/201307/nguoi-viet-duoc-cong-nhan-la-dan-toc-thieu-so-tai-sec-2349915/]</ref>.
+== Tiếng địa phương ==
+{{chính|Phương ngữ|Phương ngữ tiếng Việt}}
+Tiếng Việt có sự thay đổi trong giọng nói từ Bắc vào Nam, không đột ngột mà ''tiệm tiến'' dần theo từng vùng liền nhau. Trong đó, giọng Bắc [[Hà Nội]], giọng Trung [[Huế]] và giọng Nam [[Thành phố Hồ Chí Minh|Sài Gòn]] là ba phân loại chính. Những tiếng địa phương này khác nhau ở giọng điệu và từ địa phương. Thanh ngã và thanh hỏi ở miền Bắc rõ hơn ở miền Nam và Trung. Miền Bắc sử dụng một số phụ âm (tr, ch, n, l...) khác với miền Nam và Trung. Giọng Huế khó hiểu hơn những giọng khác vì có nhiều [[từ địa phương]]. Theo trang thông tin của Đại sứ quán Việt Nam tại Trung Quốc<ref name="ĐSQ">{{chú thích web| url = http://www.vnemba.org.cn/vnemb.china/zh/nr050708132637/nr050727110709| title = 越南ABC| accessdate = ngày 22 tháng 11 năm 2011 | publisher = Trang thông tin Đại sứ quán Việt Nam tại Trung Quốc| language = tiếng Trung}}</ref> và học giả Laurence Thompson<ref>{{chú thích sách|last=Thompson|first=Laurence|title=A Vietnamese Reference Grammar|publisher=University of Hawaii Press|year=1987|isbn=0824811178|pages=3|url=http://books.google.com/books?id=XN7SHNeZ_ksC&pg=PA3&dq=vietnamese+standard+pronunciation&ei=ZbghSbanPI_QkwTrwo3xBg#PPA3,M1}}</ref> thì cách đọc tiêu chuẩn hiện nay được dựa vào giọng Hà Nội. [[Từ điển Việt-Bồ-La]] (1651) của [[Alexandre de Rhodes]] lấy tiếng miền Bắc làm nền tảng, Dictionarium Anamitico Latinum (1772-1773) của Pierre Pigneaux de Béhaine lấy tiếng miền Nam làm nền tảng.<ref>[http://www.vienngonnguhoc.gov.vn/?act=News&do=Detail&nid=101 GIA GIA, DA DA hay ĐA ĐA?]</ref>
+
+{| class=wikitable
+|-
+! Giọng chuẩn!! Nơi sử dụng
+|-
+| Giọng miền Bắc
+| [[Hà Nội]]
+|-
+| Giọng miền Trung
+| [[Huế]]
+|-
+| Giọng miền Nam
+| [[Thành phố Hồ Chí Minh]] (Sài Gòn)
+|-
+! Giọng địa phương!! Nơi thể hiện rõ nét
+|-
+| Giọng Đông Bắc
+| [[Quảng Ninh]], [[Hải Phòng]], [[Thái Bình]], [[Nam Định]]
+|-
+|Giọng Hà Thành
+|[[Hà Nội]] và vùng phụ cận
+|-
+| Giọng Thanh Hóa
+| [[Thanh Hóa]]
+|-
+| Giọng Nghệ-Tĩnh
+| [[Nghệ An]], [[Hà Tĩnh]]
+|-
+| Giọng Bình-Trị-Thiên
+| [[Quảng Bình]], [[Quảng Trị]], [[Thừa Thiên - Huế]]
+|-
+| Giọng Quảng
+| [[Quảng Nam]], [[Đà Nẵng]], [[Quảng Ngãi]]
+|-
+| Giọng Nẫu
+| [[Bình Định]], [[Phú Yên]]
+|-
+| Giọng Nam Trung Bộ
+|[[Khánh Hòa]], [[Ninh Thuận]], [[Bình Thuận]], [[Lâm Đồng]]
+|-
+| Giọng Đông Nam Bộ
+|Các tỉnh [[Đông Nam Bộ]]
+|-
+| Giọng miền Tây
+| Các tỉnh [[Đồng bằng sông Cửu Long]]
+|-
+| Giọng dân tộc thiểu số{{fact|date=7-2014}}
+| Các tỉnh [[Vùng Tây Bắc (Việt Nam)|Tây Bắc]], [[Tây Nguyên]]
+|}
+
+{| class="wikitable" style="text-align: center;"
+|+ {{Anchor|Sự khác biệt trong giọng các vùng miền}}Đặc trưng trong giọng các vùng miền
+! Miền Bắc!! Miền Trung!! Miền Nam
+|-
+| ''này'' || ''ni'', ''nì'' || ''nầy''
+|-
+| ''thế này'' || ''ri nè'' || ''vầy'', ''như vầy''
+|-
+| ''ấy'' || ''nớ'', ''tê'' || ''đó''
+|-
+| ''thế'', ''thế ấy'' || ''rứa'', ''rứa tề'', ''rứa đó'' || ''vậy'', ''vậy đó''
+|-
+| ''kia'' || ''tê'' || ''đó''
+|-
+| ''kìa'' || ''tề'' || ''đó''
+|-
+| ''đâu'' || ''mô'' || ''đâu''
+|-
+| ''nào'' || ''mồ'' || ''nào''
+|-
+| ''sao'', ''thế nào'' || ''răng'' || ''sao''
+|-
+| ''tôi'' || ''tui'' || ''tui''
+|-
+| ''tao'' || ''tau'' || ''tao''
+|-
+| ''chúng tôi'' || ''bọn tui'' || ''tụi tui''
+|-
+| ''chúng tao'' || ''bọn tau'' || ''tụi tao''
+|-
+| ''mày'' || ''mi'' || ''mầy''
+|-
+| ''chúng mày'' || ''bây'', ''bọn bây'' || ''tụi mầy''
+|-
+| ''nó'' || ''hắn'' || ''nó''
+|-
+| ''chúng nó'' || ''bọn hắn'' || ''tụi nó''
+|-
+| ''ông ấy'' || ''ông nớ'' || ''ổng''
+|-
+| ''bà ấy'' || ''bà nớ'' || ''bả''
+|-
+| ''cô ấy'' || ''dì nớ'' || ''cổ''
+|-
+| ''chị ấy'' || ''chị nớ'' || ''chỉ''
+|-
+| ''anh ấy'' || ''anh nớ'' || ''ảnh''
+|}
